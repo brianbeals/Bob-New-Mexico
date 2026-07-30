@@ -1,0 +1,253 @@
+Quarterly Economic Summary
+Catron County
+Released: January 2026                                                         Prepared by: Daye Kwon & Austin Anaya, Senior Economists
+
+
+           Chart 1. Matched Taxable Gross Receipts Per
+                            Quarter                                                                     In the first quarter of FY26, 25 out of
+  $30,000,000                                                                                           33 counties reported positive year-
+                                                                                                        over-year (YOY) economic growth
+  $25,000,000       Dec
+                                                   Sep                                                  compared to Q1 FY25, with a
+  $20,000,000                                                Dec                                        statewide 5.8% increase in matched
+                              Mar                                                          Sep
+                    Nov
+                                                                                                        taxable gross receipts (MTGR).
+  $15,000,000                                                          Mar
+                                         Jun       Aug       Nov                                        Growth was observed across most
+                               Feb                                                Jun
+  $10,000,000                                                                              Aug          industry sectors, led by construction.
+                                                                       Feb
+                                        May                                       May                   In Q4 FY 25, employment and average
+   $5,000,000        Oct       Jan                 Jul       Oct
+                                                                        Jan                 Jul         wages in New Mexico increased YOY,
+                                         Apr                                      Apr
+            $0                                                                                          while the number of establishments
+                   FY24 -    FY24 -    FY24 -    FY25 -     FY25 -    FY25 -     FY25 -   FY26 -
+                    Q2        Q3        Q4        Q1         Q2        Q3         Q4       Q1
+                                                                                                        declined.
+ Source: NM TRD - Monthly Local Government Distribution Reports (RP-500)
+ Catron County’s MTGR
+ increased by nearly $5.5M,                              Chart 2. FY26 - Q1 Industry Size by Matched Taxable
+ or 34.7%, from Q4 FY25 to                                                  Gross Receipts
+ Q1 FY26, as seen in Chart 1.
+ This follows the pattern in                                       Real Estate and                  Other Industries,
+ which MTGR declines over                                            Rental and                           12%
+                                                                    Leasing, 3%
+ the course of the fiscal year
+ and then rises sharply in the
+ first quarter. As seen in Chart            Professional, Scientific, and
+ 2, the largest industries as a               Technical Services, 3%
+ percentage of MTGR were
+ the construction and retail              Information, 4%                                                               Construction, 23%
+ trade industries, which each
+ accounted for 23% of the
+ total MTGR during Q1 FY26.
+ Last quarter, retail trade was            Accommodation
+ the largest at 29%.                      and Food Services,
+                                                 5%
+
+ Matched Taxable Gross
+ Receipts (MTGR) provide                                                                                                   Retail Trade, 23%
+ the most accurate tax data               Manufacturing, 5%
+ for assessing underlying
+ economic activity. The data                                   Utilities, 5%
+ collection process involves
+                                                                                  Agriculture,     Other Services
+ matching tax payments with
+                                                                                Forestry, Fishing, (except Public
+ reported receipts for each                                                     and Hunting, 7% Administration),
+ taxpayer by industry.                                                                                  8%
+                                            Source: NM TRD - Monthly Local Government Distribution Reports (RP-500)
+
+
+SOURCE LINKS: NEW MEXICO TAXATION AND REVENUE DEPT (NM TRD), NEW
+MEXICO DEPARTMENT OF WORKFORCE SOLUTIONS (NM DWS), U.S. BUREAU                                                                                 1
+OF ECONOMIC ANALYSIS (BEA), U.S. CENSUS BUREAU
+Quarterly Economic Summary
+Catron County
+                                              Table 1. Matched Taxable Gross Receipts by Industry
+                                Industries                                         FY25 - Q1             FY26 - Q1           Growth        Year over year Change
+Accommodation and Food Services                                                $      1,315,842      $      1,036,245    $       (279,597)                  -21%
+Administrative/Support & Waste Management/Remediation                          $          90,501     $          76,463   $        (14,039)                  -16%
+Agriculture, Forestry, Fishing, and Hunting                                    $      1,609,141      $      1,466,747    $       (142,394)                   -9%
+Arts, Entertainment, and Recreation                                            $        778,702      $        641,363    $       (137,340)                  -18%
+Construction                                                                   $     11,939,496      $      4,785,432    $     (7,154,064)                  -60%
+Educational Services                                                           $          33,976     $          38,458   $          4,482                    13%
+Finance and Insurance                                                          $          22,674     $          29,239   $          6,566                    29%
+Health Care and Social Assistance                                              $        347,618      $        400,270    $         52,651                    15%
+Information                                                                    $        859,508      $        824,225    $        (35,283)                   -4%
+Management of Companies and Enterprises                                        $             -       $          21,709   $         21,709 N/A
+Manufacturing                                                                  $        689,818      $      1,080,439    $        390,621                    57%
+Mining, Quarrying, and Oil and Gas Extraction                                  $             -       $        113,170    $        113,170 N/A
+Other Services (except Public Administration)                                  $      1,148,755      $      1,615,124    $        466,369                    41%
+Professional, Scientific, and Technical Services                               $      1,014,371      $        703,359    $       (311,012)                  -31%
+Public Administration                                                          $          14,481     $             -     $        (14,481)                 -100%
+Real Estate and Rental and Leasing                                             $        707,872      $        692,312    $        (15,559)                   -2%
+Retail Trade                                                                   $      4,701,814      $      4,690,908    $        (10,906)                    0%
+Transportation and Warehousing                                                 $          79,690     $          77,604   $         (2,086)                   -3%
+Unclassified Establishments                                                    $        597,845      $        523,033    $        (74,812)                  -13%
+Utilities                                                                      $      1,085,077      $      1,100,423    $         15,346                     1%
+Wholesale Trade                                                                $        597,898      $        476,227    $       (121,671)                  -20%
+All Industries                                                                 $     27,641,469      $     21,285,119    $     (6,356,350)                  -23%
+Source: NM TRD - Monthly Local Government Distribution Reports (RP-500) and EDD Calculations
+
+
+ Table 1 shows that, based on YOY MTGR changes,
+                                                                                                Chart 3. Annual Total GRT Revenue
+ Catron County experienced an overall decline. The
+ construction industry recorded the largest decrease,
+                                                                                                            Collections
+ falling by $7.2M YOY, while the other services industry                               $1,600,000
+ posted the largest increase, rising by $466.4K YOY.                                   $1,400,000
+                                                                                       $1,200,000
+ Quarterly gross receipts tax (GRT) collected during Q1                                $1,000,000
+ FY26 ($371.1K) was 106.4% more than the amount                                         $800,000
+                                                                                        $600,000
+ collected during Q4 FY25 ($179.8K), as seen in Chart                                   $400,000
+ 4. Table 2 on the next page shows that while                                           $200,000
+ employment decreased by 0.3% YOY in Q4 FY25,                                                  $-
+ average wage and the number of establishments                                                           FY17 FY18 FY19 FY20 FY21 FY22 FY23 FY24 FY25 FY26
+                                                                                                                      Q1 Q2 Q3 Q4
+ increased by 6.8% and 5.3%, respectively.                                         Source: NM TRD - Monthly Local Government Distribution Reports (RP-500)
+
+
+            Chart 4. Quarterly GRT Revenue                                                     Chart 5. Total Employment & Weekly
+                      Collections                                                                              Wage
+    $500,000                                                                        800                                                                  $1,000
+    $400,000                                                                        600                                                                  $800
+                                                                                                                                                         $600
+    $300,000                                                                        400
+                                                                                                                                                         $400
+    $200,000                                                                        200                                                                  $200
+    $100,000                                                                          -                                                                  $-
+                                                                                               FY24 - FY24 - FY24 - FY24 - FY25 - FY25 - FY25 - FY25 -
+           $-
+                                                                                                Q1     Q2     Q3     Q4     Q1     Q2     Q3     Q4
+                  FY24 - FY24 - FY24 - FY25 - FY25 - FY25 - FY25 - FY26 -
+                   Q2     Q3     Q4     Q1     Q2     Q3     Q4     Q1                              Average Employment              Average Weekly Wage
+ Source: NM TRD - Monthly Local Government Distribution Reports (RP-500)           Source: NM DWS - Quarterly Census of Employment and Wages
+
+
+ SOURCE LINKS: NEW MEXICO TAXATION AND REVENUE DEPT (NM TRD), NEW
+ MEXICO DEPARTMENT OF WORKFORCE SOLUTIONS (NM DWS), U.S. BUREAU                                                                                                 2
+ OF ECONOMIC ANALYSIS (BEA), U.S. CENSUS BUREAU
+Quarterly Economic Summary
+Catron County
+              Chart 6. Establishment Year Over Year % Change
+  6.0%
+  5.0%                                                                                                           An establishment, as defined by
+                                                                                                                 the     Quarterly      Census       of
+  4.0%
+                                                                                                                 Employment and Wages (QCEW)
+  3.0%                                                                                                           and referenced in Chart 6, is an
+  2.0%                                                                                                           economic unit, such as a farm,
+  1.0%                                                                                                           factory, or store, located at a single
+                                                                                                                 physical address and engaged in
+  0.0%
+           FY24 - Q1 FY24 - Q2 FY24 - Q3 FY24 - Q4 FY25 - Q1 FY25 - Q2 FY25 - Q3 FY25 - Q4                       one type of economic activity.
+ Source: NM DWS - Quarterly Census of Employment and Wages and EDD Calculations
+
+
+
+
+ The Quarterly Census of Employment and Wages (QCEW), used in Charts 5-6 and Table 2, produces comprehensive
+ data on the number of establishments, monthly employment, and quarterly wages for workers covered by state
+ unemployment insurance (UI) laws and federal workers covered by the Unemployment Compensation for Federal
+ Employees (UCFE) program. These data are aggregated to many different levels, starting at the 6-digit NAICS industry
+ level, to higher industry levels (NAICS industry groups, sectors, and supersectors), and to higher geographic levels (MSA,
+ state, and national).
+ Data are based on information reported by New Mexico employers, covering 97% of nonfarm wage and salary workers.
+ Data are published every quarter. Considered the gold standard for its reliability of industry data, the QCEW data are
+ the most complete universe of monthly employment and quarterly wage information by detailed industry.
+                                 Table 2. FY25 - Q4 Employment Data and Establishments by Industry
+                                                                          YOY Change in             YOY change in
+                                                         Average          Average       Average     Average        Number of   YOY Change in
+Industry                                                 Employment       Employment Weekly Wage Weekly Wage Establishments Establishments
+Accommodation and Food Services                                        28          0.0% $       181         -11.3%           5          0.0%
+Administrative/Support & Waste
+Management/Remediation                                                 14             0.0%   $           683            15.0%                 6                0.0%
+Agriculture, Forestry, Fishing, and Hunting                            18            12.5%   $           749             1.1%                 6               20.0%
+Arts, Entertainment, and Recreation                                     *                *                 *                *                 2              -33.3%
+Construction                                                           75            10.3%    $        1,278            41.1%                15              -11.8%
+Educational Services                                                    *                *                 *                *                 3                0.0%
+Finance and Insurance                                                   *                *                 *                *                 2                0.0%
+Health Care and Social Assistance                                     137                *   $           359                *                15                7.1%
+Information                                                             5                *   $         2,162                *                 5               66.7%
+Management of Companies and Enterprises                                 *                *                 *                *                 1                0.0%
+Manufacturing                                                           *                *                 *                *                 4                0.0%
+Mining, Quarrying, and Oil and Gas Extraction                           *                *                 *                *                 1                0.0%
+Other Services (except Public Administration)                           5           -28.6%   $           888           110.9%                 6               20.0%
+Professional, Scientific, and Technical Services                        8           -11.1%   $         1,357            -0.3%                 8                0.0%
+Public Administration                                                 146           -11.0%   $         1,403             6.6%                17                0.0%
+Real Estate and Rental and Leasing                                      3            50.0%   $           692           -16.0%                 3                0.0%
+Retail Trade                                                          109             0.0%   $           464             1.5%                19               11.8%
+Transportation and Warehousing                                         16             0.0%   $           924            -4.6%                11               10.0%
+Utilities                                                              12             0.0%   $           943            11.3%                 4                0.0%
+Wholesale Trade                                                         6            50.0%   $         2,181            24.4%                 6               50.0%
+All Industries                                                       711             -0.3%   $           909             6.8%               139                5.3%
+Source: NM DWS - Quarterly Census of Employment and Wages and EDD Calculations *Some data may be withheld to avoid disclosure of confidential information.
+
+
+ SOURCE LINKS: NEW MEXICO TAXATION AND REVENUE DEPT (NM TRD), NEW
+ MEXICO DEPARTMENT OF WORKFORCE SOLUTIONS (NM DWS), U.S. BUREAU                                                                                                  3
+ OF ECONOMIC ANALYSIS (BEA), U.S. CENSUS BUREAU
+Quarterly Economic Summary
+Catron County
+                                                                                                  Population Sex
+     Population
+                                                                                 51.5%                                         48.5%
+       3,685                                                                                            Male     Female
+Source: U.S. Census Bureau - American Community Survey
+                                                                 Source: U.S. Census Bureau - ACS 2023, 5-year estimates
+(ACS) 2023, 5-year estimates
+
+                                                                Population Age
+
+
+        9.6%         8.3%    3.1%      10.4%         6.6%              17.5%                       22.1%                             22.4%
+
+
+
+                    Under 18 Years                    18 to 24 Years                   25 to 34 Years                      35 to 44 Years
+                    45 to 54 Years                    55 to 64 Years                   65 to 74 Years                      75 Years and Over
+Source: U.S. Census Bureau - ACS 2023, 5-year estimates
+
+
+                                                                          Race
+
+ 2.2% 4.4%                                                               85.1%                                                                      7.5%
+
+
+
+ 0.4%                                                                                                                                        0.4%
+         0.0%
+
+                                                                                                  Percent
+     Native American                                                                               2.2%
+     Black or African American                                                                     0.4%
+     Native Hawaiian and Other Pacific Islander                                                    0.0%
+     Some Other Race                                                                               4.4%
+     White                                                                                         85.1%
+     Asian                                                                                         0.4%
+     Two or More Races                                                                             7.5%
+Source: U.S. Census Bureau - ACS 2023, 5-year estimates
+
+
+                                                 Educational Attainment, Age 25-64
+
+
+  2.5%                        36.4%                                              31.0%                          9.5%            11.7%           9.0%
+
+
+
+                    No High School Diploma                       High School Graduate                          Some College, No Degree
+                    Associate's Degree                           Bachelor's Degree                             Postgraduate Degree
+
+Source: U.S. Census Bureau - ACS 2023, 5-year estimates
+
+
+SOURCE LINKS: NEW MEXICO TAXATION AND REVENUE DEPT (NM TRD), NEW
+MEXICO DEPARTMENT OF WORKFORCE SOLUTIONS (NM DWS), U.S. BUREAU                                                                                             4
+OF ECONOMIC ANALYSIS (BEA), U.S. CENSUS BUREAU
+

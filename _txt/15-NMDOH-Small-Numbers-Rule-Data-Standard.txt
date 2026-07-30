@@ -1,0 +1,25 @@
+New Mexico Rule for Small Numbers and Public Data Release
+
+Specified population/
+Event set*                          Numerator         Action
+                                                      Suppress (and suppress other cells
+          <20              AND           1-3
+                                                      allowing calculation of 1-3)
+
+         >=20                            all          Release
+
+*Event set – the set of which the numerator is an immediate subset
+Percentages or rates that can be used to determine the value of suppressed cells must also
+       be suppressed.
+These guidelines do not relieve the data user of the responsibility to be aware of the
+       confidentiality issues regarding the data and to appropriately present data.
+Do not suppress the number of births or deaths at the state, district, or county levels
+       presented by standard racial/ethnic groups, standard age groups, sex, prenatal
+       care, birth weight categories, birth order, plurality, total anomalies, marital status,
+       or NCHS standard 113 cause of death categories.
+
+Survey Data
+If the number of persons surveyed in a given population or subpopulation is 50 or greater
+then estimates based on this surveyed population or subpopulation will not be suppressed.
+It is recommended that confidence intervals for the estimate be presented.
+

@@ -1,0 +1,393 @@
+1.4.8 NMAC Page | of 5
+
+TITLE 1 GENERAL GOVERNMENT ADMINISTRATION
+CHAPTER 4 STATE PROCUREMENT
+PARTS USE OF COMPETITIVE SEALED PROPOSALS FOR CONSTRUCTION AND
+
+FACILITY MAINTENANCE, SERVICES AND REPAIRS
+
+1.4.8.1 ISSUING AGENCY: General Services Department State Purchasing Division.
+[1.4.8.1 NMAC - N, 09-30-05]
+
+1.4.8.2 SCOPE: All executive branch state agencies.
+[1.4.8.2 NMAC - N, 09-30-05]
+
+1.4.8.3 STATUTORY AUTHORITY: Sections 13-1-67, 13-1-111 NMSA (2003 Amendments).
+[1.4.8.3 NMAC - N, 09-30-05]
+
+1.4.8.4 DURATION: Permanent.
+[1.4.8.4 NMAC -N, 09-30-05]
+
+1.4.8.5 REFECTIVE DATE: September 30, 2005, unless a later date is cited at the end of a section.
+[1.4.8.5 NMAC - N, 09-30-05]
+
+1.4.8.6 OBJECTIVE: The purpose of this rule is to establish uniform procedures for the use of competitive
+sealed proposals that will promote the delivery of high quality projects in a timely, safe and cost-effective manner.
+[1.4.8.6 NMAC - N, 09-30-05]
+
+1.4.8.7 DEFINITIONS: Most of the terms in this rule are defined in the Procurement Code and prior
+Procurement Code regulations, In 1.4.8 NMAC, the following definitions apply:
+A. “firm” means the company or other business entity referenced under 1.4.8 NMAC for the purpose of
+
+identifying, individually or collectively: a general contractor, a prime contractor or a subcontractor, of any tier, whether basic
+trade subcontractor, specialty subcontractor or other;
+
+B. “pre listed subcontractors” means the subcontractors, of any tier, that the offeror is required to list,
+pursuant to1.4.8.13 NMAC of 1.4.8 NMAC, at the time it submits a proposal in response to a request for proposals;
+C. “reckless” shall mean the submission or omission of a false or misleading material fact in connection
+
+with a request for proposals under 1.4.8 NMAC that the submitting firm and/or person knew or should have known was false
+or misleading;
+
+D. “REP” means requests for proposals;
+
+E. “RFP documents” means any one or combination of the following request for proposal documents:
+technical proposal; price proposal; contractor qualification statement; subcontractor qualification statement.
+[1.4.8.7 NMAC -N, 09-30-05]
+
+1.4.8.8 APPLICATION (COMPETITIVE SEALED PROPOSAL PROCEDURES FOR
+CONSTRUCTION AND FACILITY MAINTENANCE, SERVICE AND REPAIRS 1.4.8.1 -1.4.8.17 NMAC):
+A. General. The provisions of 1.4.8.1 NMAC through 1.4.8.17 NMAC set forth specific procedures that
+
+shall apply to all procurements made by competitive sealed proposals for construction and facility maintenance, service and
+repair.
+
+B. The regulations applicable to the use of competitive sealed proposals pursuant to 1.4,1.29 NMAC through
+1.4.1.47 NMAC, as well other existing rules applicable to competitive sealed proposals and procurement generally, e.g.,
+1.4.1.65 NMAC through 1.4.1.92 NMAC, shall apply to procurements made by competitive sealed proposals for construction
+and facility maintenance, service and repair to the extent they do not conflict with the provisions of 1.4.8 NMAC.
+
+Cc. A state agency with rule making authority may adopt its own regulations to supplement the provisions of
+1.4.8 NMAC, provided that such regulations meet the requirements of 1.4.8 NMAC, do not otherwise conflict with 1.4.8
+NMAC and the state agency receives prior written authorization from the general services department secretary.
+[1.4.8.8 NMAC - N, 09-30-05]
+
+1.4.8.9 GENERAL DISCUSSION: The RFP competitive sealed proposal process is authorized to give using
+agencies flexibility to achieve the best overall value from a procurement contract. This is accomplished by permitting
+consideration of certain contractor qualification and performance factors that add value to a procurement contract, such as
+contractor past performance, technical expertise and experience, management capabilities and resources, subcontractor teams
+and craft personnel resources. It can also be achieved by permitting consideration of other technical or non-price factors that
+add value to a procurement contract, including schedule or contract warranty. Due to the inherently complex nature of most
+construction contracts and contracts for facility maintenance, service and repairs, the procurement of these services can often
+be accomplished more effectively through competitive sealed proposals, rather than competitive scaled bids, since the latter
+
+http://www.nmepr.state.nm.us/nmac/parts/title01/01 .004,0008.htm 6/29/2011
+1.4.8 NMAC Page 2. of 5
+
+process essentially makes price the sole determining factor. When the competitive sealed proposal process is used, however,
+it is critical that appropriate procedures, criteria and information-gathering techniques be utilized to ensure that the RFP
+process works efficiently and fairly and achieves optimal results. The following sections are designed to assist using agencies
+in meeting these goals,
+
+[1.4.8.9 NMAC - N, 09-30-05]
+
+1.4.8.10 REP PLANNING PROCEDURES:
+
+A. Information required in RFPs. In addition to the information specified in 1.4,1.29 NMAC through
+
+1.4.1.47 NMAC, or otherwise required by 1.4.8 NMAC, an RFP issued pursuant to 1.4.8 NMAC shall include:
+
+(1) the core evaluation factors specified in Subsection A of 1.4.8,15 NMAC;
+
+(2) additional evaluation factors, if applicable, as provided by Subsection B. of | 4.8.15, NMAC, and,
+
+(3) the numerical weight or points assigned to price and each of the technical evaluation factors specified in
+the RFP in accordance with the requirements of 1.4.8.14 NMAC,
+
+B. REP review by state purchasing agent. A using agency issuing an RFP pursuant to 1.4.8 NMAC may
+submit a draft REP to the state purchasing agent for review, but must do so at least thirty (30) days prior to the proposed issue
+date of the RFP. The state purchasing agent shall advise the using agency of any revisions needed to comply with the
+requirements of 1.4.8 NMAC. If revisions are directed, they shall be made prior to the issuance of the RFP.
+
+on Ifa using agency elects to reserve its right to enter discussions or negotiations with offerors in the context
+ofan RFP issued under 1.4.8 NMAC, it shall explicitly reserve such rights in the RFP. Ifa using agency elects to engage in
+discussions or negotiations in the context of an RFP issued under 1.4.8 NMAG, it shall comply with applicable requirements
+of NMAC 1.4.1.29-1.4.1.47 NMAC.
+
+[1.4.8.10 NMAC - N, 09-30-05]
+
+1.4.8.11 PUBLIC NOTICE: Procurements by the state purchasing agent. The state purchasing agent shall give
+public notice of the RFP in the same manner as provided in 1.4.1.17 NMAC.
+[1.4.8.1] NMAC - N, 09-30-05]
+
+1.4.8.12 PROPOSAL SUBMISSION REQUIREMENTS:
+
+A, Two-part proposal submissions. In addition to any requirements imposed by 1.4.1.29 NMAC through
+1,4.1.47 NMAC, or otherwise specified in the request for proposal document, RFPs issued under this rule shall instruct offers
+to submit two-part, two-volume written proposals. Each volume shall be submitted in a separate sealed envelope or package
+and offerors shal! be instructed to clearly label each volume with their name, address and date of submittal and prominently
+identify each as: volume I: technical proposal and volume II: price proposal.
+
+B. Restrictions regarding opening of proposals. Price proposals shall remain sealed until the using agency
+has completed its evaluation of the technical proposals for all offerors and has prepared final technical scores as required by
+this rule.
+
+Cc Representations in RFP process. All RFP documents executed in connection with an RFP issued pursuant
+to this rule shall contain an acknowledgement and certification section with the following provisions.
+
+(1) All RFP documents shall be signed by a director, officer or manager of the submitting firm who has
+sufficient knowledge to fully address all matters and respond to all inquiries included in RFP documents.
+
+(2) The submitting firm shall represent that the information provided in the RFP documents is truthful,
+accurate and complete and that the firm and individual responsible for the submission shall be fully responsible for and
+bound by all information, data, certifications, disclosures and attachments included in the RFP documents.
+
+G) The submitting firm further understands:
+
+(a) __ the information and data provided in connection with the REP documents, as well as any other
+relevant information obtained from any other sources regarding the firm, may be reviewed to determine whether it qualifies
+ag a responsible contractor pursuant to 1.4.1.47 NMAC and whether its offer represents the best value to using agency;
+
+(b) _ a firm’s failure to meet responsibility standards or provide requested information may render it
+ineligible to perform work on the prospective procurement contract;
+
+(c) _ the submitting firm acknowledges its obligation to carefully review and complete, and, when
+applicable, update the RFP documents,
+
+(d) the omission of any material fact concerning requested or submitted information, or the submission
+of any material false or misleading statement, or misrepresentation of a material fact concerning any requested or submitted
+information, may lead to the disqualification of the proposal.
+
+(4) The submitting firm agrees that if it is awarded the contract, the RFP documents, and all terms and
+conditions specified therein, and all information, data, certifications and disclosures included in the RFP documents, shall be
+incorporated into the contract.
+
+(5) The submitting firm further understands that if is determined that it has intentionally or recklessly failed to
+disclose requested information, or has intentionally or recklessly made a false statement, misrepresentation, or omission
+regarding a material fact relating to the RFP documents, the firm may be declared in default of contract and any such conduct
+
+shall provide the using agency with grounds to terminate the contract and/or withhold full or partial payment and/or impose
+
+htto//www nmepr.state.nm.us/nmac/parts/title01/01.004.0008.htm 6/29/2011
+1.4.8 NMAC Page 3 of 5
+
+any sanctions or penalties, as deemed appropriate and available under New Mexico law.
+
+D. Contractor/Subcontractor Qualification Statements. A general contractor or other prime contractor
+submitting a proposal pursuant to an RFP issued under 1.4.8 NMAC shall be required to submit as part of its technical
+proposal a certified contractor qualification statement and certified subcontractor qualification statements in accordance with
+the requirements of 1.4.8.12 NMAC.
+
+(1) Use of Qualification Statements. Contractor and subcontractor qualification statements shall be submitted
+on forms prepared by the general services department or the using agency. Information provided in these statements shall be
+considered by the using agency for evaluating and scoring contractors and subcontractors on technical proposals required
+under this rule, These statements shall also be considered in determining whether a contractor or subcontractor is a
+responsible contractor for purposes of 1.4.1,47 NMAC. REPs should inform contractors and subcontractors, however, that in
+making such evaluations and determinations, the using agency is not restricted to the minimum information required for
+disclosure qualification statements and that any relevant information regarding performance from reliable sources may be
+considered.
+
+(2) Subcontractor Qualification Statements. Subcontractor qualification statements shall be required for all
+subcontractors identified in the technical proposal pursuant to the subcontractor listing requirements 1,4.8.13 NMAC, where
+the value of the subcontract is fifty-thousand ($50,000) or five percent, whichever is greater. A using agency may reserve the
+right to require subcontractor qualification statements from any other subcontractors, at whatever tier and regardless of the
+value of the subcontract.
+
+(3) Minimum Information Required. Contractor and subcontractor qualification statements required pursuant
+to Subsection D of 1.4.8.12 NMAC shall include, at a minimum, the following information:
+
+(a) a list of all projects the firm has performed work on in the five (5) years immediately preceding the
+submission of its proposal that are similar in size and scope, as specified by the using agency in the RFP, to the prospective
+procurement project; in the event that an offeror or a pre-listed subcontractor is a new business and does not have a
+performance record sufficient to evaluate the firm’s past performance, the using agency may consider the past performance of
+the firm’s officers, management and owners or partners;
+
+(b) _ copies of any types of performance evaluations reports for the past five (5) years prepared in
+connection with the work identified in Subparagraph (a) of Paragraph (3) of Subsection D of 1.4,8,12 NMAC;
+
+(c) _ the following representations, regarding the firny’s present capabilities to perform the procurement
+contract and its prior history for the past three (3) years immediately preceding the date of this statement:
+
+(i) the firm has a current contractor registration, as required by Section 13-4-13.1 NMSA 2004;
+
+(i) _ the firm has all applicable business and/or contractor licenses required by state or local law;
+
+(ii) the firm possesses the necessary equipment, financial resources, technical resources,
+management, professional and craft personnel resources and other required capabilities to successfully perform the contract,
+or will achieve same through its prelisted subcontractors;
+
+(iv) _ the firm has not had any business, trade or contracting license suspended or revoked;
+
+(vy) _ the firm has not been debarred by any government agency,
+
+(vi). the firm has not defaulted on any project;
+
+(vii) the firm has not committed willful or repeated violations of federal or state wage laws as
+determined by a final non-appealable decision of a court or government agency;
+
+(viii) the firm has not committed serious or willful violations of federal or state safety laws as
+determined by a final non-appealable decision of a court or government agency;
+
+(ix) disclosure by the firm of the following most recently available safety data: experience
+modification ratings; total lost workday incident rates (calculated by the number of lost time injuries and illnesses x 200,000
+~ total hours worked); and recordable incident rates (calculated by the number of injuries x 200,000 + total hours worked).
+
+(4) Additional Performance Related Information. Using agencies may also require additional relevant
+information relating to a firm’s past performance or present capability to perform the procurement contract. The extent of
+detail of such information may vary with the size and complexity of the project. Using agencies may require that additional
+information required from contractors and subcontractors be included in contractor and subcontractor qualification
+staternents, or in other sections of the offeror’s technical proposal. Types of additional information using agencies may wish
+to consider include, but are not limited to:
+
+(a) information regarding the firm’s financial status and financial resources;
+
+(b) _ bonding information, including affirmative letters of bonding from certified bonding companies;
+
+(c) __ past incidents involving denials of pre-qualification or findings of non-responsibility;
+
+(d) _ past incidents of law violations in any area relating to contracting, including violations of
+environmental laws, antitrust laws, licensing laws,
+
+(e) _ outstanding tax delinquencies to the state of New Mexico or its political subdivisions;
+
+(f) disclosure of the names of any corporations, partnerships or other business entities the firm or its
+owners or officers have owned or operated in the past five (5) years,
+
+(g) disclosure of the following information with regard to all projects identified in response to
+Subsection D (3){a) of 1.4.8.12 NMAC:
+
+(i) _ the original bid or proposal price of the projects and the final price of the projects and a brief
+
+http://www.nmepr.state.nm.us/nmac/parts/titled 1/01.004.0008. htm 6/29/2011
+1.4.8 NMAC Page 4 of 5
+
+explanation of cost growth, if any, for such projects;
+
+(ii) _ the originally scheduled completion date of the projects and the final completion dates of the
+projects and a brief explanation of schedule growth, if any, for such projects;
+
+(iii) a list of any contract claims or cases in litigation or arbitration concerning the projects, a brief
+description of the reasons for such disputes and status of such cases.
+{1.4.8.12 NMAC - N, 09-30-05]
+
+1.4.8.13 PROCEDURES REGARDING SUBCONTRACTORS:
+
+A. Evaluation of subcontractors, To ensure that an RFP secures the best value from a procurement contract,
+the role and impact of subcontractors proposed for a project may be evaluated in accordance with the requirements of
+1.4.8.13 for any project in which subcontractors are used.
+
+B. Objective of subcontractor evaluation. The objective of subcontractor evaluation is to identify the
+general/subcontractor team or prime contractor/subcontractor team that offers the most advantageous proposal and best
+overall value to the using agency. The qualifications and performance capabilities of subcontractors may be evaluated in
+conjunction with and in relation to the evaluation of the technical proposal of the offeror/general contractor, construction
+management firm or other prime contractor as specified in Paragraph (2) of Subsection B of 1.4.8.16 NMAC.
+
+CG Subcontractor listing threshold. In preparing an RFP subject to this rule, the using agency shall prepare a
+subcontractor listing threshold, which shall establish a dollar threshold, stipulated in the RFP, above which subcontractors
+must be listed. All activities and issues concerning the listing of subcontractors in this regard shall be governed by the
+Subcontractor’s Fair Practices Act NMSA 13-4-31, et. seq, and applicable regulations issued thereunder.
+
+D. Subcontractor listing amount. The subcontractor listing threshold included in RFPs shall be five thousand
+dollars ($5,000) or one-half of one percent of the architect’s or engineer’s estimate of the total project cost, including
+alternatives, whichever is greater.
+
+E. When submitting a proposal in response to an RFP issued pursuant to this rule, the offeror shall provide a
+list of all subcontractors that will perform work on the project above the subcontractor listing threshold. For each such
+prelisted contractor, the offeror shall include in its proposal the following information:
+
+(1) _ the name of subcontractor that will perform work or labor or render service on the project identified in the
+RFP and the city or county of its principal place of business, and
+
+(2) the category of the work that will be done by each subcontractor; only one subcontractor may be listed for
+each category of work as defined by the offeror in its proposal.
+
+FE. Firms identified in the subcontractor list shall not be substituted except as permitted under 13-4-36
+NMAC of the Subcontractor Fair Practices Act NMSA, 14-4-36,
+
+[1.4.8.13 NMAC - N, 09-30-05]
+
+1.4.8.14 WEIGHT ASSIGNED TO PRICE AND REP EVALUATION FACTORS:
+
+A. Numerical ratings systems. Numerical ratings systems are required for procurements under 1.4.8 Use of
+Competitive Sealed Proposals for Construction and Facility Maintenance, Services and Repairs and shall comply with the
+requirements of 1.4.8.14 NMAC.
+
+B Total available points. The RFP shall specify the total points available for the procurement (for example,
+1,000 total points for all price and non-price technical evaluation factors) and shall assign specific numerical weights or
+points to price and to each of the non-price evaluation factors identified in the RFP.
+
+Numerical weight for price. The numerical weight assigned to price shall be no greater than seventy (70)
+percent of the total evaluation points available.
+
+D. Numerical weight for core evaluation factors. The numerical weight assigned to the non-price evaluation
+factors shall be as follows:
+
+(1) _ each of the four core evaluation factors specified in Subsection A of 1.4.8.15 NMAC shall be assigned at
+least twenty (20) percent of the available points for non-price technical evaluation factors;
+
+(2) the weight assigned to any additional evaluation factors shall be determined by the using agency in
+accordance with the needs of the agency and the project.
+[1.4.8.14 NMAC - N, 09-30-05]
+
+1,4,.8.15 RFP EVALUATION FACTORS:
+
+A. Core evaluation factors. Each RFP issued pursuant to 1.4.8 NMAC shall include the following core
+evaluation factors, for both general and subcontractors for which qualification statements are required, with the sub-factors
+and criteria specified herein:
+
+(1) Past performance:
+(a) budget and schedule data;
+(b) _ if available, performance quality and overall customer satisfaction;
+(c) compliance with applicable laws and regulations;
+(d) safety performance record,
+(2) Management plan:
+
+http://www.nmeor.state.nm.us/nmac/parts/title01/01 .004.0008.htm 6/29/2011
+1.4.8 NMAC Page 5 of 5
+
+(a) management team,
+(b) technical approach to project;
+(c) _ safety plan/programs;
+(d) _ project schedule.
+(3) Project staffing/craft labor capabilities:
+(a) _ participation in skill training;
+(b) reliable staffing sources/project staffing.
+(4) Health & Safety.
+B. Additional evaluation factors:
+(1) ausing agency may include additional evaluation factors in an RFP issued pursuant to 1.4.8.15 of this
+NMAC 1.4.8 provided that any such factor is relevant to the successful completion of the contract or otherwise in the best
+interest of the state or using agency;
+(2) examples of such additional factors may include, but are not limited to financial capabilities, project
+schedule, contract warranty or hiting of local construction or maintenance craft labor.
+[1.4.8.15 NMAC - N, 09-30-05]
+
+1,4.8.16 EVALUATION OF PROPOSALS:
+
+A. Evaluation Committee (“EC”). Proposals submitted in response to REPs issued under this regulation shall
+be evaluated by an evaluation committee (“EC”) of at least three persons appointed by the procuring agency’s management.
+The team should collectively possess expertise in the technical requirements of the project, construction design and
+contracting. A using agency may use independent consultants or agents to support source selection teams, provided
+appropriate precautions are taken to avoid potential conflicts of interest.
+
+B. Scoring technical proposals: General procedures regarding technical proposal evaluation.
+
+(1) Wher rating the technical proposals, the EC shall consider only the evaluation factors stated in the RFP.
+
+(2) The EC may consider any relevant information or data, from any reliable source, relating to the RFP
+evaluation factors and the firm’s ability to successfully perform the project. Such information may be obtained from the firm
+itself, prior customers of the firm, commercial and public databases and other reliable sources.
+
+Cc. Scoring price proposals. Procedures for scoring price proposals under this rule shall be as follows:
+
+(1) _ price proposals shall be initially evaluated to ensure that the price(s) offered is responsive to the RFP
+requirements and instructions and is realistic in respect to the project plans and specifications;
+
+(2) price proposals shall be evaluated on the basis of the numerical weight assigned to price in the RFP and
+scored in accordance with the following process to permit the scoring of competing offerors’ price proposals in relation to
+one another: the offeror with the lowest price shall receive the maximum price score, i.c., the maximum numerical weight
+assigned to price in the RFP (for example, 500 points out of a total 1,000 points),
+
+(3) _ the price score of each other offeror shall be determined by applying the following mathematical formula:
+price of lowest offeror divided by the price for this offeror multiplied by the maximum price score, ie.,
+
+price of lowest offeror x maximum price score = price score of this offeror
+price of this offeror
+[1.4.8.16 NMAC - N, 09-30-05]
+1.4.8.17 RESIDENT PREFERENCE: To effectuate the requirements of the state’s resident contractor preference
+laws, 13-4-1 NMSA, et. seq., final cost scores of proposals under 1.4.8 NMAC shall be modified.
+{1.4.8.17 NMAC - N, 09-30-05]
+
+HISTORY OF 1.4.8 NMAC: [RESERVED].
+
+htto://www.nmepr.state.nm.us/nmae/parts/title0 1/01 .004.0008.htm 6/29/2011
+

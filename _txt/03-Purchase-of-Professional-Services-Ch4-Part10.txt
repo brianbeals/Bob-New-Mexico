@@ -1,0 +1,301 @@
+TITLE 1           PUBLIC FINANCE
+CHAPTER 4         EXPENDITURE OF PUBLIC FUNDS
+PART 10           GOVERNING THE APPROVAL OF CONTRACTS FOR THE PURCHASE OF
+                  PROFESSIONAL SERVICES
+
+1.4.10.1       ISSUING AGENCY: General Services Department (GSD).
+[1.4.10.1 NMAC - N, 6/21/2022]
+
+1.4.10.2          SCOPE:
+         A.       The contracts review bureau of the general services department shall review and approve all
+professional services contracts which result in expenditures greater than five thousand dollars ($5,000), including
+applicable gross receipts tax, and all amendments to those contracts for all state agencies except as provided in
+Subsections B and C of 1.4.10.2 NMAC. Contracts expending public funds in accordance with the Procurement
+Code, Sections 13-1-28 to 13-1-199 NMSA 1978 as amended are included within the scope of this rule.
+         B.       The following state agencies are currently exempt from submitting professional services contracts
+and amendments through the contracts review bureau of the general services department:
+                  (1)       state agencies within the judicial branch of government as defined by the New Mexico
+Constitution, Article VI;
+                  (2)       state agencies within the legislative branch of government as defined by the New Mexico
+Constitution, Article IV;
+                  (3)       state educational institutions as defined by the New Mexico Constitution, Article XII,
+Section 11 and as set forth in Section 21-1-1 through 21-16A-1 et. seq. NMSA 1978;
+                  (4)       the state fair for only those contracts exempted pursuant to Subsection H of Section 13-1-
+99 NMSA 1978;
+                  (5)       the New Mexico public school insurance authority pursuant to Subsection F of Section
+22-29-6 and 22-29-8 NMSA 1978 for contracts for procuring goods or services and paying for insurance or
+insurance-related services;
+                  (6)       the New Mexico mortgage finance authority pursuant to Section 58-18-20 NMSA 1978;
+and
+                  (7)       other state agencies exempt by statute.
+         C.       Pursuant to Section 6-5-9 NMSA 1978, the secretary of the department of finance and
+administration may exempt a state agency’s contracts from the general services department contracts review bureau
+review and approval when the secretary of the department of finance and administration determines that efficiency
+or economy so requires. a state agency seeking an exemption must:
+                  (1)       apply in writing to the secretary of the department of finance and administration; and
+                  (2)       meet all of the following requirements:
+                            (a)       issue its own warrants;
+                            (b)       be exempt from prior submission of vouchers or purchase orders to the financial
+control division of the department of finance and administration;
+                            (c)       receive the majority of its money from non-general fund sources;
+                            (d)       maintain pre-audit and post-audit fiscal accounting controls;
+                            (e)       maintain and operate its own administrative unit for procurement and controls
+its own encumbrance of funds available for professional service contracts;
+                            (f)       provide administrative control and review of professional services contracts
+through its own administrative unit; and
+                            (g)       employs in-house counsel to prepare, review, and approve professional services
+contracts for form and legal sufficiency and to advise the state agency with respect to all applicable laws and
+regulations; provided, however, that the attorney general shall also review and approve all contracts subject to
+Paragraph (1) of Subsection C of 1.4.10.10 NMAC of this rule prior to approval and execution by the state agency.
+[1.4.10.2 NMAC - N, 6/21/2022]
+
+1.4.10.3            STATUTORY AUTHORITY:
+          A.        Sections 13-1-118 and 13-1-125 NMSA 1978 authorize the general services department to review
+professional services contracts of state agencies as to form, legal sufficiency, and budgetary requirements if required
+by its regulations.
+
+
+
+
+1.4.10 NMAC                                                                                                           1
+          B.        Section 6-5-3 NMSA 1978 provides that before any state agency enters into a contract expending
+public funds, the financial control division of the department of finance and administration shall determine the
+authority for such proposed expenditure. After the authority for the expenditure is determined, the appropriate fund
+shall be shown by the financial control division to be encumbered to the extent of the proposed expenditure. The
+financial control division may request, and the state agency shall provide, such documentation and other information
+as the financial control division deems necessary to justify the state agency’s determination of authority. The
+financial control division may disapprove the proposed expenditure if it determines that the justification is
+inadequate or is not substantiated by law.
+          C.        Section 6-5-6 NMSA 1978 requires the financial control division of the department of finance and
+administration to determine that the proposed expenditure does not exceed the state agency’s appropriation, does not
+exceed the periodic allotment made to the state agency or the unencumbered balance of funds at its disposal. The
+state agency shall determine that a proposed expenditure is for a public benefit and purpose consistent with the
+related appropriation and is necessary to carry out the statutory mission of the state agency prior to committing the
+state to the transaction.
+          D.        Subsection E of Section 9-1-5 and Subsection E of Section 9-17-5 NMSA 1978 provide that after
+notice and hearing, the secretary of the general services department may make and adopt such reasonable
+administrative and procedural rules and regulations as necessary to carry out the duties of the general services
+department and its divisions.
+[1.4.10.3 NMAC - N, 6/21/2022]
+
+1.4.10.4       DURATION: Permanent.
+[1.4.10.4 NMAC - N, 6/21/2022]
+
+1.4.10.5       EFFECTIVE DATE: June 21, 2022 unless a later date is cited at the end of a section.
+[1.4.10.5 NMAC - N, 6/21/2022]
+
+1.4.10.6          OBJECTIVE: The purpose of this rule is to establish the procedures state agencies must follow
+and the requirements state agencies must meet in drafting, entering into, and seeking approval of professional
+services contracts. These procedures ensure compliance with Sections 6-5-3, 6-5-6, 13-1-118 and 13-1-125 NMSA
+1978 as amended.
+[1.4.10.6 NMAC - N, 6/21/2022]
+
+1.4.10.7           DEFINITIONS:
+         A.        "Bureau" means the contracts review bureau of the general services department.
+         B.        "Contract" means any agreement for the provision of professional services.
+         C.        "Contract brief" means the bureau paper form or electronic version which shall accompany all
+professional services contracts and amendments submitted to the bureau.
+         D.        "Contractor" as defined in Section 13-1-43 NMSA 1978 means any business having a contract
+with a state agency.
+         E.        "Department or GSD" means the general services department.
+         F.        "Form" means, at a minimum, that all contracts and amendments contain the provisions required
+by the bureau, including but not limited to, a scope of work consistent with the request for proposals issued by the
+state agency if the contract was procured by a request for proposals and performance measures when required and as
+defined by and in accordance with the Accountability in Government Act, Sections 6-3A-1 through 6-3A-9 NMSA
+1978 and subsequent amendments.
+         G.        "Legal sufficiency" means, at a minimum, that all contracts and amendments contain the
+provisions required by law and that all signatures required by the bureau have been obtained.
+         H.        "Procurement" as defined by Section 13-1-74 NMSA 1978 means purchasing, renting, leasing,
+lease purchasing or otherwise acquiring items of personal property, services or construction and includes all
+procurement functions, including but not limited to, preparation of specifications, solicitation of sources,
+qualification or disqualification of sources, preparation and award of the contract, and contract administration.
+         I.        "Procurement Code" means Sections 13-1-28 to 13-1-199 NMSA 1978, as amended.
+         J.        "Professional services" as defined by Section 13-1-76 NMSA 1978 means the services of
+architects, archaeologists, engineers, surveyors, landscape architects, medical arts practitioners, scientists,
+management and systems analysts, certified public accountants, registered public accountants, lawyers,
+psychologists, planners, researchers, and persons or businesses providing similar services, including information
+
+
+
+1.4.10 NMAC                                                                                                         2
+system resources professional services, and other such services which may be designated as professional services by
+a determination issued by the state purchasing agent or designee.
+          K.       "Regulation" as defined by Section 13-1-80 NMSA 1978 means any rule, order, statement or
+policy, as amended, issued by a state agency or a local public body that affects persons not members or employees
+of the issuer.
+          L.       "Retroactive approval to a contract or a contract amendment" means approval of a contract
+or contract amendment that was submitted to the bureau and approved by the GSD secretary or designee pursuant to
+1.4.10.13 NMAC of this rule after the contractor has begun work pursuant to a request to perform work from a state
+agency employee or public officer with authority to make such a request.
+          M.       "Secretary GSD" means the secretary of the general services department.
+          N.       "Sole source contract or amendment to sole source contract" means a contract or amendment
+which fulfills the requirements of Sections 13-1-118, 13-1-126 and 13-1-126.1 NMSA 1978, as amended.
+          O.       "State agency" means any department, agency, commission, council, board, advisory board,
+committee, or institution of the state of New Mexico, and does not include local public bodies.
+[1.4.10.7 NMAC - N, 6/21/2022]
+
+1.4.10.8           DELEGATION OF APPROVAL AUTHORITY:
+          A.       The bureau shall review all contracts and contract amendments for professional services with state
+agencies as to form and budgetary requirements.
+          B.       The bureau shall consult with the department’s legal counsel as needed regarding any issues of
+legal sufficiency of a state agency’s contracts and contract amendments for professional services.
+          C.       The GSD secretary shall delegate, in writing to certain members of the bureau, the authority to
+approve professional services contracts which result in expenditures greater than five thousand dollars ($5,000),
+including gross receipts tax, and all amendments to those contracts except retroactive approval to contracts and
+contract amendments and sole source contracts and amendments to sole source contracts as provided herein.
+[1.4.10.8 NMAC - N, 6/21/2022]
+
+1.4.10.9          FORM AND SUBMISSION:
+         A.       All contracts and subsequent amendments shall be in a form and contain such provisions and
+signatures as required by the bureau, including but not limited to, a scope of work consistent with the request for
+proposals issued by the state agency if the contract was procured by a request for proposals and performance
+measures when required and as defined by and in accordance with the Accountability in Government Act, Sections
+6-3A-1 through 6-3A-9 NMSA 1978 and subsequent amendments.
+         B.       All contracts and amendments shall:
+                  (1)       be accompanied by a contract brief being in such form and containing such information
+as may be required by the bureau;
+                  (2)       be accompanied by a document prescribed by the financial control division of the
+department of finance and administration showing that funds have been encumbered to the full extent of the
+contract, including any amendments to that contract; if the contract term includes more than one fiscal year, the
+contract must be accompanied by an encumbrance for the current fiscal year amount or, up to the total amount of the
+current appropriation available for that contract;
+                  (3)       be accompanied by a written request for approval from the secretary of the contracting
+state agency or designee if the contract is subject to Paragraph (1) of Subsection C of 1.4.10.10 NMAC of this rule;
+and
+                  (4)       comply with New Mexico law regarding indemnification and insurance.
+[1.4.10.9 NMAC - N, 6/21/2022]
+
+1.4.10.10        REVIEW PROCEDURES:
+         A.      State agencies must submit to the bureau for review:
+                 (1)      sole source contracts;
+                 (2)      amendments to sole source contracts;
+                 (3)      retroactive approval to contracts; and
+                 (4)      retroactive approval to contract amendments.
+        B.       Bureau review:
+                 (1)      The bureau shall review all contracts or contract amendments for form, budgetary
+requirements and compliance with the requirements of the bureau including those prescribed on the contract brief.
+
+
+
+1.4.10 NMAC                                                                                                         3
+                  (2)       No contract or contract amendment shall become binding or effective until signed and
+dated by a member of the bureau with contract approval authority.
+          C.      Other review:
+                  (1)       Prior to the bureau’s review and at the bureau’s request, the attorney general shall review
+all contracts which may violate conflict of interest provisions of the Governmental Conduct Act, Sections 10-16-1 to
+10-16-18 NMSA 1978.
+                  (2)       The bureau may submit any contract or amendment to the attorney general or other legal
+counsel for review if the bureau is aware of legal issues concerning the contract or the amendment.
+[1.4.10.10 NMAC - N, 6/21/2022]
+
+1.4.10.11         SMALL PURCHASES: A contract for professional services having a value over five thousand
+dollars ($5,000) excluding applicable gross receipts taxes, but not exceeding the amount set forth in Section 13-1-
+125 NMSA 1978 except for the services of architects, landscape architects engineers, or surveyors for state public
+works projects, may be procured in accordance with the Procurement Code, Sections 13-1-28 to 13-1-199 NMSA
+1978.
+[1.4.10.11 NMAC - N, 6/21/2022]
+
+1.4.10.12          SOLE SOURCE CONTRACT OR AMENDMENT TO SOLE SOURCE CONTRACT:
+         A.        A contract may be awarded without competitive sealed proposals, regardless of the estimated cost,
+when a central purchasing office of a contracting state agency makes a written determination, signed by the
+secretary of the contracting state agency or designee, which states that a good-faith review of available sources has
+been conducted and that there is only one source for the required professional services. The written determination
+and the dollar amount of the contract shall be submitted to the bureau for review and approval by the GSD secretary
+or designee and shall include the following information:
+                   (1)      a detailed, sufficient explanation of the reasons, qualifications, proprietary rights, or
+unique capabilities that make the prospective contractor a sole source;
+                   (2)      an explanation of the criteria developed and specified by the state agency as necessary to
+perform the contract and upon which the state agency reviewed available sources;
+                   (3)      a description of the procedures used by the state agency in conducting a good faith
+review of available sources, including without limitation, a narrative description of all steps taken by the state
+agency as evidence of the good-faith review performance such as:
+                            (a)        researching trade publications and industry newsletters;
+                            (b)        reviewing telephone books or other advertisements;
+                            (c)        reviewing current contract(s);
+                            (d)        contacting similar service providers; and
+                            (e)        reviewing the state purchasing agents vendor list; and.
+                   (4)      a list of all businesses contacted and an explanation of why those businesses could not
+perform the contract, or a reasonable explanation of why the state agency has determined that no businesses, besides
+the prospective contractor, exist.
+         B.        The bureau must obtain written approval of the agency's sole source determination from the GSD
+secretary or designee prior to executing a sole source contract or amendment to a sole source contract.
+[1.4.10.12 NMAC - N, 6/21/2022]
+
+1.4.10.13          RETROACTIVE APPROVAL FOR A CONTRACT OR CONTRACT AMENDMENT:
+          A.       The Procurement Code, Section 13-1-102, NMSA 1978, as amended, requires that all non-exempt
+procurement (Section 13-1-98 NMSA 1978) by state agencies shall be achieved by competitive sealed bids or
+competitive sealed proposals except for small purchases, sole source procurements, emergency procurements,
+existing contracts and procurements from antipoverty program business. For professional services, the proposal and
+procurement process are not complete until a written contract or contract amendment is signed by the agency and the
+contractor and any other signatory required by the bureau, and is approved by the bureau through the GSD secretary
+or designee.
+          B.       For retroactive approval of contracts and contract amendments which fulfill all of the requirements
+of this rule and the Procurement Code, GSD will approve the date requested in writing by the agency on the brief
+accompanying the document as long as the requested approval date is within thirty days of the first day of each
+fiscal year.
+
+
+
+
+1.4.10 NMAC                                                                                                           4
+          C.         For retroactive approval of contracts and contract amendments apart from the approval given
+pursuant to the provisions 1.4.10.13 NMAC of this rule, GSD may grant additional retroactive approval to a contract
+or contract amendment, based upon rare and exceptional circumstances, where all of the following conditions are
+met:
+                     (1)      the professional services performed without GSD’s prior approval of the contract did not
+occur as the result of repeated agency mistakes or willful misconduct;
+                     (2)      the failure to obtain GSD’s retroactive approval will prevent the state agency from
+fulfilling its statutory obligations;
+                     (3)      the state agency provides to GSD a written, factual, detailed explanation of the matters
+described in Paragraphs (1) and (2) of Subsection C of 1.4.10.13 NMAC, certified to be true by signature of the head
+of the state agency;
+                     (4)      the state agency requested, through a public officer or employee with authority to make
+such a request, the contractor to perform professional services that were then actually performed by the contractor in
+good faith reliance that it would be paid for those professional services.
+          D.         The Procurement Code, Section 13-1-182 NMSA 1978, as amended, and the department of
+finance and administration’s model of accounting practices (“MAPs”) govern situations in which GSD has denied a
+request for retroactive approval of a contract or contract amendment due to the state agency’s failure to meet the
+requirements of Subsections B or C of 1.4.10.13 NMAC of this rule.
+[1.4.10.13 NMAC - N, 6/21/2022]
+
+1.4.10.14         EMERGENCY PROCUREMENT: An emergency procurement of professional services may
+be made under the conditions provided in the Procurement Code. Records of any emergency procurement of
+professional services, including the written determination of the basis for the emergency procurement being relied
+on by the state agency as justification for the emergency procurement, shall be maintained by the state agency for a
+minimum of three years and shall be made available by the state agency to the financial control division upon
+request.
+[1.4.10.14 NMAC - N, 6/21/2022]
+
+1.4.10.15          COMPLIANCE: State agencies must comply with federal and state statutes, rules, regulations
+and policies and shall have their state agency’s legal counsel review all contracts and contract amendments
+certifying in writing that they are legally sufficient prior to submission to the bureau. Wrongful or mistaken
+approval by the bureau shall not be a defense to an action brought by or against the state agency on a contract.
+[1.4.10.15 NMAC - N, 6/21/2022]
+
+1.4.10.16        RECORDS:
+         A.      Record inspection, record retention and record destruction relating to contracts shall be conducted
+in accordance with the Inspection of Public Records Act, Sections 14-2-1 to 14-2-12 NMSA 1978; the Public
+Records Act, Sections 14-3-1 to 14-3-23 NMSA 1978; and with Section 13-1-128 NMSA pertaining to sole source
+and emergency procurement; and Section 13-1-116 NMSA 1978 of the Procurement Code.
+         B.      The bureau will retain original contracts, any subsequent amendments, and contract briefs,
+whether in hard copy or electronic formats, in accordance with provisions of the Inspection of Public Records and
+Public Records Act.
+[1.4.10.16 NMAC - N, 6/21/2022]
+
+1.4.10.17      RULE FILING: This rule shall be filed in accordance with the State Rules Act, Sections 14-4-1
+to 14-4-11 NMSA 1978 and shall become effective upon publication in the New Mexico Register.
+[1.4.10.17 NMAC - N, 6/21/2022]
+
+HISTORY OF 1.4.10 NMAC:
+Pre-NMAC History: The material in this part was derived from that previously filed with the State Records Center
+and Archives: DFA 2.40.2 NMAC, Governing the Approval of Contracts for the Purchase of Professional Services.
+Laws of 2019, Chapter 153, Section 6 transferred DFA's Rule 2.40.2 NMAC under the authority of the General
+Services Department. This new Rule 1.4.10 NMAC renumbers and therefore replaces the prior Rule pursuant to this
+law.
+
+History of Repealed Material: [RESERVED]
+
+
+
+1.4.10 NMAC                                                                                                            5
+

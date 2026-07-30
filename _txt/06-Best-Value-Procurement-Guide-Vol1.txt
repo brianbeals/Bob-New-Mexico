@@ -1,0 +1,2554 @@
+     Best Value Procurement Guide
+
+     Part 1 – Developing Request for RFPs
+
+
+
+
+Issued by:
+
+General Services Department
+State Purchasing Division
+State of New Mexico
+
+
+
+January 2016
+                              Best Value Procurement Guide – Part 1
+
+
+
+
+TABLE OF CONTENTS
+I.     Introduction .........................................................................................................................
+
+II.    Quick Reference Glossary ............................................................................................... Page 1
+
+III.   Overview of Best Value Procurement ............................................................................Page 4
+
+IV.    Developing Request for Proposals (RFPs) ............................................................... Page 9
+
+
+EXHIBITS
+Exhibit A: Sample RFP Template …………………………………………………………………….Page 17
+
+Exhibit B: RFP Amendment Form Template ..……………………………………………………Page 35a
+
+Exhibit C: Sample Application for Resident Certification …………………………………..Page 36a
+                      Best Value Procurement Guide – Part 1
+
+
+
+
+I. INTRODUCTION
+
+ This Guide to competitive requests for proposals has been prepared by the State Purchasing Division
+
+ (SPD) of the General Services Department (GSD) of the State of New Mexico (State) and is intended solely
+
+ as reference material for state agencies and local public bodies within New Mexico. This Guide does not
+
+ supersede local, state, or federal laws.
+
+
+
+ Best value procurement is the preferred method for considering evaluation factors in addition to
+
+ cost/price for use by any State agency for selecting a firm or contractor to provide services, goods, or
+
+ tangible personal property. The Guide has been organized into two primary sections that relate to
+
+ providing instructions and requirements to potential offerors as well as identifying the required content of
+
+ RFPs. The Guide includes examples of required documents to be used to ensure attention is given to all
+
+ the required steps and processes. These document samples can be tailored to specific procurements
+
+ without requiring new document creation.
+
+
+
+ In addition to a Quick Reference Glossary of terms, Section II, definitions are also provided in the Sample
+
+ RFP template, Exhibit A. Throughout the Guide, formal procurement terms are in italics. These definitions
+
+ reflect statute or other legal resources use and pertain only to this Guide. The statutory language should
+
+ be used to interpret any ambiguity.
+
+
+
+ Please direct any questions, comments about this Guide, or requests for assistance with any aspect of the
+
+ Best Value Procurement process to SPD, (505) 827-0472.
+II. QUICK REFERENCE GLOSSARY
+   Best Value Procurement: Procurement method implemented by issuing Request for Proposals (RFP)
+    where evaluation factors in addition to cost/price are considered in the selection of a firm or contractor
+    and encompasses the total benefits a State entity expects from the acquisition.
+
+   Code of Conduct: Governmental Conduct Act. NMSA 1978, §10-16-1, et seq.
+
+   Competitive Qualifications-Based Selection (QBS): Procurement method using an RFP but, because price is
+    not an evaluation factor for selection of a firm or contractor, does not qualify as Best Value Procurement.
+
+   Confidentiality Agreement: Written covenant governing how procurement activities should be carried out
+    by the evaluation committee. See also, Non-Disclosure Agreement.
+
+   Confidential information: “Any information which is available to an employee because of the employee’s
+    status as an employee within a state agency or a local public body which is not a matter of public
+    knowledge or available to the public on request.” NMSA 1978, §13-1-39
+
+   Conflict of Interest: A situation in which a person has a duty to more than one person or organization,
+    but cannot do justice to the actually or potentially adverse interests of both parties. Black’s Law
+    Dictionary 363 (10th Ed.) 2014
+
+   Construction: “Building, altering, repairing, installing or demolishing in the ordinary course of business
+    any:
+             (1) road, highway, bridge, parking area or related project;
+             (2) building, stadium or other structure;
+             (3) airport, subway or similar facility;
+             (4) park, trail, athletic field, golf course or similar facility;
+             (5) dam, reservoir, canal, ditch or similar facility;
+             (6) sewage or water treatment facility power generating plant,
+                   pump station, natural gas compressing station or similar facility;
+             (7) sewage, water, gas or other pipeline;
+             (8) transmission line;
+             (9) radio, television or other tower;
+             (10) water, oil or other storage tank;
+             (11) shaft, tunnel or other mining appurtenance;
+             (12) electrical wiring, plumbing or plumbing fixture, gas piping, gas
+                   appliances or water conditioners;
+             (13) air conditioning conduit, heating or other similar mechanical
+                   work; or
+             (14) similar work, structures or installations.
+    Shall also include:
+             (1) leveling or clearing land;
+             (2) excavating earth;
+             (3) drilling wells of any type, including seismographic shot holes or core drilling; and
+             (4) similar work, structures or installations.” NMSA 1978, §13-1-40
+
+   Contract: “Any agreement for the procurement of tangible personal property, services or construction.”
+    NMSA 1978, §13-1-41
+
+   Contractor: “Any business having a contract with a state agency or local public body.”
+    NMSA 1978, §13-1-43
+                                             1
+                     Best Value Procurement Guide – Part 1
+
+
+
+   Design/Build: Type of project in which the contract includes design and construction services.
+    NMSA 1978, §13-1-119.1
+
+   Goods: Tangible and consumable personal property having a physical existence, i.e., durable, commercial
+    off-the-shelf products such as vehicles, computers, and equipment; products of economic output.
+
+   Invitation for Bids: All documents, including those attached or incorporated by reference, used for
+    soliciting sealed bids.
+
+   Local Public Body: “Every political subdivision of the state that expends public money from whatever
+    source derived, including but not limited to counties, county institutions, bureaus or commissions;
+    incorporated cities, towns or villages, drainage, conservancy, irrigation or other districts; charitable
+    institutions for which an appropriation is made by the legislature; and every office or officer of any of
+    the above.” NMSA 1978, §6-6-1
+
+   Low-Bid Procurement: Procurement process for selecting a firm or contractor based exclusively on price
+    obtained by verbal or written quotes or issuing an official Invitation for Bids. Also referred to as Low or
+    Lowest-Priced Procurement.
+
+   Non-Disclosure Agreement: see Confidentiality Agreement.
+
+   Nonresponsive: Proposal or bid that does not conform to requirements set forth in the Request for
+    Proposals or Invitation for Bids and is not evaluated by the evaluation committee.
+
+   Procurement:
+           “A. purchasing, renting, leasing, lease purchasing or otherwise acquiring items of tangible
+                 personal property, services or construction; and
+            B. all procurement functions, including but not limited to preparation of specifications,
+                 solicitation of sources, qualification or disqualification of sources, preparation and award
+                 of contract and contract administration.” NMSA 1978, §13-1-74
+
+   Procurement Manager: Individual responsible for purchasing or otherwise acquiring items of tangible
+    personal property, services, or construction or for managing and coordinating procurement agents,
+    buyers, or purchasing agents; the primary point of contact for a firm or contractor.
+
+   Professional Services: “Services of architects, archeologists, engineers, surveyors, landscape architects,
+    medical arts practitioners, scientists, management and systems analysts, certified public accountants,
+    registered public accountants, lawyers, psychologists, planners, researchers, construction managers and
+    other persons or businesses providing similar professional services, which may be designated as such by
+    a determination issued by the state purchasing agent or a central purchasing office.”
+    NMSA 1978, §13-1-76
+
+   Qualifications-Based Selection (QBS): Procurement process for selecting architects, engineers, landscape
+    architects, surveyors, and construction management professionals on the basis of qualifications and
+    subsequent negotiations as to price rather than price being an evaluation factor.
+
+   Request for Proposals (RFP): “All documents, including those attached to or incorporated by reference,
+    used for soliciting proposals.” NMSA 1978, §13-1-81. “Material respects of a request for a proposal
+    include, but are not limited to, price, quality, quantity or delivery requirements.”
+    NMSA 1978, §13-1-85
+
+
+                                                    2
+                     Best Value Procurement Guide – Part 1
+
+   Resident Preference: “Business with a valid resident business or contractor certificate issued by the NM
+    Taxation & Revenue Department.” NMSA 1978, §13-1-22(A)
+
+   Responsible Bidder: “Bidder who submits a responsive bid and has furnished, when required, information
+    and data to prove that his financial resources, production or service facilities, personnel, service
+    reputation and experience are adequate to make satisfactory delivery of the services, construction or
+    items of tangible personal property described in the Invitation for Bids.” NMSA 1978, §13-1-82
+
+   Responsible Offeror: “Offeror who submits a responsive proposal and has furnished, when required,
+    information and data to prove that his financial resources, production or service facilities, personnel,
+    service reputation and experience are adequate to make satisfactory delivery of the services or items of
+    tangible personal property described in the proposal.” NMSA 1978, §13-1-83
+
+   Responsive Bid: “Bid which conforms in all material respects to the requirements set forth in the
+    Invitation for Bids. Material aspects of a bid include, but are not limited to, price, quality, quantity or
+    delivery requirements.” NMSA 1978, §13-1-84
+
+   Responsive Offer: “Offer which conforms in all material respects to the requirements set forth in the
+    Request for Proposals. Material respects of a proposal include, but are not limited to, price quality,
+    quantity or delivery requirements.” NMSA 1978, §13-1-85
+
+   Scope of Work: Specific details of work to be performed in completion of a project under a contract.
+
+   Services: “Furnishing labor, time or effort by a contractor not involving the delivery of a specific end
+    product other than reports and other materials which are merely incidental to the required
+    performance; includes the furnishing insurance but does not include construction or the services of
+    employees of a state agency or a local public body.” NMSA 1978, §13-1-87
+
+   State Agency: “Any department, commission, council, board, committee, institution, legislative body,
+    agency, government corporation, educational institution or official of the executive, legislative or judicial
+    branch of the government of this state; includes the purchasing division of the general services
+    department and the state purchasing agent but does not include local public bodies.”
+    NMSA 1978, §13-1-90
+
+   Subcontractor: “Individual who takes a portion of a contract from the principal contractor or another
+    subcontractor.” Black’s Law Dictionary 1651 (10th Ed.) 2014
+
+   Tangible Personal Property: “Tangible property other than real property having a physical existence,
+    including but not limited to supplies, equipment, materials and printed materials.” NMSA 1978, §13-1-93
+
+   Vendor: Entity providing a service or tangible personal property to a state agency.
+
+   Veterans Preference: Business with a valid resident veteran business certificate issued by the NM
+    Taxation & Revenue Department. See NMSA 1978, §13-1-22(A). See also, State Purchasing Division
+    (SPD) Policy Memo FY13-001: Application of Veterans Preference, attached as Exhibit H to Policy Memo.
+
+
+
+
+                                                     3
+                               Best Value Procurement Guide – Part 1
+
+III. OVERVIEW OF BEST VALUE PROCUREMENT
+
+Purposes of the Procurement Code:
+
+       A. to provide fair and equitable treatment of all persons involved in public procurement;
+       B. to maximize the purchasing value of public funds; and
+       C. to provide safeguards for maintaining a procurement system of quality and integrity.
+          NMSA 1978, §13-1-9(C)
+
+Most purchases by government for services and tangible personal property are done on the
+basis of lowest price. The best contractors for a large construction project, work in the
+specialized field of information technology (IT), or a complex professional services purchase
+should be more than minimally qualified in their respective fields. Entering into a contract for
+these services based on price alone would not be the best use of fiscally-constrained tax
+dollars. For many projects, price is only one factor to consider, and Best Value Procurement
+should be used in those instances.
+
+Consider using Best Value Procurement for larger, higher priced procurements, including major
+construction, manufacturing, and complex professional services valued at more than $60,000,1
+where risk of late or substandard work is expected to outweigh the cost of avoidance. Always
+enter into a contract with a firm that has demonstrated it will complete a project on time,
+meet specifications, and provide a superior end-product with reduced risk.
+
+Purchases of small dollar, commercial off-the-shelf, non-fabricated tangible personal property
+alone, without a services component, generally lend themselves better to Low-Bid Procurement
+methods.2 Follow the requirements for “Competitive Sealed Proposals” in New Mexico State
+Statutes and the New Mexico Administrative Code.3 In contrast, “Competitive Sealed Bids,” or
+Low-Bid Procurement, focus on identifying the lowest responsive and responsible bidders for a
+project.
+
+Always make procurement decisions based on the greatest public interest, regardless of the
+type of services, tangible personal property, goods being procured, or the type of procurement
+method used. Figure 1 below illustrates the types of procurement best served by Best Value
+Procurement versus Low-Bid Procurement. The importance of non-price factors impact
+procurement decisions.
+
+
+
+
+1
+    Small purchases threshold, NMSA 1978, §13-1-125
+2
+    Competitive sealed proposals, conditions of use. NMSA 1978, §13-1-111
+3
+ State of New Mexico Procurement Code, NMSA 1978, §13-1-28 through 199; Use of Competitive Sealed Proposals for
+Construction and Facility Maintenance, Services and Repairs, Rule 1.4.8, NMAC. Certain types of procurements and entities are
+exempt from the Procurement Code, NMSA 1978, §13-1-98. Exempt entities must adopt and follow their own established
+procurement processes and codes
+
+                                                                 4
+                                         Best Value Procurement Guide – Part 1
+
+
+Figure 1: Recommended Use—Best Value Procurement vs. Low-Bid Procurement
+
+
+       Competitive
+         Sealed
+       PROPOSALS
+                                               COMPLEX SERVICES
+            BEST
+                                               Complex services carry a higher risk for substandard, late
+           VALUE                               performance, or less than satisfactory personnel.
+              Price is ONE factor
+
+
+
+
+                                               CONSTRUCTION
+                                               Building, alteration, repair, installation, or demolition of
+                                               buildings, structures, roads, and facilities where schedule,
+                                               quality, and performance risk must be abated
+              Price is THE ONLY factor
+
+
+
+
+                                               ROUTINE & NON-PROFESS IONAL SERVICES
+                                               Routine repair, maintenance, and janitorial services that do
+                                               not involve delivery of a specific tangible product or carry
+                                               a high risk associated with late or substandard
+                                               performance
+
+
+
+                                               GOODS
+           LOWEST                              Tangible and consumable personal property having a
+                                               physical existence, i.e., durable, commercial off-the-shelf
+             BID                               products such as vehicles, computers, and equipment
+
+
+       Competitive
+         Sealed
+          BIDS
+
+
+
+
+                                                               5
+                     Best Value Procurement Guide – Part 1
+
+Best Value Procurement facilitates selecting contractors based on qualifications and criteria
+where price is one of several factors. State agencies and local governments realize advantages
+when using this type of procurement:
+
+      Allows discussions, clarifications, and negotiations with potential contractors
+       (responsible offerors);
+
+      Provides for tailoring specific projects, i.e., those that may require a combination of
+       tangible personal property, professional services, and construction, including
+       design/build, or those that involve phasing;
+
+      Establishes an open, standardized, and competitive environment for responsible
+       offerors;
+
+      Reduces schedule and quality risks for major projects;
+
+      Delineates clearly procurement priorities by identifying in the contract formation phase
+       of the acquisition the relative weighting of evaluation criteria for an award;
+
+      Allows a state agency to place a premium on selecting contractors with lower likelihood
+       of claims/disputes and higher likelihood of contractor responsiveness;
+
+      Increases accountability for delivery of services, tangible personal property,
+       construction, and products;
+
+      Increases likelihood of a collaborative relationship between the contractor and the
+       state agency during performance after the award;
+
+      Provides that a contractor’s performance risk (cost, schedule, quality) is
+       evaluated/appraised on realistic expectations consistent with state agency goals;
+
+      Minimizes risk of poor-quality workmanship and “corner–cutting” sometimes
+       associated with a “low bid” mentality; and
+
+      Reassures potential offerors that a sensible investment in time, resources, and
+       opportunity costs to distinguish their firms from others provides a reasonable
+       likelihood of yielding a profitable contract award versus simply undercutting a
+       competitor’s price.
+
+Once the procurement officer makes a written determination that Best Value Procurement is
+preferred for a specific purchase, the state agency must determine it has adequate resources
+to carry out the process properly. The state agency must also consider the viability and
+
+
+
+
+                                              6
+                             Best Value Procurement Guide – Part 1
+
+legality of the project. Finally, life-cycle of the product should be a prominent factor in making
+procurement decisions.
+
+Some state agencies might conclude they have inadequate personnel, expertise, or time to fully
+execute a complex Best Value Procurement RFP. By law, the state agency must comply at all
+times with all state regulations regarding procurement, including the State Use Act.4 Be
+familiar with applicable Procurement Code requirements and speak with a buyer at SPD prior
+to initiating an unfamiliar or complex procurement process. In addition, SPD provides
+procurement documents, training, and additional resources through its website:
+http://www.generalservices.state.nm.us/statepurchasing/.
+
+Although the preferred procurement method, Best Value Procurement is not always used.
+Some procurement decisions are appropriately based solely on price. In addition, some
+projects are exempt from either Best-Value Procurement or the Procurement Code
+regulations.5 Examples of exemptions:
+
+          Municipalities with home rule charters and purchasing ordinances;
+
+          Contracts with professional entertainers;
+
+          Contracts for museum artworks;
+
+          Contracts for a QBS procurement that use a specific process for obtaining the
+           professional services of architects, engineers, landscape architects, surveyors, and
+           construction management professionals; and
+
+          Contracts for the purchase of research consultant services by institutions of higher
+           learning.
+
+
+Only after the State Purchasing Agent or the Procurement officer provides a written
+determination that Best Value Procurement is in the best interest of the procuring entity may
+that method be used. Include such written determination in the procurement file. SPD
+ultimately ensures compliance with the New Mexico Procurement Code, but all parties
+involved in the public procurement process have a fiduciary responsibility to uphold
+standards to ensure that taxpayer dollars yield best-value outcomes for the general public
+(see Figure 2, below).
+
+
+
+
+4
+    State Use Act, NMSA 1978, §13-1C-1 through §13-1C-7
+5
+    Exemptions from the Procurement Code, NMSA 1978, §13-1-98
+
+                                                            7
+                     Best Value Procurement Guide – Part 1
+
+Figure 2: Oversight roles and responsibilities of participants involved in the
+procurement process
+
+
+PARTICIPANT       EMPLOYER     ROLE IN THE PROCUREMENT PROCESS
+
+Procurement       State        This individual provides the necessary resources to carry out the
+Officer           Purchasing   functions outlined in the New Mexico Procurement Code for all
+(or State         Division     applicable public transactions. In some situations, the procurement
+Purchasing                     officer will execute many of the procurement functions on behalf of
+Agent)                         a state agency. The procurement officer is a non-voting participant
+                               in the procurement process and guides the proper application of the
+                               procurement law, rule, and guidelines.
+
+Procurement       Any state    This individual oversees the procurement processes within the
+Manager           agency       respective state agency. The procurement manager is the liaison
+                               between the state agency and the procurement officer at SPD. To
+                               ensure impartiality, procurement managers are non-voting
+                               participants in the procurement process.
+
+Project/Program Any state      This individual has expertise in the specific services or goods being
+Manager         agency         procured and usually will manage the contract's full implementation
+                               once the contract terms have been finalized. Because of the
+                               project/program manager’s expertise, he should provide input
+                               during the drafting of the scope of work and, in some cases,
+                               participate as a member of the evaluation committee.
+
+Evaluation        Various      A group usually made up of three to five individuals from various
+Committee                      backgrounds recruited for a specific procurement by the
+                               procurement manager and the project/program manager. This group
+                               evaluates the responsive proposals and ultimately recommends a
+                               successful responsible offeror to the source selection authority to
+                               carry out the scope of work outlined in a contract (see “Selecting the
+                               Evaluation Committee” – Best Value Procurement Guide Part 2,
+                               Section V).
+
+General Counsel   Any state    This individual, prior to state agencies finalizing an award, reviews all
+                  agency       documents, contracts, and amendments to ensure legal sufficiency
+                               of the procurement.
+
+Subject Matter    Various      The evaluation committee may request as part of its evaluation the
+Expert (SME)                   advice, recommendations, or expertise of non-voting SMEs. For
+                               construction projects, architects and engineers with expertise in the
+                               type of project being undertaken can provide invaluable consultative
+                               services as part of the evaluation process.
+
+
+
+                                                 8
+                       Best Value Procurement Guide – Part 1
+
+IV. DEVELOPING REQUEST FOR PROPOSALS
+
+   Best Practices: Developing Request for Proposals (RFP)
+
+   1. Be thorough when drafting the RFP. The more detail provided to prospective responsible offerors
+      in the RFP, the less risk for “contingency” pricing.
+   2. Use language that does not restrict competition, such as a requirement to use patent-protected
+      tangible or intellectual property in carrying out the project. These resources might not be
+      accessible to all potential responsible offerors and requiring them would be exclusionary in
+      nature. Similarly, do not use past experience requirements that might exclude qualified
+      responsible offerors from submitting a proposal.
+   3. Involve several people, including potential managers of the proposed project, to review the RFP
+      for accuracy and clarity prior to finalizing the document.
+
+
+
+Once the procurement officer approves a Best Value Procurement, the procurement manager
+shall develop an RFP for the project. Although state agencies may reserve the right to request
+information outside of the RFP process, the RFP is the primary document in which evaluation
+criteria is outlined and information requested. If information regarding important evaluation
+criteria is not included in the RFP, it cannot be used later to evaluate the proposals.
+
+Greater specificity within the technical requirements of the RFP will limit proposals to narrow
+technical parameters and reduce the evaluation committee’s need to differentiate on
+qualifications rather than price. Conversely, the evaluation committee is likely to find that
+RFPs with very broad technical requirements will yield a selection of proposals with a higher
+degree of variation in qualifications and price. In a best-value scenario, price would likely be a
+less consequential factor in the overall evaluation scheme. Relative weighting of price to other
+evaluation criteria should be directly tied to the state agency’s confidence in the technical
+specifications of the project.
+
+RFPs vary substantially. Those for routine services and for some professional services can be
+short and straightforward. RFPs for complex professional services are more extensive and will
+incorporate technical specifications. This is also true for the QBS procurement process for the
+selection of architects, engineers, landscape architects, and surveys, which does not utilize
+price or cost as a factor to be considered in evaluation criteria. Large construction projects are
+highly technical and might include additional requirements, such as statements of
+qualifications, bonding, and safety records. In all cases, however, the RFP must contain the
+following basic elements:
+
+       A. Background and Need for the Project: Answers the question “WHY?”
+
+           Include one or two paragraphs that describe why the project is important to or
+           required by the state agency, the need(s) it will address and, once completed, how
+           and by whom it will be used.
+
+                                                   9
+              Best Value Procurement Guide – Part 1
+
+
+B. Project Description: Answers the questions “WHO, WHAT, WHERE, WHEN?”
+
+   If the project is a professional service, include one or two paragraphs that describe
+   the deliverables required, such as reports, data, or drawings; the required
+   format(s) of the deliverables; the deadline(s) for various phases and final
+   completion of the project. The project description must also include any technical
+   specifications or professional standards required for the project. If any planning or
+   background documents exist, reference them here as exhibits or attachments to the
+   RFP, or make them available on a website or at an office address.
+
+   If the project is construction or facility maintenance, include one or two paragraphs
+   that describe the location, size, and type of facilities involved and deadlines for
+   various phases and final completion of the project. The project description must
+   also describe any required technical specifications or professional standards. If any
+   planning, design, engineering, or background documents exist, reference them here
+   as exhibits or attachments to the RFP, or make them available on a website or at an
+   office address.
+
+C. Budget Information: Determine project budgets by reviewing past background
+   studies and planning documents. Disclose specific budget parameters for all project
+   types.
+
+D. Procurement Process Information
+
+   1. Questions about the RFP: State agencies typically allow potential offerors to ask
+      questions about the RFP, particularly if the RFP does not include a pre-proposal
+      conference. Provide instructions to potential offerors that responses will be
+      provided only to questions submitted in writing and only to clarify information
+      already included in the RFP. Written questions must be received not later than
+      the RFP specified receipt date, typically at least 3 days prior to the proposal due
+      date, and should be sent via email to the procurement manager or staff person
+      or posted in a field-fillable document on the state agency’s website. All
+      questions and responses must be made public to all offerors.
+
+   2. Amendments to the RFP: Instruct potential offerors on requesting copies of
+      RFP amendments, if issued. The simplest method for amending the RFP is to
+      post the amendment on the state agency’s website. If this method is used,
+      provide the state agency’s website address in this section. Alternatively, offerors
+      can register with the state agency by providing their contact information to the
+      procurement manager or staff person who will distribute the RFP amendments
+      when issued to all potential offerors. As a general rule, if amendment content to
+      RFPs is expected to affect price or technical content, issue the amendment no
+      later than one (1) week before the due date for proposal submissions.
+
+
+                                       10
+              Best Value Procurement Guide – Part 1
+
+
+   3. Proposal Submissions: Provide the required date, time, and physical address
+      for submitting proposals as well as instructions for separating technical and
+      cost proposals. Each proposal (technical proposal and cost proposal) must be
+      submitted in separate, sealed packages, with the number and name of the RFP
+      referenced on each envelope. Confirm that proposals received after the deadline
+      will be considered nonresponsive and will not be opened or evaluated.
+
+   4. Pre-Proposal Conference: If a pre-proposal conference is planned, provide the
+      time, date, and physical location of the conference as well as whether
+      attendance is mandatory.
+
+   5. Interviews: Inform offerors that the state agency may or may not conduct
+      interviews with one or more of the responsible offerors prior to entering into
+      contract negotiations.
+
+   6. Nonresponsive Proposals: State specifically that proposals not meeting the
+      requirements set forth in the RFP may be deemed nonresponsive and, therefore,
+      not eligible for further consideration. A proposal submitted after the deadline
+      stated in the RFP would be deemed nonresponsive.
+
+E. Definitions: Providing definitions is optional but helpful when working with
+   complex terms that could have various meanings in different contexts.
+
+F. Proposal Format
+
+   1. Page Limit and Formatting: Describe any page limits and formatting
+   requirements. Typically, simple professional services projects may be limited to ten
+   pages, not including key project staff resumes and other attachments. IT and
+   construction projects may be longer, twenty to thirty pages, not including key
+   project staff resumes and other attachments.
+
+   RFPs may also require potential offerors to use 10 or 12-point type and one inch
+   margins to ensure readability.
+
+   RFPs usually require that the offeror submit several copies of each proposal so that
+   each member of the evaluation committee can receive a copy to evaluate
+   simultaneously. Provide instructions if an electronic copy of a proposal is required.
+
+   State statute grants the procurement officer the right to waive technical
+   irregularities that do not alter the price, quality, or quantity of the services, items of
+   tangible personal property, or construction bid or offered as long as the
+   irregularities are insignificant mistakes that can be corrected without prejudice to
+
+
+
+
+                                         11
+              Best Value Procurement Guide – Part 1
+
+   other responsible bidders (see NMSA 1978, §13-1-132, and Rule 1.4.1.42 NMAC:
+   Mistakes in Proposals). Formatting irregularities can be a disqualifying
+   transgression that result in a determination that the proposal is nonresponsive.
+
+
+
+   2. Proposal Content: Instruct offerors to include a submittal or cover letter to
+   reference the RFP number and title, name, contact information, and signature of the
+   principal, president, general contractor, or team leader. Offerors should identify a
+   timeframe for duration the price proposal will remain in effect and include a
+   statement verifying that all information provided in the proposal is true and
+   correct, acknowledge all RFP amendments, and indicate a willingness to be bound
+   by general contact terms and conditions contained in the sample contract.
+
+   Technical proposals consist of responses to technical evaluation criteria:
+
+      a) past performance or qualifications;
+      b) experience relevant to the project;
+      c) project staffing or project team;
+      d) management plan or approach to the project;
+      e) health and safety record (for construction and facility maintenance projects);
+      f) resident preference.
+
+   Price proposals consist of a response to price evaluation criteria.
+
+G. Evaluation Criteria: In an actual RFP, provide the total number of points assigned
+   to each criterion. For more details on assigning value to interviews, see the
+   Managing the Procurement Process section.
+
+   The New Mexico Administrative Code has specific requirements for construction
+   and facility maintenance, service, and repair projects. Criteria for these projects
+   must include past performance, management plan, project staffing/craft labor
+   capabilities, and health and safety. Price can be assigned up to 70% of the total
+   points; each of these four criteria must be assigned at least 20% of the total
+   remaining points (see Figure 3). A state agency can identify additional evaluation
+   factors and assign points for those factors as appropriate for the type of
+   procurement being done.
+
+
+
+
+                                       12
+                       Best Value Procurement Guide – Part 1
+
+
+ Figure 3: Scoring breakdown of non-price criteria
+
+
+                                            Non-Price Criteria:
+                               Once price (shown in gray below)
+                       has been assigned a weight of up to 70% of
+                    the total score, allocate the remaining points
+                 to non-price criteria (shown in shades of red).
+            Weights and quantity of non-price criteria
+            will vary by project; assigned in accordance
+              to the needs of the state agency,
+                   except in projects involving
+                          construction, as noted
+                                      below.
+
+
+
+
+Price
+Criteria
+
+                         Non-Price
+                         Criteria
+
+
+
+
+For construction projects, of the points available for                    20%
+non-price criteria, at least 20% must be allotted to
+each of the following four categories:                                    1             20%
+                                                                                    2
+1) Past Performance;
+2) Management Plan;
+3) Project Staffing/Craft Labor Capabilities; and                                       3
+4) Health and Safety.                                                                       20%
+The remaining 20% of the non-price criteria points are         5      4
+available to assign to:                                         20%           20%
+5) other criteria that the state agency deems
+                                                                5               4
+appropriate, such as financial capabilities,
+warranty, or scheduling.
+[Rule 1.4.8.1-15, NMAC]
+
+
+
+                                                 13
+          Best Value Procurement Guide – Part 1
+
+1.   Past Performance or Qualifications (X Points): In the Past Performance or
+     Qualifications section, instruct the offeror to summarize the qualifications of
+     the firm, company or project team. This section should address the field(s) in
+     which the team works; general credentials of the team members; the number
+     of years it has operated or the team has worked together; size in terms of
+     staffing and/or revenue; and overarching performance metrics, such as
+     customer satisfaction rates (assessed through surveys, focus groups, etc.), on-
+     time and on-budget completion rate, or any special awards and distinctions.
+
+     Provide instructions for the offeror to respond to any required minimum
+     requirements for the firm or team qualifications.
+
+2.   Experience Relevant to the Project (X Points): Experience relevant to the
+     project can be a factor under Past Performance or Qualifications but is also
+     useful as a stand-alone evaluation criterion. The RFP can require the offeror to
+     provide a reasonable number of examples of similar projects completed in the
+     recent past but should not be worded to be unnecessarily restrictive and limit
+     competition. The RFP must provide for full and open competition.
+
+     Instruct the offeror to include one to two paragraphs on each project, together
+     with the client names and addresses, budgets, and timeframe of the projects.
+     The RFP may request up to three references for the projects included. In
+     addition, the RFP can ask for information detailing whether the staff members
+     assigned to successful previous projects mentioned in the proposal will be the
+     same people assigned to the current proposed project under the Project
+     Staffing or Project Team section.
+
+     Provide instructions on any minimum requirements for the type of experience
+     the state agency will consider; that information must be included in this
+     section of the RFP. All requirements should be reasonable within the current
+     context of the field in which the project will be carried out and not unfairly
+     restrict qualified offerors from competing. Below are examples of justifiable
+     requirements that impact competition in the construction field:
+
+         Restrictions on technical specifications of past projects:
+              Must have experience constructing at least one Bio-Safety Level II or III labs in the
+              last five years (restrictive by specialty project where technical specifications are
+              required)
+
+         Restrictions on geographical past experience:
+              Must have experience working on projects in rural New Mexico (restrictive by
+              geographic challenges but not specific geography)
+
+         Restrictive by interval of time:
+              Must have constructed at least three projects over $10m in the last five years
+              (restrictive by project size/scope during a reasonable interval of time).
+
+
+
+                                        14
+           Best Value Procurement Guide – Part 1
+
+ 3.   Project Staffing or Project Team (X Points): Instruct offeror to provide one
+      paragraph to include the team member’s name, title, and qualifications for
+      each member of the project team. This section should also include an
+      organizational chart depicting how the team functions or works together for a
+      particular project. The RFP should require resumés for key members of the
+      project team to be provided as attachments to the proposal. Some RFPs may
+      also request a matrix with the project team members on one axis and relevant
+      project experience or areas of expertise on the other axis.
+
+      Provide instructions in this section on any minimum requirements that must
+      be included for the type of firm or team the state agency will consider (e.g., the
+      team must include at least one engineer licensed in the State of New Mexico).
+
+4.    Management Plan or Approach to the Project (X Points): Instruct offeror to
+      describe in this section how it proposes to organize, manage, and administer
+      the project to meet the project requirements, including but not limited to
+      budget, phasing, completion date, quality, and safety. A project schedule must
+      be included in this section. If the project is atypical, this section provides an
+      opportunity for the offeror to suggest innovative solutions or approaches.
+
+5.    Health and Safety Record (for Construction and Facility Maintenance projects)
+      (X Points): Several metrics in the construction industry can be helpful in
+      predicting future safety performance and assessing an offeror’s commitment
+      to the safety of a future project. Typical of safety components found in a
+      construction RFP (Rule 1.4.8.12.(D)(3)(c)(ix), NMAC):
+
+          Experience Modification Rate (EMR): The insurance industry uses this multiplier for
+           workers’ compensation claims records.
+
+          Recordable Incidents Rate (IR Rate):             The Occupational Safety and Health
+           Administration (OSHA) calculates this rate as the number of recordable incidents
+           multiplied by 200,000 divided by the total number of employee hours worked in a year.
+           Severity of the incidents is not accounted for in this measure.
+
+          Total Lost Workday Incident Rates: Calculate this rate by the number of lost-time
+           injuries and illnesses x 200,000 ÷ total hours worked.
+
+          Safety Plan: The evaluation committee should have the expertise and time to evaluate
+           the nuances of submitted plans if requesting a site specific Safety Plan as part of a
+           construction proposal. Safety Plans should not be evaluated on a pass/fail rule.
+
+          Sample questions:
+
+              o    Is the firm free of serious or willful violations of federal or state safety laws as
+                   determined by a final non-appealable decision of a court or government? If no,
+                   explain.
+              o    Has the firm had any federal or state safety fines or jobsite fatalities in the last
+                   three years? If yes, explain.
+
+
+                                         15
+                             Best Value Procurement Guide – Part 1
+
+                      When determining points above the minimum 20% of non-price criteria to
+                      allot to the Health and Safety Record category, a state agency and evaluation
+                      committee must consider whether the project will involve occupied facilities,
+                      new construction on a vacant lot, or highly technical work that could represent
+                      additional hazards.
+
+              6.      Preference: Include in this section the number of points to be allotted for a
+                      resident preference, how those points can be obtained, and how they will be
+                      factored into the scoring of the proposals. A state agency must include a
+                      veterans preference in accordance with state statutes, which can be awarded
+                      to offerors who have met the requirements.6
+
+              7.      Price (X Points): Provide requirements for the relative value of price in
+                      relation to non-price criteria.
+
+         H. General Requirements: Provide the general legal terms and conditions relevant
+            to procurement and subsequent contract, if awarded. State clearly the legal basis for
+            the procurement, whether the State of New Mexico Procurement Code or the
+            procurement code of the state agency.7 Use Exhibit A, Sample RFP Template,
+            Section C, as a guide for state agencies to develop their own general requirements.
+
+         I. Appendices: Instruct offeror to provide in an Appendix items such as additional
+            certificates, reports, forms, or information required as part of the procurement.
+            Examples include: Acknowledgement of Receipt form, Campaign Contribution
+            Disclosure form, New Mexico Employees Health Coverage form, Letter of
+            Transmittal form, Resident Veterans Certification, Reference Questionnaire, and
+            Conflict of Interest Affidavit.
+
+         J. Additional Requirements for Construction Projects:
+
+              Security and Bonds                                          Subcontractor Listing Form
+              General Contractor’s Statement of                           Subcontractor’s Statement of
+              Qualifications                                              Qualifications
+              Resident Business Certificate                               Resident Contractor’s Certificate
+              Notarized Declaration of Surety                             Copy of Firm’s Written Safety Plan
+              Letter(s) from Insurance Carriers                           Written Assurance Program
+              Affirmative Action Policy              Management Plan
+              Projects Currently Under Contract >$1m Affidavit of Non-Violation of Labor Codes
+
+6
+ Application of preferences and Resident business, resident veteran business, resident contractor and resident veteran contractor
+certification, NMSA 1978, §§13-1-21, 22, respectively, and Resident contractor defined; application of preference, NMSA 1978,
+§13-4-2
+7
+ Application (Competitive Sealed Proposal Procedures for Construction and Facility Maintenance, Service and Repairs, Rule
+1.4.8.8 (C), NMAC
+
+                                                                16
+        THIS PAGE: ONE SIDED
+
+    Exhibit A: Sample RFP Template
+
+
+  STATE PURCHASING DIVISION
+              OF THE
+ GENERAL SERVICES DEPARTMENT
+               AND
+   <Insert State agency Name>
+
+REQUEST FOR PROPOSALS (RFP)
+
+
+    <Insert RFP Name>
+
+
+
+
+               RFP#
+
+                 17
+                                 Best Value Procurement Guide – Part 1
+
+                                                   <Insert RFP Number>
+
+                                                   <Insert Release Date>
+
+                                                      <Insert Due Date>
+ Table of Contents
+
+
+ I. INTRODUCTION …………………………………………………………………………………………………….. 3a
+    A. PURPOSE OF THIS REQUEST FOR PROPOSALS……………………………………………………...3a
+    B. BACKGROUND INFORMATION………………………………………………………………………………3a
+    C. SCOPE OF PROCUREMENT…………………………………………………………………………………….3a
+    D. PROCUREMENT MANAGER ……………………………………………………………………………..…. 3a
+    E. DEFINITIONS OF TERMINOLOGY……………………………………………………………………………3a
+    F. PROCUREMENT LIBRARY……………………………………………………………………………………….5a
+II. CONDITIONS GOVERNING THE PROCUREMENT…………………………………………………..……5a
+    A. SEQUENCE OF EVENTS ………………………………………………………..…………………….…………5a
+    B. EXPLANATION OF EVENTS……………………………………………………………………..………………6a
+    C. GENERAL REQUIREMENTS ………………………………………………………..…………………….…….8a
+ III.      RESPONSE FORMAT AND ORGANIZATION …………………………………………………………………………15a
+
+    A. NUMBER OF RESPONSES ..................................................................................................... 15a
+    B. NUMBER OF COPIES............................................................................................................. 15a
+        C. PROPOSAL FORMAT ........................................................................................................... 16a
+ IV. SPECIFICATIONS ..................................................................................................................... 17a
+        A.TECHNICAL SPECIFICATIONS .............................................................................................. 17a
+        B. BUSINESS SPECIFICATIONS ................................................................................................. 18a
+V. EVALUATION .. ......................................................................................................................... 19a
+   A. Evaluation Point Summary .....………………………………………………………………………………….……19a
+    B. Evaluation Factors ………………………………………………………………………………………….…………….20a
+    C. EVALUATION PROCESS ........................................................................................................ 21a
+
+
+ APPENDIX A: Acknowledgement of Receipt of Request for Proposals form............................. 22a
+ APPENDIX B: Campaign Contribution Disclosure form .............................................................. 23a
+ APPENDIX C: Statewide Price Agreement Terms and Conditions ............................................. 25a
+
+                                                                     1a
+                           Best Value Procurement Guide – Part 1
+
+APPENDIX D: Cost Response form ............................................................................................. 26a
+APPENDIX E: New Mexico Employees Health Coverage form ................................................... 27a
+APPENDIX F: Letter of Transmittal form .................................................................................... 28a
+APPENDIX G: Reference Questionnaire ..................................................................................... 30a
+APPENDIX H: Resident Veterans Certification ………………………………………………………………….…. 33a
+APPENDIX I: Conflict of Interest Affidavit …..…..……………………………………………………….…………..34a
+
+
+
+
+                                                              2a
+                      Best Value Procurement Guide – Part 1
+
+I. INTRODUCTION
+A.     PURPOSE OF THIS REQUEST FOR PROPOSALS
+The purpose of the Request for Proposal (RFP) is to solicit sealed proposals to establish a contract
+through competitive negotiations for the purchase of <Insert what you are buying and what it is to do>
+
+B.     BACKGROUND INFORMATION
+<Insert Background information that led up to the reason your State agency is doing this procurement.>
+
+C.     SCOPE OF PROCUREMENT
+<Insert scope of procurement; what you are looking to purchase and why>
+
+D.     PROCUREMENT MANAGER
+1.       <State agency name> has assigned a Procurement Manager who is responsible for the conduct
+of this procurement whose name, address, telephone number and e-mail address are listed below:
+
+       Name:           <State agency Persons name>, Procurement Manager
+       Address:        <State agency Name and address>
+       Telephone:
+       Fax:
+       Email:
+
+2.     All deliveries of responses via express carrier must be addressed as follows:
+       Name:                    <Procurement Manager c/o SPD Assigned Buyer>
+
+       Reference RFP Name: <Name and number of RFP>
+
+       Address:                  State Purchasing Division
+                                 1100 St. Francis Dr. Room 2016
+                                 Santa Fe, New Mexico 87505
+
+3.     Any inquiries or requests regarding this procurement should be submitted, in writing, to the
+Procurement Manager. Offerors may contact ONLY the Procurement Manager regarding this
+procurement. Other state employees or Evaluation Committee members do not have the authority to
+respond on behalf of the SPD.
+
+E.     DEFINITION OF TERMINOLOGY
+This section contains definitions of terms used throughout this procurement document, including
+appropriate abbreviations: <Make sure these fit your RFP and add, change or delete anything that
+applies>
+
+Agreement Administrator: the State Purchasing Division of the General Service Department
+Authorized Purchaser: an individual authorized by a Participating Entity to place orders against this
+contract
+Business Hours: 8:00 AM thru 5:00 PM Mountain Standard or Mountain Daylight Time, whichever is in
+effect on the date given
+
+                                                  3a
+                      Best Value Procurement Guide – Part 1
+
+Close of Business: 5:00 PM Mountain Standard or Daylight Time, whichever is in use on the date given
+Contract: a written agreement for the procurement of items of tangible personal property, services, or
+professional services
+Contractor: the successful Offeror who enters into a Price Agreement with SPD
+Desirable: the terms "may," "can," "should," "preferably," or "prefers" identify a desirable or
+discretionary item or factor
+Determination: the written documentation of a decision of a procurement manager, including findings
+of fact required to support a decision. A determination becomes part of the procurement file.
+Evaluation Committee: a body appointed by the Procurement Manager to perform the evaluation of
+Offerors’ proposals
+Evaluation Committee Report: a report prepared by the Procurement Manager and the Evaluation
+Committee for contract award that will contain written determinations resulting from the procurement.
+Finalist: an Offeror and/or Offerors who meet all the mandatory specifications of this Request for
+Proposals and whose score on evaluation factors is sufficiently high to merit further consideration by the
+Evaluation Committee
+Hourly Rate: the proposed fully loaded maximum hourly rates that include travel, per diem, fringe
+benefits, and any overhead costs for contractor personnel as well as subcontractor personnel, if
+appropriate
+IT: Information Technology
+LPB: local public body
+Mandatory: the terms "must," "shall," "will," "is required," or "are required" identify a mandatory item
+or factor. Failure to meet a mandatory item or factor will result in the rejection of the Offeror’s
+proposal as nonresponsive.
+Multiple Source Award: an award of an indefinite quantity contract for one or more similar services to
+more than one Offeror
+Offeror: any person, corporation, or partnership who chooses to submit a proposal
+Price Agreement: a definite quantity contract or indefinite quantity contract that requires the
+contractor to furnish services to the Procuring State agency
+Procurement Manager: the person or designee authorized to manage or administer a procurement
+requiring the evaluation of competitive sealed proposals
+Procuring State agency: any governmental state agency procuring services or goods from the Statewide
+Price Agreement
+Project: a temporary process undertaken to achieve a well-defined goal or objective with clearly
+defined start and end times, a set of clearly defined tasks, and a budget. The project terminates once
+the project scope is completed and project acceptance is given by the project executive sponsor.
+Project Manager: means a Procuring State agency employee assigned by the Procuring State agency to
+oversee the contract work.
+Request for Proposals or RFP: all documents, including those attached or incorporated by reference,
+used for soliciting proposals
+Responsible Offeror: an Offeror submitting a responsive proposal and who has furnished, when
+required, information and data to prove that its financial resources, production or service facilities,
+personnel, service reputation, and experience are adequate to make satisfactory delivery of the services
+described in the proposal.
+Responsive Offer or Responsive Proposal: an offer or proposal that conforms in all material respects to
+the requirements set forth in a request for proposals. Material respects of a request for proposals
+include but are not limited to price, quality, quantity, or delivery requirements.
+Solicited and Awarded: an Invitation to Bid or RFP was made available to the general public, through
+any means.
+
+                                                   4a
+                            Best Value Procurement Guide – Part 1
+
+SPA: Statewide Price Agreement entered into by SPD for agencies to use to enter into contracts
+SPD: State Purchasing Division of the New Mexico General Services Department.
+Staff: a full-time, part-time, or an independently contracted employee with the Offerors’ company
+State (the State): the State of New Mexico
+State agency: the State Purchasing Division of the General Services Department
+State Entity: any state entity that is eligible under the procurement code to use the Statewide Price
+Agreement
+State Purchasing Agent: the purchasing agent for the State or a designated representative
+WSCA: Westerns States Contracting Alliance.
+
+F.       PROCUREMENT LIBRARY
+A procurement library has been established. Offerors are encouraged to review the material contained
+in the Procurement Library by selecting the link provided in the electronic version of this document
+through your own internet connection or by contacting the Procurement Manager and scheduling an
+appointment. The library contains information listed below:
+
+Procurement Regulations and Request for Proposal – RFP instructions:
+http://www.generalservices.state.nm.us/statepurchasing/.
+
+<Add info here if you are posting additional documents to your website>
+
+II. CONDITIONS GOVERNING THE PROCUREMENT
+This section of the RFP contains the schedule, description, and conditions governing the procurement.
+
+A.       SEQUENCE OF EVENTS
+The Procurement Manager will make every effort to adhere to the following schedule:
+
+     Action                            Responsible Party            Due Dates Sample Time Frames
+
+     1. Issue RFP                       SPD                         T-0
+
+     2. Distribution List               SPD                         T-10
+
+     3. Pre-Proposal Conference         SPD                         T-10
+
+     4. Deadline to submit             Potential Offerors           T-12
+        Questions
+     5. Response to Written            Procurement Manager          T-14
+        Questions
+     5. Submission of Proposal         Potential Offerors           T-21
+
+     6. Proposal Evaluation            Evaluation Committee         T-21 to T-28
+
+     7. Selection of Finalists         Evaluation Committee         T-30
+
+     8. Oral Presentation              Finalist Offerors            T-31
+
+
+                                                   5a
+                        Best Value Procurement Guide – Part 1
+
+     9. Best and Final Offers           Finalist Offerors            T-34
+
+     10. Finalize Price Agreements      SPD/Finalist Offerors        T-35 to T-39
+
+     11. Price Agreement Awards         SPD/ Finalist Offerors       T-39
+
+     12. Protest Deadline               SPD                          +15 days
+
+
+B.       EXPLANATION OF EVENTS
+The following paragraphs describe the activities listed in the sequence of events shown in Section II,
+Paragraph A, above.
+
+1.       Issuance of RFP
+         This RFP is being issued on behalf of the New Mexico State < Insert State agency Name>on
+         <Insert Date>.
+
+2.       Distribution List Response Due
+         Potential Offerors should hand deliver, return by facsimile, registered or certified mail the
+         Acknowledgement of Receipt of Request for Proposals form that accompanies this document,
+         APPENDIX A, to have their organization placed on the procurement distribution list. The form
+         should be signed by an authorized representative of the organization, dated and returned to the
+         Procurement Manager by 3:00 pm MST or MDT on <Enter date>.
+
+         The procurement distribution list will be used for the distributing written responses to
+         questions. Failure to return the Acknowledgement of Receipt of Request for Proposals form
+         shall constitute a presumption of receipt and rejection of the RFP, and the potential Offeror’ s
+         organization name shall not appear on the distribution list.
+
+3.       Pre-Proposal Conference
+         A pre-proposal conference will be held as indicated in the sequence of events beginning at
+         <Enter time>Mountain Standard Time/Daylight Time in the <Enter Location and address>
+         Potential Offeror(s) are encouraged to submit written questions in advance of the conference to
+         the Procurement Manager (see Section I, Paragraph D). The identity of the organization
+         submitting the question(s) will not be revealed. Additional written questions may be submitted
+         at the conference. All written questions will be addressed in writing on the date listed in the
+         Sequence of Events. A public log will be kept of the names of potential Offeror(s) that attended
+         the pre-proposal conference.
+
+         Attendance at the pre-proposal conference is highly recommended but not always a
+         prerequisite for submission of a proposal. Some may be mandatory.
+
+4.       Deadline to Submit Written Questions
+         Potential Offerors may submit written questions to the Procurement Manager with the intent
+         to clarify the RFP until <Insert time>Mountain Standard Time/Daylight Time as indicated in the
+
+                                                    6a
+                   Best Value Procurement Guide – Part 1
+
+     sequence of events. All written questions must be addressed to the Procurement Manager as
+     declared in Section I, Paragraph D.
+
+5.   Response to Written Questions
+     Written responses to written questions will be distributed as indicated in the sequence of
+     events to all potential Offerors whose organization name appears on the procurement
+     distribution list. An e-mail copy will be sent to all Offeror’s that provide Acknowledgement of
+     Receipt forms described in II.B.2 before the deadline. Additional copies will be posted to:
+     http://www.generalservices.state.nm.us/statepurchasing/
+
+6.   Submission of Proposal
+     All offeror proposals must be received for review and evaluation by the procurement manager
+     or designee no later than 3:00 pm mountain standard time/daylight time on <Insert date>.
+     Proposals received after this deadline will not be accepted. The date and time of receipt will be
+     recorded on each proposal.
+
+     Proposals must be addressed and delivered to the Procurement Manager at the address listed in
+     Section I, Paragraph D2. Proposals must be sealed and labeled on the outside of the package to
+     clearly indicate that they are in response to the< Enter Name of RFP and Number>. Proposals
+     submitted by facsimile, or other electronic means, will not be accepted.
+
+     A public log will be kept of the names of all offeror organizations that submitted proposals.
+     Pursuant to Section NMSA 1978, §13-1-116, the contents of proposals shall not be disclosed to
+     competing potential offerors during the negotiation process. The negotiation process is
+     deemed to be in effect until the contract awarded pursuant to the Request for Proposals has
+     been fully executed.
+
+7.   Proposal Evaluation
+     An Evaluation Committee will perform the evaluation of proposals. This process will take place
+     as indicated in the Sequence of Events, depending on the number of proposals received. During
+     this time, the Procurement Manager may initiate discussions with Offerors who submit
+     responsive or potentially responsive proposals for the purpose of clarifying aspects of the
+     proposals. Proposals may be accepted and evaluated without such discussion. Discussions
+     SHALL NOT be initiated by the Offerors.
+
+8.   Selection of Finalists
+     The Evaluation Committee will select and the Procurement Manager will notify the finalist
+     Offerors as per schedule Section II, A. Sequence of Events, or as soon thereafter as possible. A
+     schedule for the oral presentation and demonstration will be determined at this time.
+
+9.   Oral Presentations
+     Finalist Offerors may be required to make an oral presentation at a location to be determined as
+     per schedule Section II, A. Sequence of Events, or as soon thereafter as possible. Whether or not
+     oral presentations will be held is at the discretion of the Evaluation Committee and SPD.
+
+                                                7a
+                       Best Value Procurement Guide – Part 1
+
+10.     Best and Final Offers
+        Finalist Offerors may be asked to submit revisions to their proposals for the purpose of
+        obtaining best and final offers by as per schedule Section II, A. Sequence of Events, or as soon
+        thereafter as possible. Best and final offers may also be clarified and amended at finalist
+        Offerors’ oral presentation
+
+11.     Finalize Statewide Price Agreements
+        The SPA will be finalized with the most advantageous Offerors as per schedule Section II, A.
+        Sequence of Events, or as soon thereafter as possible. This date is subject to change at the
+        discretion of the State Purchasing Division. In the event that mutually agreeable terms cannot
+        be reached within the time specified, the State Purchasing Division reserves the right to finalize
+        a SPA with the next most advantageous Offerors without undertaking a new procurement
+        process.
+
+12.     Price Agreement Awards
+        After review of the Evaluation Committee Report and the signed SPA, SPD will award the SPA as
+        per the schedule in Section II, A. Sequence of Events, or as soon thereafter as possible. This
+        date is subject to change at the discretion of the State Purchasing Division. The contract shall be
+        awarded to the Offerors whose proposals are most advantageous to the State of New Mexico
+        and <Enter Department Name>, taking into consideration the weighted evaluation factors set
+        forth in the RFP. The most advantageous proposal may or may not have received the most
+        points. The award is subject to appropriate Department and State approval.
+
+13.     Protest Deadline
+        Any protest by an Offeror must be timely and in conformance with Section 13-1-172 NMSA
+        1978, and applicable procurement regulations. The fifteen (15) calendar day protest period
+        shall begin on the day following the award of SPAs and will end at 5:00 pm Mountain Standard
+        Time/Daylight Time on the 15th day. Protests must be written and must include the name and
+        address of the protestor and the request for proposal number. It must also contain a statement
+        of the grounds for protest, including appropriate supporting exhibits and must specify the ruling
+        requested from the State Purchasing Agent. The protest must be delivered to:
+
+        Lawrence O. Maxwell, State Purchasing Agent
+        State Purchasing Division
+        1100 St. Francis Dr., Room 2016
+        Santa Fe, NM 87505
+
+If this is an RFP your State agency is doing, you must list your GC.
+Protests received after the deadline will not be accepted.
+
+C.      GENERAL REQUIREMENTS
+
+1.      Acceptance of Conditions Governing the Procurement
+        Potential Offerors must indicate their acceptance of the Conditions Governing the Procurement
+        section in the letter of transmittal. Submission of a proposal constitutes acceptance of the
+        Evaluation Factors contained in Section V of this RFP.
+
+
+                                                     8a
+                   Best Value Procurement Guide – Part 1
+
+2.   Incurring Cost
+     Any cost incurred by the potential Offeror in preparation, transmittal, and/or presentation of
+     any proposal or material submitted in response to this RFP shall be borne solely by the Offeror.
+
+     Any cost incurred by the Offeror for set up and demonstrate proposed equipment and/or
+     system shall be borne solely by the Offeror.
+
+3.   Prime Contractor Responsibility
+     Any SPA that may result from this RFP shall specify that the prime contractor is solely
+     responsible for fulfillment of any contract with a state agency that may derive from this RFP.
+     The state agency hiring a vendor from the SPA will make payments only to the prime contractor.
+
+4.   Subcontractors
+     The use of subcontractors is allowed. The prime contractor shall be wholly responsible for the
+     entire performance of the SPA whether or not subcontractors are used. Additionally, the prime
+     contractor must receive approval, in writing, from the state agency hiring from the SPA before
+     any subcontractor is used during the term of this agreement.
+
+5.   Amended Proposals
+     An Offeror may submit an amended proposal before the deadline for receipt of proposals. Such
+     amended proposals must be complete replacements for a previously submitted proposal and
+     must be identified clearly as such in the transmittal letter. The State agency personnel will not
+     merge, collate, or assemble proposal materials.
+
+6.   Offerors Rights to Withdraw Proposal
+     Offerors will be allowed to withdraw their proposals at any time prior to the deadline for receipt
+     of proposals. The Offeror must submit a written withdrawal request addressed to the
+     Procurement Manager and signed by the Offeror’ s duly authorized representative.
+
+     The approval or denial of withdrawal requests received after the deadline for receipt of the
+     proposals is governed by the applicable procurement regulations.
+
+7.   Proposal Offer Firm
+     Responses to this RFP, including proposal prices for services, will be considered firm for one
+     hundred twenty (120) days after the due date for receipt of proposals or ninety (90) days after
+     the due date for the receipt of a best and final offer, if the Offeror is invited or required to
+     submit one.
+
+8.   Disclosure of Proposal Contents
+     The proposals will be kept confidential until negotiations are completed by SPD. At that time,
+     all proposals and documents pertaining to the proposals will be open to the public, except for
+     material that is clearly marked proprietary or confidential. The Procurement Manager will not
+     disclose or make public any pages of a proposal on which the potential Offeror has stamped or
+     imprinted "proprietary" or "confidential" subject to the following requirements.
+
+
+                                                9a
+                    Best Value Procurement Guide – Part 1
+
+      Proprietary or confidential data shall be readily separable from the proposal in order to
+      facilitate eventual public inspection of the non-confidential portion of the proposal.
+      Confidential data is normally restricted to confidential financial information concerning the
+      Offeror’ s organization and data that qualifies as a trade secret in accordance with the Uniform
+      Trade Secrets Act, NMSA 1978, §57-3A-1 through §57-3A-7. The price of products offered or
+      the cost of services proposed shall not be designated as proprietary or confidential information.
+
+      If a request is received for disclosure of data for which an Offeror has made a written request
+      for confidentiality, SPD shall examine the Offeror’ s request and make a written determination
+      that specifies which portions of the proposal should be disclosed. Unless the Offeror takes legal
+      action to prevent the disclosure, the proposal will be so disclosed. The proposal shall be open
+      to public inspection subject to any continuing prohibition on the disclosure of confidential data.
+
+9.    No Obligation
+      This procurement in no manner obligates the State or any of its agencies to the use of Offeror
+      services until a valid written contract is awarded and approved by appropriate authorities.
+
+10.   Termination
+      This RFP may be canceled at any time and any and all proposals may be rejected in whole or in
+      part when SPD determines such action to be in the best interest of the State.
+
+11.   Sufficient Appropriation
+      Any SPA or contract awarded as a result of this RFP process may be terminated if sufficient
+      appropriations or authorizations do not exist. Such terminations will be effected by sending
+      written notice to the contractor. The State agency’s decision as to whether sufficient
+      appropriations and authorizations are available will be accepted by the contractor as final.
+
+12.   Legal Review
+      The State agency requires that all Offerors agree to be bound by the General Requirements
+      contained in this RFP. Any Offeror concerns must be provided promptly in writing to the
+      attention of the Procurement Manager.
+
+13.   Governing Law
+      This procurement and any agreement with an Offeror that may result from this procurement
+      shall be governed by the laws of the State.
+
+14.   Basis for Proposal
+      Only information supplied, in writing, by the State agency through the Procurement Manager or
+      in this RFP should be used as the basis for the preparation of Offeror proposals. Current and
+      updated information regarding this procurement is available on the SPD website at
+      http://www.generalservices.state.nm.us/statepurchasing/.
+
+
+
+
+                                                10a
+                    Best Value Procurement Guide – Part 1
+
+15.   Contract Terms and Conditions
+      The contract between a State agency using the contract and the associated contractor will
+      follow the format specified by the State agency and contain the terms and conditions set forth
+      in "State of New Mexico.” The contracting state agency reserves the right, however, to
+      negotiate with an Offeror provisions in addition to those contained in this RFP. The contents of
+      this RFP, as revised and/or supplemented, and the successful Offeror’s proposal will be
+      incorporated into and become part of the resultant Contract.
+
+      Should an Offeror object to any of the terms and conditions in APPENDIX C, Statewide Price
+      Agreement Terms and Conditions, the Offeror must propose specific alternative language. The
+      State agency may or may not accept the alternative language. General references to the
+      Offeror’s terms and conditions or attempts at complete substitutions are not acceptable to the
+      State agency and will result in disqualification of the Offeror’s proposal.
+
+      Offerors must provide a brief discussion of the purpose and impact, if any, of each proposed
+      change followed by the specific proposed alternate wording.
+
+16.   Offeror’s Terms and Conditions
+      Offerors must submit with the proposal a complete set of any additional terms and conditions
+      they expect to have included in a contract negotiated with the State agency.
+
+17.   Contract Deviations
+      Any additional terms and conditions, which may be the subject of negotiation, will be discussed
+      only between the State agency and the Offeror selected from the SPA and shall not be deemed
+      an opportunity to amend the Offeror’s proposal.
+
+18.   Offeror Qualifications
+      The Evaluation Committee may make such investigations as necessary to determine the ability
+      of the potential Offeror to adhere to the requirements specified within this RFP. The Evaluation
+      Committee will reject the proposal of any potential Offeror who is not a Responsible Offeror or
+      fails to submit a responsive offer as defined in NMSA 1978, §§13-1-83 and 13-1-85.
+
+19.   Right to Waive Minor Irregularities
+      The Evaluation Committee reserves the right to waive minor irregularities as well as mandatory
+      requirements, provided that all of the otherwise responsive proposals failed to meet the same
+      mandatory requirements and that the failure to do so does not otherwise materially affect the
+      procurement. This right is at the sole discretion of the Evaluation Committee.
+
+20.   Change in Contractor Representatives
+      The State agency reserves the right to require a change in contractor representatives if the
+      assigned representatives are not, in the opinion of the State agency, meeting its needs
+      adequately.
+
+
+
+                                                11a
+                     Best Value Procurement Guide – Part 1
+
+21.   Notice
+      The Procurement Code, NMSA 1978, §13-1-28 through §13-1-199, imposes civil and
+      misdemeanor criminal penalties for its violation. In addition, the New Mexico criminal statutes
+      impose felony penalties for bribes, gratuities, and kickbacks.
+
+22.   State Agency Rights
+      The State agency in agreement with the Evaluation Committee reserves the right to accept all or
+      a portion of a potential Offeror’s proposal.
+
+23.   Right to Publish
+      Throughout the duration of this procurement process and contract term, Offerors and
+      contractors must secure written approval prior to the release of any information that pertains to
+      the potential work or activities covered by this procurement and/or state agency contracts
+      deriving from this procurement from SPD and the Contract Lead. Failure to adhere to this
+      requirement may result in disqualification of the Offeror’s proposal or removal from the SPA.
+
+24.   Ownership of Proposals
+      All documents submitted in response to the RFP shall become property of the State.
+
+25.   Confidentiality
+      Any confidential information provided to, or developed by, the contractor in the performance of
+      the contract resulting from this RFP shall be kept confidential and shall not be made available to
+      any individual or organization by the contractor without the prior written approval of SPD.
+
+      The Contractor(s) shall agree to protect the confidentiality of all confidential information and
+      not to publish or disclose such information to any third party without first procuring SPD's
+      written permission.
+
+26.   Electronic mail address required
+      A large part of the communications regarding this procurement will be conducted by electronic
+      mail (e-mail). Offeror must have and provide a valid e-mail address to receive this
+      correspondence. (See also, Section II.B.5, Response to Written Questions).
+
+27.   Use of Electronic Versions of this RFP
+      This RFP is being made available by electronic means. If accepted by such means, the Offeror
+      acknowledges and accepts full responsibility to insure that no changes are made to the RFP. In
+      the event of conflict between a version of the RFP in the Offeror’s possession and the version
+      maintained by the SPA, the version maintained by the SPA shall govern. Refer to:
+      http://www.generalservices.state.nm.us/statepurchasing/.
+
+28.   New Mexico Employees Health Coverage
+      1. For all contracts solicited and awarded on or after January 1, 2008: If the Offeror has, or
+      grows to, six (6) or more employees who work, or who are expected to work, an average of at
+      least 20 hours per week over a six (6) month period during the term of the contract, Offeror
+      must agree to:
+
+                                                 12a
+                     Best Value Procurement Guide – Part 1
+
+      (a) have in place, and agree to maintain for the term of the contract, health insurance for those
+      employees and offer that health insurance to those employees no later than July 1, 2008, if the
+      expected annual value in the aggregate of any and all contracts between Contractor and the
+      State exceed one million dollars or;
+
+      (b) have in place, and agree to maintain for the term of the contract, health insurance for those
+      employees and offer that health insurance to those employees no later than July 1, 2009, if the
+      expected annual value in the aggregate of any and all contracts between Contractor and the
+      State exceed $500,000 dollars or
+
+      (c) have in place, and agree to maintain for the term of the contract, health insurance for those
+      employees and offer that health insurance to those employees no later than July 1, 2010, if the
+      expected annual value in the aggregate of any and all contracts between Contractor and the
+      State exceed $250,000 dollars.
+
+      2. Offeror must agree to maintain a record of the number of employees who have (a) accepted
+      health insurance; (b) decline health insurance due to other health insurance coverage already in
+      place; or (c) decline health insurance for other reasons. These records are subject to review and
+      audit by a representative of the state.
+
+      3. Offeror must agree to advise all employees of the availability of State publicly financed health
+      care coverage programs by providing each employee with, as a minimum, the following web site
+      link to additional information http://insurenewmexico.state.nm.us/.
+
+      4. For Indefinite Quantity, Indefinite Delivery contracts (price agreements without specific
+      limitations on quantity and providing for an indeterminate number of orders to be placed
+      against it), these requirements shall apply the first day of the second month after the Offeror
+      reports combined sales (from State and, if applicable, from LPBs if from a state price agreement)
+      of $250,000, $500,000 or $1,000,000.
+
+29.   Campaign Contribution Disclosure Form
+      Offeror must complete, sign, and return the Campaign Contribution Disclosure Form (See
+      APPENDIX B) as a part of its proposal. This requirement applies regardless of whether a covered
+      contribution was made or not made for the positions of Governor and Lieutenant Governor.
+      Failure to complete and return the signed, unaltered form will result in disqualification.
+
+30.   Pay Equity Reporting Requirements
+      If the Offeror has ten (10) or more employees OR eight (8) or more employees in the same job
+      classification, Offeror must complete and submit the required reporting form (PE10-249) if they
+      are awarded a contract.
+
+      For contracts that extend beyond one (1) calendar year, or are extended beyond one (1) calendar
+      year, Offeror must also agree to complete and submit the required form annually within thirty
+      (30) calendar days of the annual bid or proposal submittal anniversary date and, if more than
+      180 days has elapsed since submittal of the last report, at the completion of the contract.
+
+                                                 13a
+                     Best Value Procurement Guide – Part 1
+
+      Should Offeror not meet the size requirement for reporting at contract award but subsequently
+      grows so that they meet or exceed the size requirement for reporting, Offeror must agree to
+      provide the required report within ninety (90) calendar days of meeting or exceeding the size
+      requirement.
+
+      Offeror must also agree to levy these reporting requirements on any subcontractor(s)
+      performing more than 10% of the dollar value of this contract if said subcontractor(s) meets, or
+      grows to meet, the stated employee-size thresholds during the term of the contract. Offeror
+      must further agree that, should one or more subcontractors not meet the size requirement for
+      reporting at contract award but subsequently grow such that they meet or exceed the size
+      requirement for reporting, Offeror will submit the required report, for each such subcontractor,
+      within ninety (90) calendar days of that subcontractor’s meeting or exceeding the size
+      requirement.
+
+31.   Disclosure Regarding Responsibility
+      Any prospective Responsible Bidder/Offeror (hereafter Offeror) and/or any of its Principals who
+      seek to enter into a contract greater than twenty thousand dollars ($20,000.00) with any State
+      agency or LPB for professional services, tangible personal property, services, or construction
+      agrees to disclose whether they, or any principal of their company:
+
+      1. are presently debarred, suspended, proposed for debarment, or declared ineligible for
+         award of contract by any federal entity, State agency or LPB;
+
+      2. have, within a three-year period preceding this offer, been convicted of or had civil
+         judgment rendered against them for: commission of fraud or a criminal offense in
+         connection with obtaining, attempting to obtain, or performing a public (federal, state or
+         local) contract or subcontract; violation of federal or state antitrust statutes related to the
+         submission of offers; or commission in any federal or state jurisdiction of embezzlement,
+         theft, forgery, bribery, falsification or destruction of records, making false statements, tax
+         evasion, violation of federal criminal tax law, or receiving stolen property;
+
+      3. are presently indicted for, or otherwise criminally or civilly charged by any (federal state or
+         local) government entity with, commission of any of the offenses enumerated in paragraph
+         2 of this disclosure.
+
+      4. have, preceding this offer, been notified of any delinquent federal or state taxes in an
+         amount that exceeds $3,000.00, of which the liability remains unsatisfied
+
+          a) Taxes are considered delinquent if both of the following criteria apply:
+                i.   The tax liability is finally determined. The liability is finally determined if it has
+                     been assessed. A liability is not finally determined if there is a pending
+                     administrative or judicial challenge.
+               ii.   In the case of a judicial challenge of the liability, the liability is not finally
+                     determined until all judicial appeal rights have been exhausted
+
+          b) The taxpayer is delinquent in making payment. A taxpayer is delinquent if the
+             taxpayer has failed to pay the tax liability when full payment was due and
+                                                   14a
+                       Best Value Procurement Guide – Part 1
+
+                required. A taxpayer is not delinquent in cases where enforced collection action
+                is precluded.
+
+        5. Have, within a three-year period preceding this offer, had one or more contracts terminated
+           for default by any federal or state agency or local public body. Principal, for the purpose of
+           this disclosure, means an officer, director, owner, partner, or a person having primary
+           management or supervisory responsibilities within a business entity or related entities. The
+           Offeror shall provide immediate written notice to the Procurement Manager or Buyer if, at
+           any time prior to contract award, the Offeror learns that its disclosure was erroneous when
+           submitting or became erroneous by reason of changed circumstances. A disclosure that any
+           of the items in this requirement exist will not necessarily result in withholding an award
+           under this solicitation. However, the disclosure will be considered in the determination of
+           the Offeror’s responsibility. Failure of the Offeror to furnish a disclosure or provide
+           additional information as requested will render the Offeror nonresponsive.
+
+        6. Nothing contained in the foregoing shall be construed to require establishing a system of
+           records in order to render in good faith the disclosure required by this document. The
+           knowledge and information of an Offeror is not required to exceed that which is the
+           normally possessed by a prudent person in the ordinary course of business dealings. The
+           disclosure requirement provided is a material representation of fact upon which reliance
+           was placed when making an award and is a continuing material representation of the
+           facts. If, during the performance of the contract, the contractor is indicted for or otherwise
+           criminally or civilly charged by any government entity (federal, state, or local) with
+           commission of any offenses named in this document the contractor must provide
+           immediate written notice to the Procurement Manager or Buyer. If it is later determined
+           that the Offeror knowingly rendered an erroneous disclosure, in addition to other remedies
+           available to the government, the SPA or Central Purchasing Officer may terminate the
+           involved contract for cause. Still further, the SPA or Central Purchasing Officer may suspend
+           or debar the contractor from eligibility for future solicitations until such time as the matter
+           is resolved to the satisfaction of the State Purchasing Agent or Central Purchasing Officer.
+
+32. Conflict of Interest
+     The Offeror warrants that it presently has no interest and shall not acquire any interest, direct or
+     indirect, that would conflict in any manner or degree with the performance or services required
+     under the Agreement. The Offeror certifies that the requirements of the Governmental Conduct
+     Act, NMSA 1978, §10-16-1 through §10-16-18, regarding contracting with a public officer or state
+     employee or former state employee have been followed.
+
+
+
+III. RESPONSE FORMAT AND ORGANIZATION
+A.      NUMBER OF RESPONSES
+Potential Offerors shall submit only one proposal for this RFP.
+
+B.      NUMBER OF COPIES
+Offerors shall deliver one (1) original and <#> identical copies (<#> total) of their proposals (Binder 1),
+one (1) original and <#> identical copies of cost proposal (Binder 2) and <#> electronic version of the
+
+                                                     15a
+                       Best Value Procurement Guide – Part 1
+
+proposal containing both Binders and all Confidential Information separated on the electronic version
+(must mirror the hard copy submitted) to the location specified in Section I, Paragraph D on or before
+the closing date and time for receipt of proposals.
+
+C.      PROPOSAL FORMAT
+All proposals must be submitted as follows:
+
+Typewritten on standard 8 ½ x 11 inch paper (larger paper is permissible for charts, spreadsheets, etc.)
+and placed within binders with tabs delineating each section.
+
+1.      Proposal Content and Organization
+        Direct reference to pre-prepared or promotional material may be used if referenced and clearly
+        marked. Promotional material should be minimal. The proposal must be organized and
+        indexed in the following format and must contain, at a minimum, all listed items in the
+        sequence indicated.
+
+        Binder 1:
+
+            a)   Signed Letter of Transmittal
+            c)   Table of Contents
+            d)   Proposal Summary (Optional)
+            e)   Response to Specifications with the exception of cost
+            f)   Response to SPA Terms and Conditions
+            g)   Offeror’s Additional Terms and Conditions
+
+        Binder 2:
+            g) Completed Cost Response Form
+            h) Campaign Contribution Form
+            i) Signed Employee Health Coverage Form
+            j) Signed Affidavit pursuant to Governmental Conduct Act (If applies)
+            k) Resident Vendor or Resident Veteran Certificate (If applies)
+            l) Resident Veterans Preference Certification (If applies)
+            m) Conflict of Interest Affidavit (If applies)
+            n) Other Supporting Material (Optional)
+
+        Within each section of the proposal, Offerors should address the items in the order in which
+        they appear in this RFP. All forms provided in this RFP must be thoroughly completed and
+        included in the appropriate section of the proposal. All discussion of proposed costs, rates, or
+        expenses must appear only in Binder 2 on the Cost Response form. Any proposal that does not
+        adhere to these requirements may be deemed non-responsive and rejected on that basis.
+        The proposal summary may be included by potential Offerors to provide the Evaluation
+        Committee with an overview of the proposal; however, this material will not be used in the
+        evaluation process unless specifically referenced from other portions of the Offeror’s proposal.
+
+        Offerors may attach other material they believe may improve the quality of their responses.
+        However, these materials should be included in Binder 2.
+
+                                                   16a
+                      Best Value Procurement Guide – Part 1
+
+2.      Letter of Transmittal
+        The Offeror’s proposal must be accompanied by the Letter of Transmittal form located in
+        APPENDIX F. The form must be completed and must be signed by the person authorized to
+        obligate the company. The letter of transmittal MUST:
+
+        a)        Identify the submitting organization;
+        b)        Identify the name, title, telephone number, and e-mail address of the person authorized
+                  by the organization to contractually obligate the organization;
+        c)        Identify the name, title, telephone number, and e-mail address of the person authorized
+                  to negotiate the contract on behalf of the organization;
+        d)        Identify the names, titles, telephone numbers, and e-mail addresses of persons to be
+                  contacted for clarification;
+        e)        Identify if sub-contractors will be used in the performance of the contract award;
+        f)        Describe any relationship with any entity that will be used in the performance of this
+                  awarded contract;
+        g)        Identify the following with a check mark and signature where required:
+                i.    Explicitly indicate acceptance of the Conditions Governing the Procurement stated
+                  in Section II, Paragraph C.1;
+               ii.    Acknowledge acceptance of Section V of this RFP;
+              iii.    Acknowledge receipt of any and all amendments to this RFP;
+              iv.     Be signed by the person authorized to contractually obligate the organization.
+
+
+IV. SPECIFICATIONS
+Offerors should respond in the form of a thorough narrative to each specification, unless otherwise
+specified. The narratives, including required supporting materials will be evaluated and awarded points
+accordingly.
+
+A.     TECHNICAL SPECIFICATIONS This section is used by the State agency to define what
+they require of the offerors. Some suggestions below:
+
+1.      Organizational Experience
+        Offerors must:
+
+        (a)     provide a description of relevant corporate experience with state government and
+                private sector. The experience of all proposed subcontractors must be described. The
+                narrative must thoroughly describe how the Offeror has supplied expertise for similar
+                contracts and must include the extent of their experience, expertise and knowledge as
+                a provider of<what you are asking for>. Al l<what you are asking for> provided to
+                private sector will also be considered;
+        (b)     indicate how many <what you are asking for> have been installed in the last two years
+                and what percentage of business revenue is derived from <what you are asking
+                for>engagements;
+        (c)     describe at least two project successes and failures of an <what you are asking
+                for>engagement. Include how each experience improved the Offeror’s services.
+
+
+                                                  17a
+                   Best Value Procurement Guide – Part 1
+
+2.   Organizational References
+     Vendors should provide a minimum of three (3) references from similar projects performed for
+     private State and/or large local government clients within the last three years. Vendors are
+     required to submit APPENDIX G, Reference Questionnaire, for the business references they list.
+     The business references must submit the Reference Questionnaire directly to the designee
+     described in Section I, Paragraph D. It is the vendor’s responsibility to ensure that the
+     completed forms are received by or before the proposal submission deadline for inclusion in the
+     evaluation process. Business references that are not received in time or are incomplete may
+     adversely affect the vendor’s score in the evaluation process. The Evaluation Committee may
+     contact any or all business references for validation of information submitted.
+
+             2.1 Client name;
+             2.2 Project description;
+             2.3 Project dates (starting and ending);
+             2.4 Technical environment; (i.e., software applications, Internet capabilities, data
+                 communications, network, hardware);
+             2.5 Staff assigned to reference engagement that will be designated for work per the
+                 RFP;
+             2.6 Client project manager name, telephone number, fax number, and e-mail address.
+
+3.   Oral Presentation
+     If selected as a finalist, Offerors must agree to provide the Evaluation Committee the
+     opportunity to interview proposed staff members identified by the Evaluation Committee, at
+     the option of the State agency. The Evaluation Committee may request a finalist to provide an
+     oral presentation of the proposal as an opportunity for the Evaluation Committee to ask
+     questions and seek clarifications. A statement of concurrence must be submitted in the
+     Offerors’ proposal.
+
+B.   BUSINESS SPECIFICATIONS
+
+1.   Cost
+     Offerors must complete Cost Response form in APPENDIX D. Cost will be measured by <insert
+     your criteria>. All charges listed on APPENDIX D must be justified and evidence of need
+     documented in the proposal.
+
+2.   Resident Business or Resident Veteran’s Preference
+     To be awarded the points, Offerors must include a copy of their preference certificates in this
+     section. In addition for Resident Veterans Preference, the certification form must accompany
+     any RFP and any business wishing to receive the preference must complete and sign the form.
+
+3.   Financial Stability
+     Offerors must submit copies of the most recent years’ independently audited financial
+     statements and the most current 10K, as well as financial statements for the preceding three
+     years, if they exist. The submission must include the audit opinion, the balance sheet,
+     statements of income, retained earnings, cash flows, and the notes to the financial statements.
+                                               18a
+                       Best Value Procurement Guide – Part 1
+
+        If independently audited financial statements do not exist for the Offeror, the Offeror must
+        state the reason and, instead, submit sufficient information (e.g., D & B report) to enable the
+        Evaluation Committee to assess the financial stability of the Offeror.
+
+4.      Performance Bond
+        Offerors must have the ability secure a Performance Bond in favor of the State agency to insure
+        the Contractor’s performance under the contract. Each engagement will be different, but the
+        option must be available to the Agencies at contract time. A statement of concurrence must be
+        submitted in the Offeror’s proposal.
+
+5.      Letter of Transmittal Form
+        The Offerors’ proposals must be accompanied by the Letter of Transmittal form, APPENDIX F.
+        The form must be completed and signed by the person authorized to obligate the company.
+
+6.      Campaign Contribution Disclosure Form
+        The Offeror must complete unaltered Campaign Contribution Disclosure Form and submit a
+        signed copy with its proposal. This must be accomplished whether or not an applicable
+        contribution has been made. (See APPENDIX B)
+
+7.      Employee Health Coverage Form
+        The Offeror must agree with the terms as indicated in APPENDIX E. The unaltered form
+        must be completed and signed by the person authorized to obligate the company.
+
+8.      Pay Equity Reporting
+        The Offeror must agree with the requirements of reporting as defined in Section II. C. 30. Report
+        is due at the time of contract award. A statement of concurrence with this requirement must
+        be included in Offeror’s submitted proposal.
+
+
+
+
+V. EVALUATION
+
+A. EVALUATION POINT SUMMARY
+The following is a summary of evaluation factors with point values assigned to each. These weighted
+factors will be used in the evaluation of individual potential Offeror proposals by sub-category. The table
+below is just a sample make sure yours matches your requirements.
+
+        Factor                                                             Points Available
+        A    Technical Specifications                                      Points must be assigned and
+                                                                           defined for all factors
+        A(1)    Organizational Experience
+        A(2)    Organizational References
+        A(3)    Oral Presentations
+
+        B       Business Specifications
+        B(1)    Cost
+                                                   19a
+                     Best Value Procurement Guide – Part 1
+
+       B(2)   Financial Stability                                                 Pass/Fail
+       B(3)   Performance Bond                                                    Pass/Fail
+       B(4)   Letter Of Transmittal                                               Pass/Fail
+       B(5)   Campaign Contribution Disclosure Form                               Pass/Fail
+       B(6)   Employee Health Coverage Form                                       Pass/Fail
+       B(7)   Pay Equity Reporting                                                Pass/Fail
+       TOTAL                                                                       1,000 points
+       Resident Preference
+
+Table 1: Evaluation Point Summary
+
+B.     EVALUATION FACTORS
+
+1.     A (1) Organizational Experience (See Table 1)
+       Points will be awarded based on the thoroughness and clarity of the response, the breadth and
+       depth of the engagements cited, and the perceived validity of the response.
+
+2.     A (2) Organizational References (See Table 1)
+       Points will be awarded based upon an evaluation of the responses to a series of questions asked
+       of the references concerning the quality of the Offeror’s services, the timeliness of services,
+       responsiveness to problems and complaints, and the level of satisfaction with the Offeror’s
+       overall performance.
+
+3.     A (3) Oral Presentation (See Table 1)
+       Points will be awarded based on the quality, organization and effectiveness of communication
+       of the information presented, as well as the professionalism of the presenters and technical
+       knowledge of the proposed staff. (If no Oral Presentations are required Offerors will receive the
+       total points)
+
+4.     B (1) Cost (See Table 1)
+       The evaluation of each Offeror’s cost proposal will be conducted using the following formula:
+
+       Lowest Responsive Offer Bid     -------------------------------------------------------X   Award Points
+
+       This Offeror’s Bid
+
+5.     Resident Business or Resident Veterans Preference
+       Percent of preference will be determined by Offerors that submit the correct documentation.
+       Once the RFP is totally scored, the proper percent of preference will apply to those Offerors that
+       qualify. For example, an RFP has a total value of 1000 points. Five proposals are received; one
+       from a resident business, one from a resident veterans business with an 8% preference and
+       three non-resident businesses. The two preference businesses would receive 50 points for the
+       resident preference and 80 points for the resident veterans preference would be added to their
+       already evaluated score, making it possible for the highest score total 1080.
+
+
+
+                                                    20a
+                    Best Value Procurement Guide – Part 1
+
+6.    B (2) Financial Stability (See Table 1)
+      Pass/Fail only. No points assigned.
+
+7.    B (3) Performance Bond (See Table 1)
+      Pass/Fail only. No points assigned.
+
+8.    B (4) Letter of Transmittal (See Table 1)
+      Pass/Fail only. No points assigned.
+
+9.    B (5) Campaign Contribution Disclosure Form (See Table 1)
+      Pass/Fail only. No points assigned.
+
+10.   B (6) Employee Health Coverage Form (See Table 1)
+      Pass/Fail only. No points assigned.
+
+11.   B (7) Pay Equity Reporting (See Table 1)
+      Pass/Fail only. No points assigned.
+
+C.    EVALUATION PROCESS
+
+1.    All Offeror proposals will be reviewed for compliance with the requirements and specifications
+      stated within the RFP. Proposals deemed non-responsive will be eliminated from further
+      consideration.
+
+2.    The Procurement Manager may contact the Offeror for clarification of the response as specified
+      in Section II, Paragraph B. 6.
+
+3.    The Evaluation Committee may use other sources of information to perform the evaluation as
+      specified in Section II, Paragraph C. 18.
+
+4.    Responsive proposals will be evaluated on the factors in Section V, which have been assigned a
+      point value. Responsible Offerors with the highest scores will be selected as finalist Offerors
+      based upon the proposals submitted. The responsible Offerors whose proposals are most
+      advantageous to the State, taking into consideration the evaluation factors in Section V, will be
+      recommended for SPA to the State, as specified in Section II, Paragraph B.8. Please note,
+      however, that a serious deficiency in the response to any one factor may be grounds for
+      rejection regardless of overall score.
+
+
+
+
+                                                21a
+                       Best Value Procurement Guide – Part 1
+
+
+
+APPENDIX A – Acknowledgement of Receipt Form
+
+
+
+                                        REQUEST FOR PROPOSAL
+
+                                          <Insert Name of RFP>
+
+                                                <Insert #>
+
+
+
+                            ACKNOWLEDGEMENT OF RECEIPT FORM
+In acknowledgement of receipt of this Request for Proposal the undersigned agrees that s/he has
+received a complete copy, beginning with the title page and table of contents, and ending with
+APPENDIX I.
+
+The acknowledgement of receipt should be signed and returned to the Procurement Manager no later
+than <insert time and date>. Only potential Offerors who elect to return this form completed with the
+indicated intention of submitting a proposal will receive copies of all Offeror written questions and the
+written responses to those questions as well as RFP amendments, if any are issued.
+
+FIRM: _________________________________________________________________
+
+REPRESENTED BY: _____________________________________________________
+
+TITLE: ________________________________ PHONE NO.: ____________________
+
+E-MAIL: ___________________________            FAX NO.: ________________________
+
+ADDRESS: _____________________________________________________________
+
+CITY: __________________________ STATE: ________ ZIP CODE: _____________
+
+SIGNATURE: ___________________________________ DATE: _________________
+
+This name and address will be used for all correspondence related to the Request for Proposal.
+
+Firm does/does not (circle one) intend to respond to this Request for Proposal.
+
+                               <Insert PM name>, Procurement Manager
+                                    <Insert RFP Name and Number>
+                                        State Purchasing Division
+                                    1100 St. Francis Dr. Room 2016
+                                          Santa Fe, NM 87505
+
+                                                   22a
+                       Best Value Procurement Guide – Part 1
+
+                                     Fax:    <Insert PM fax number>
+                                    E-mail: <Insert PM email address>
+
+
+APPENDIX B - Campaign Contribution Disclosure Form
+
+Pursuant to NMSA 1978, §13-1-191.1 (2006), any person seeking to enter into a contract with any state
+agency or local public body for professional services, a design and build project delivery system, or the
+design and installation of measures the primary purpose of which is to conserve natural resources must
+file this form with that state agency or local public body. This form must be filed even if the contract
+qualifies as a small purchase or a sole source contract. The prospective contractor must disclose
+whether they, a family member or a representative of the prospective contractor has made a campaign
+contribution to an applicable public official of the state or a local public body during the two years prior
+to the date on which the contractor submits a proposal or, in the case of a sole source or small purchase
+contract, the two years prior to the date the contractor signs the contract, if the aggregate total of
+contributions given by the prospective contractor, a family member or a representative of the
+prospective contractor to the public official exceeds two hundred and fifty dollars ($250) over the two
+year period.
+
+Furthermore, the state agency or local public body shall void an executed contract or cancel a
+solicitation or proposed award for a proposed contract if: 1) a prospective contractor, a family member
+of the prospective contractor, or a representative of the prospective contractor gives a campaign
+contribution or other thing of value to an applicable public official or the applicable public official’s
+employees during the pendency of the procurement process or 2) a prospective contractor fails to
+submit a fully completed disclosure statement pursuant to the law.
+
+THIS FORM MUST BE FILED BY ANY PROSPECTIVE CONTRACTOR WHETHER OR NOT THEY, THEIR FAMILY
+MEMBER, OR THEIR REPRESENTATIVE HAS MADE ANY CONTRIBUTIONS SUBJECT TO DISCLOSURE.
+
+The following definitions apply:
+
+“Applicable public official” means a person elected to an office or a person appointed to
+complete a term of an elected office, who has the authority to award or influence
+the award of the contract for which the prospective contractor is submitting a
+competitive sealed proposal or who has the authority to negotiate a sole source or
+small purchase contract that may be awarded without submission of a sealed
+competitive proposal.
+
+“Campaign Contribution” means a gift, subscription, loan, advance or deposit of money or other thing of
+value, including the estimated value of an in-kind contribution, that is made to or received by an
+applicable public official or any person authorized to raise, collect or expend contributions on that
+official’s behalf for the purpose of electing the official to either statewide or local office. “Campaign
+Contribution” includes the payment of a debt incurred in an election campaign, but does not include the
+value of services provided without compensation or unreimbursed travel or other personal expenses of
+individuals who volunteer a portion or all of their time on behalf of a candidate or political committee,
+
+                                                    23a
+                       Best Value Procurement Guide – Part 1
+
+nor does it include the administrative or solicitation expenses of a political committee that are paid by
+an organization that sponsors the committee.
+
+“Family member” means spouse, father, mother, child, father-in-law, mother-in-law,
+daughter-in-law or son-in-law.
+“Pendency of the procurement process” means the time period commencing with the public notice of
+the request for proposals and ending with the award of the contract or the cancellation of the request
+for proposals.
+
+“Person” means any corporation, partnership, individual, joint venture, association or any other private
+legal entity.
+
+“Prospective contractor” means a person who is subject to the competitive sealed proposal process set
+forth in the Procurement Code or is not required to submit a competitive sealed proposal because that
+person qualifies for a sole source or a small purchase contract.
+
+“Representative of a prospective contractor” means an officer or director of a corporation, a member or
+manager of a limited liability corporation, a partner of a partnership or a trustee of a trust of the
+prospective contractor.
+
+DISCLOSURE OF CONTRIBUTIONS:
+
+Contribution Made By:                    __________________________________________
+
+Relation to Prospective Contractor:      __________________________________________
+
+Name of Applicable Public Official:       _________________________________________
+
+Date Contribution(s) Made:               __________________________________________
+
+Amount(s) of Contribution(s)             __________________________________________
+
+Nature of Contribution(s)                __________________________________________
+
+Purpose of Contribution(s)               __________________________________________
+
+(Attach extra pages if necessary)
+
+___________________________        _______________________
+Signature                          Date
+___________________________Title (position)
+                                            —OR—
+
+NO CONTRIBUTIONS IN THE AGGREGATE TOTAL OVER TWO HUNDRED FIFTY DOLLARS ($250) WERE
+MADE to an applicable public official by me, a family member or representative.
+______________________________                   _______________________
+Signature                                        Date
+
+______________________________ Title (Position)
+
+                                                   24a
+              Best Value Procurement Guide – Part 1
+
+
+APPENDIX C – Sample Contract
+
+
+              Sample Contract must be attached here.
+
+    (Please refer to State Purchasing Division website for options)
+
+
+
+
+                                  25a
+                   Best Value Procurement Guide – Part 1
+
+
+APPENDIX D – Cost Response Form
+
+
+                                 Sample Below
+
+
+Description         Type              Quantity         Cost per
+                                                       Item
+
+
+
+
+Based on above requirements and any professional services needed for configuration,
+installation and training
+
+
+Year 1 Cost:                $_________________
+
+
+Year 2-3 Annual Cost        $_________________
+Year 4 and Beyond
+
+Annual Cost:               $_________________
+
+                                          26a
+                       Best Value Procurement Guide – Part 1
+
+APPENDIX E - New Mexico Employees Health Coverage Form
+
+1.        For all contracts solicited and awarded on or after January 1, 2008: If the Offeror has, or grows
+to, six (6) or more employees who work, or who are expected to work, an average of at least 20 hours
+per week over a six (6) month period during the term of the contract, Offeror must agree to:
+
+(a) have in place, and agree to maintain for the term of the contract, health insurance for those
+employees and offer that health insurance to those employees no later than July 1, 2008 if the expected
+annual value in the aggregate of any and all contracts between Contractor and the State exceed one
+million dollars or;
+
+(b) have in place, and agree to maintain for the term of the contract, health insurance for those
+employees and offer that health insurance to those employees no later than July 1, 2009 if the expected
+annual value in the aggregate of any and all contracts between Contractor and the State exceed
+$500,000 dollars or
+
+(c) have in place, and agree to maintain for the term of the contract, health insurance for those
+employees and offer that health insurance to those employees no later than July 1, 2010 if the expected
+annual value in the aggregate of any and all contracts between Contractor and the State exceed
+$250,000 dollars.
+
+2.       Offeror must agree to maintain a record of the number of employees who have (a) accepted
+health insurance; (b) decline health insurance due to other health insurance coverage already in place;
+or (c) decline health insurance for other reasons. These records are subject to review and audit by a
+representative of the state.
+
+3.      Offeror must agree to advise all employees of the availability of State publicly financed health
+care coverage programs by providing each employee with, as a minimum, the following web site link to
+additional information http://insurenewmexico.state.nm.us/.
+
+4.       For Indefinite Quantity, Indefinite Delivery contracts (price agreements without specific
+limitations on quantity and providing for an indeterminate number of orders to be placed against it);
+these requirements shall apply the first day of the second month after the Offeror reports combined
+sales (from state and, if applicable, from local public bodies if from a state price agreement) of
+$250,000, $500,000 or $1,000,000.
+
+
+
+Signature of Offeror: _________________________           Date________
+
+
+
+
+                                                    27a
+                       Best Value Procurement Guide – Part 1
+
+
+APPENDIX F - Letter of Transmittal form
+
+RFP#:_____________________________
+
+Offeror Name: ___________________________________
+
+Items #1 to #7 EACH MUST BE COMPLETED IN FULL Failure to respond to all seven items WILL RESULT IN
+THE DISQUALIFICATION OF THE PROPOSAL!
+
+1. Identity (Name) and Mailing Address of the submitting organization:
+
+____________________________________________________________________________
+
+____________________________________________________________________________
+
+____________________________________________________________________________
+
+2: For the person authorized by the organization to contractually obligate the organization:
+
+Name _______________________________________________________________________
+
+Title ________________________________________________________________________
+
+E-Mail Address _______________________________________________________________
+
+Telephone Number _________________________________________________________
+
+3. For the person authorized to negotiate the contract on behalf of the organization:
+
+Name _______________________________________________________________________
+
+Title ________________________________________________________________________
+
+E-Mail Address _______________________________________________________________
+
+Telephone Number ____________________________________________________________
+
+4. For the person to be contacted for clarifications:
+
+Name _______________________________________________________________________
+
+Title ________________________________________________________________________
+
+E-Mail Address _______________________________________________________________
+
+Telephone Number ____________________________________________________________
+
+5. Use of Sub-Contractors (Select one)
+
+
+                                                   28a
+                      Best Value Procurement Guide – Part 1
+
+____ No sub-contractors will be used in the performance of this contract OR
+
+____ The following sub-contractors will be used in the performance of this contract:
+
+_________________________________________________________________________________
+
+(Attach extra sheets, as needed)
+
+6. Please describe any relationship with any entity with which will be used in the performance of this
+contract.
+
+______________________________________________________________________________
+
+(Attach extra sheets, as needed)
+
+7. ___ On behalf of the submitting organization named in item #1, above, I accept the Conditions
+
+        Governing the Procurement as required in Section II, Paragraph C.1.
+
+___     I concur that submission of our proposal constitutes acceptance of the Evaluation Factors
+        contained in Section V of this RFP.
+
+___     I acknowledge receipt of any and all amendments to this RFP.
+
+
+
+________________________________________________                _____________________, 2012
+
+      Authorized Signature and Date (Must be signed by the person identified in item #2, above.)
+
+
+
+
+                                                  29a
+                      Best Value Procurement Guide – Part 1
+
+
+APPENDIX G – Reference Questionnaire
+
+
+                              REFERENCE QUESTIONNAIRE
+The State of New Mexico, as a part of the RFP process, requires proposing vendors to submit a minimum
+of three (3) business references as required within this document. The purpose of these references is to
+document the experience relevant to the scope of work and provide assistance in the evaluation
+process.
+
+The proposing vendor is required to send the following reference form to each business reference listed.
+The business reference, in turn, is requested to submit the Reference Form directly to the <Insert where
+you want references to come>by the RFP submission deadline for inclusion in the evaluation process.
+The form and information provided will become a part of the submitted proposal. The business
+reference may be contacted for validation of <Insert the information you plan to obtain from
+references>
+
+                       RFP # <Insert #>REFERENCE QUESTIONNAIRE
+
+                                                 FOR:
+
+
+                                 (Name of company requesting reference)
+
+This form is being submitted to your company for completion as a business reference for the company
+listed above. This form is to be returned to the State of New Mexico, <Insert your State agency Name>
+via facsimile or e-mail at:
+
+        Name:           <Insert your PM Name>, Procurement Manager
+        Address:        <Insert your address>
+        Telephone:      <Insert your PM phone>
+        Fax:            <Insert your fax>
+        Email:          <Insert PM email>
+
+no later than<Insert date>, and must not be returned to the company requesting the reference.
+
+
+For questions or concerns regarding this form, please contact the State of New Mexico Procurement
+Manager listed above. When contacting us, please be sure to include the Request for Proposal number
+listed at the top of this page.
+
+
+
+
+                                                  30a
+                       Best Value Procurement Guide – Part 1
+
+                           CONFIDENTIAL INFORMATION WHEN COMPLETED
+
+
+
+Company providing reference:
+
+Contact name and title/position
+
+Contact telephone number
+
+Contact e-mail address
+
+
+
+QUESTIONS:
+
+1.     In what capacity have you worked with this vendor in the past?
+       COMMENTS:
+
+
+
+2.     How would you rate this firm's knowledge and expertise?
+
+             (3 = Excellent; 2 = Satisfactory; 1 = Unsatisfactory; 0 = Unacceptable)
+
+       COMMENTS:
+
+
+
+3.     How would you rate the vendor's flexibility relative to changes in the project scope and
+       timelines?
+            (3 = Excellent; 2 = Satisfactory; 1 = Unsatisfactory; 0 = Unacceptable)
+
+       COMMENTS:
+
+
+
+4.     What is your level of satisfaction with hard-copy materials produced by the vendor?
+           (3 = Excellent; 2 = Satisfactory; 1 = Unsatisfactory; 0 = Unacceptable)
+
+       COMMENTS:
+
+
+
+5.     How would you rate the dynamics/interaction between the vendor and your staff?
+           (3 = Excellent; 2 = Satisfactory; 1 = Unsatisfactory; 0 = Unacceptable)
+
+       COMMENTS:
+
+
+
+
+                                                   31a
+                     Best Value Procurement Guide – Part 1
+
+6.    Who were the vendor’s principal representatives involved in your project and how would you
+      rate them individually? Would you comment on the skills, knowledge, behaviors or other
+      factors on which you based the rating?
+       (3 = Excellent; 2 = Satisfactory; 1 = Unsatisfactory; 0 = Unacceptable)
+
+
+
+
+      Name:                                                             Rating:
+
+      Name:                                                             Rating:
+
+      Name:                                                             Rating:
+
+      Name:                                                                       Rating:
+
+      COMMENTS:
+
+7.    How satisfied are you with the products developed by the vendor?
+              (3 = Excellent; 2 = Satisfactory; 1 = Unsatisfactory; 0 = Unacceptable)
+
+      COMMENTS:
+
+
+
+8.    With which aspect(s) of this vendor's services are you most satisfied?
+      COMMENTS:
+
+
+
+9.    With which aspect(s) of this vendor's services are you least satisfied?
+      COMMENTS:
+
+
+
+10.   Would you recommend this vendor's services to your organization again?
+      COMMENTS:
+
+
+
+
+                                                 32a
+                        Best Value Procurement Guide – Part 1
+
+APPENDIX H – Resident Veterans Certification
+
+
+__________________________________ (NAME OF CONTRACTOR) hereby certifies the following in regard to
+application of the resident veterans’ preference to this procurement:
+
+Please check one box only
+
+□ I declare under penalty of perjury that my business prior year revenue starting January 1ending December 31 is
+less than $1M allowing me the 10% preference discount on this solicitation. I understand that knowingly giving
+false or misleading information about this fact constitutes a crime.
+
+□ I declare under penalty of perjury that my business prior year revenue starting January 1 ending December 31 is
+more than $1M but less than $5M allowing me the 8% preference discount on this bid or proposal. I understand
+that knowingly giving false or misleading information about this fact constitutes a crime.
+
+□ I declare under penalty of perjury that my business prior year revenue starting January 1ending December 31 is
+more than $5M allowing me the 7% preference discount on this bid or proposal. I understand that knowingly
+giving false or misleading information about this fact constitutes a crime.
+
+“I agree to submit a report, or reports, to the State Purchasing Division of the General Services
+Department declaring under penalty of perjury that during the last calendar year starting January 1 and
+ending on December 31, the following to be true and accurate:
+
+ “In conjunction with this procurement and the requirements of this business’ application for a Resident
+Veteran Business Preference/Resident Veteran Contractor Preference under NMSA 1978 §13-1-21 or
+§13-1-22, when awarded a contract which was on the basis of having such veterans preference, I agree
+to report to the State Purchasing Division of the General Services Department the awarded amount
+involved. I will indicate in the report the award amount as a purchase from a public body or as a public
+works contract from a public body as the case may be.
+
+“I understand that knowingly giving false or misleading information on this report constitutes a crime.”
+
+I declare under penalty of perjury that this statement is true to the best of my knowledge. I understand
+that giving false or misleading statements about material fact regarding this matter constitutes a crime.
+
+
+
+________________________________            _________________________________
+
+(Signature of Business Representative)*     (Date)
+
+*Must be an authorized signatory for the Business. The representations made in checking the boxes constitute a
+material representation by the business that is subject to protest and may result in denial of an award or non-
+award of the procurement involved if the statements are proven to be incorrect.
+
+
+
+
+                                                       33a
+                      Best Value Procurement Guide – Part 1
+
+
+
+
+APPENDIX I – Conflict of Interest Affidavit
+                                               AFFIDAVIT
+
+STATE OF NEW MEXICO )
+                    ) ss.
+COUNTY OF SANTA FE )
+
+
+I, ________________________________ (name), being first duly sworn upon my oath, depose and state
+the following:
+
+   1. I am a former employee of the _________________________ (name of Department/State
+      agency), having separated/retired from state employment as of _________________ (date).
+
+   2. I am a current employee of the _________________________ (name of Department/State
+      agency), or a legislator with the state, or the family member (spouse, parent, child, sibling by
+      consanguinity or affinity) of a current employee or legislator with the state. Being a current
+      employee or legislator or family member of a current employee or legislator of the state, I
+      hereby certify that I obtained this Agreement pursuant to NMSA 1978, §10-16-7 or §10-16-9,
+      that is, in accordance with the Procurement Code except that this Agreement has NOT been
+      awarded via the sole source or small purchase procurement methods.
+
+   3. The Department/State agency and I have entered into a agreement in the amount of
+      $_____________.
+
+   4. NMSA 1978, §10-16-8.A(1) of the Governmental Conduct Act does not apply to this Agreement
+      because I neither sought a contract with the Department/State agency, nor engaged in any
+      official act which directly resulted in the formation of the Professional Services Agreement while
+      an employee of the Department/State agency.
+
+   5. To the best of my knowledge, this Agreement was awarded in compliance with all relevant
+      provisions of the New Mexico Procurement Code (NMSA 1978, §13-1-28, et. seq.).
+
+       FURTHER, AFFIANT SAYETH NOT.
+
+
+        _______________________________
+        name
+
+       Subscribed and sworn to before me by ____________________________ (name of former
+       employee) this _____day of _______, 2005.
+
+My Commission Expires:                                           ________________________________
+
+                                                   34a
+                  Best Value Procurement Guide – Part 1
+
+                                                      NOTARY PUBLIC
+__________________________________
+
+
+                     Exhibit B: Sample RFP Amendment Form Template
+
+RFP #_____________________________
+
+RFP Title___________________________________________________________
+
+Date of Amendment__________________________________________________
+
+Section to be amended________________________________________________
+
+Original Text ________________________________________________________
+___________________________________________________________________
+
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+
+Amended Text ______________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+                     Exhibit B: Sample RFP Amendment Form Template
+
+                                         35a
+Best Value Procurement Guide – Part 1
+
+
+   Exhibit C: Sample Application for Resident Certification
+
+
+
+
+                        36a
+Best Value Procurement Guide – Part 1
+
+                       Exhibit C
+
+
+
+
+Exhibit C: Sample Application for Resident Certification
+
+
+                          37a
+Best Value Procurement Guide – Part 1
+
+
+
+
+Exhibit C: Sample Application for Resident Certification
+
+
+
+
+                          38a
+

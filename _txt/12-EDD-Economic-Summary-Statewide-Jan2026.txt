@@ -1,0 +1,263 @@
+Quarterly Economic Summary
+New Mexico
+Released: January 2026                                                      Prepared by: Daye Kwon & Austin Anaya, Senior Economists
+                                                                                                    New Mexico’s total matched taxable gross
+              Chart 1. Matched Taxable Gross Receipts Per                                           receipts (MTGR) in Q1 FY26 increased by
+                               Quarter                                                              $612.1M (2.3%) from the previous quarter
+ $30,000,000,000                                                                                    (Chart 1). The average monthly MTGR over
+                                                                                                    the past 24 months is $8.67B, which is
+ $25,000,000,000
+                                                                    Mar      Jun      Sep           $691.7M less than the amount reported in
+                       Dec      Mar      Jun      Sep      Dec
+ $20,000,000,000                                                                                    July—the highest MTGR recorded in Q1
+ $15,000,000,000
+                                                                                      Aug
+                                                                                                    FY26, at $9.36B. As shown in Chart 2, retail
+                       Nov      Feb      May      Aug      Nov       Feb    May
+ $10,000,000,000                                                                                    trade was the largest industry by MTGR,
+                                                                                                    contributing 19%, the same share as in the
+  $5,000,000,000       Oct      Jan      Apr       Jul     Oct       Jan     Apr       Jul
+                                                                                                    previous quarter. Construction and
+               $0                                                                                   mining, quarrying, and oil and gas
+                      FY24 - FY24 - FY24 - FY25 - FY25 - FY25 - FY25 - FY26 -
+                                                                                                    extraction remained the second- and third-
+                       Q2     Q3     Q4     Q1     Q2     Q3     Q4     Q1
+ Source: NM TRD - Monthly Local Government Distribution Reports (RP-500)                            largest industries, consistent with the prior
+quarter. Table 1 on page 2
+                                             Chart 2. FY26 - Q1 Industry Size by Matched Taxable
+shows that the largest year-
+over-year (YOY) MTGR increase                                    Gross Receipts
+came from construction, which
+                                                            Other Industries,
+grew by $285.7M, followed by                                      15%
+administrative/support & waste
+management/remediation,
+which grew by $259.5M. With
+their growth, New Mexico Manufacturing, 4%
+posted an overall $1.52B, or 6%,                                                    Retail Trade, 19%
+YOY increase in MTGR.
+Employment posted a YOY            Wholesale
+                                   Trade, 5%
+growth of 4,817 (0.6%) in Q4
+FY25, as seen in Chart 5 on page
+3. Average weekly wages also
+grew YOY by $38 (3.3%) in Q4 Health Care and
+                                                                                              Construction, 14%
+FY25, reaching $1,189.           Social Assistance,
+                                                    5%
+
+                                           Administrative/Sup
+ Matched Taxable Gross                       port & Waste
+ Receipts (MTGR) provide the               Management/Reme                                                            Mining, Quarrying,
+                                              diation, 5%                                                              and Oil and Gas
+ most accurate tax data for
+                                                                                                                       Extraction, 11%
+ assessing         underlying                       Accommodation
+                                                                                                       Professional,
+ economic activity. The data                       and Food Services,
+                                                                                                       Scientific, and
+ collection process involves                              6%
+                                                                            Other Services           Technical Services,
+ matching tax payments with                                                 (except Public                  9%
+                                                                           Administration),
+ reported receipts for each
+                                                                                 7%
+ taxpayer by industry.
+                                            Source: NM TRD - Monthly Local Government Distribution Reports (RP-500)
+
+
+ SOURCE LINKS: NEW MEXICO TAXATION AND REVENUE DEPT (NM TRD), NEW
+ MEXICO DEPARTMENT OF WORKFORCE SOLUTIONS (NM DWS), U.S. BUREAU                                                                               1
+ OF ECONOMIC ANALYSIS (BEA), US CENSUS BUREAU
+Quarterly Economic Summary
+New Mexico
+                                              Table 1. Matched Taxable Gross Receipts by Industry
+                                Industries                                         FY25 - Q1          FY26 - Q1          Growth         Year over year Change
+Accommodation and Food Services                                                $ 1,651,739,111    $ 1,663,095,825    $      11,356,714                     1%
+Administrative/Support & Waste Management/Remediation                          $ 1,098,113,748    $ 1,357,621,174    $     259,507,426                    24%
+Agriculture, Forestry, Fishing, and Hunting                                    $     61,231,291   $     82,895,007   $      21,663,716                    35%
+Arts, Entertainment, and Recreation                                            $ 137,168,881      $ 144,019,748      $       6,850,867                     5%
+Construction                                                                   $ 3,447,617,603    $ 3,733,312,441    $     285,694,839                     8%
+Educational Services                                                           $     82,547,451   $     81,864,535   $        (682,916)                   -1%
+Finance and Insurance                                                          $ 151,020,307      $ 160,782,496      $       9,762,189                     6%
+Health Care and Social Assistance                                              $ 1,177,035,341    $ 1,357,411,063    $     180,375,722                    15%
+Information                                                                    $ 680,055,744      $ 732,136,227      $      52,080,483                     8%
+Management of Companies and Enterprises                                        $     11,971,439   $     25,162,615   $      13,191,176                   110%
+Manufacturing                                                                  $ 1,017,998,393    $ 1,057,304,178    $      39,305,785                     4%
+Mining, Quarrying, and Oil and Gas Extraction                                  $ 2,993,589,932    $ 3,117,250,602    $     123,660,669                     4%
+Other Services (except Public Administration)                                  $ 1,874,957,596    $ 1,984,467,998    $     109,510,402                     6%
+Professional, Scientific, and Technical Services                               $ 2,626,213,448    $ 2,520,825,690    $    (105,387,758)                   -4%
+Public Administration                                                          $     75,888,394   $     72,466,524   $      (3,421,870)                   -5%
+Real Estate and Rental and Leasing                                             $ 741,943,724      $ 809,597,629      $      67,653,905                     9%
+Retail Trade                                                                   $ 5,187,417,052    $ 5,315,499,591    $     128,082,539                     2%
+Transportation and Warehousing                                                 $ 421,488,533      $ 442,180,311      $      20,691,777                     5%
+Unclassified Establishments                                                    $ 477,391,788      $ 650,430,487      $     173,038,699                    36%
+Utilities                                                                      $ 815,860,067      $ 946,580,746      $     130,720,680                    16%
+Wholesale Trade                                                                $ 1,335,713,952    $ 1,327,677,458    $      (8,036,494)                   -1%
+All Industries                                                                 $ 26,066,963,793   $ 27,582,582,343   $   1,515,618,550                     6%
+Source: NM TRD - Monthly Local Government Distribution Reports (RP-500) and EDD Calculations
+
+
+
+ The Quarterly Census of Employment and Wages (QCEW), referenced in Charts 4-5, produces comprehensive data on
+ the number of establishments, monthly employment, and quarterly wages for workers covered by state
+ unemployment insurance (UI) laws, as well as federal workers covered under the Unemployment Compensation for
+ Federal Employees (UCFE) program. These data are aggregated across various levels, starting from the 6-digit NAICS
+ industry level to broader industry categories (such as NAICS industry groups, sectors, and supersectors) and geographic
+ levels (including metropolitan statistical areas, state, and national levels). Based on information reported by New
+ Mexico employers, the data cover 97% of nonfarm wage and salary workers and are published quarterly. Renowned
+ for their reliability, QCEW data are considered the gold standard for industry statistics, offering the most complete
+ universe of monthly employment and quarterly wage information by detailed industry.
+
+
+            Chart 3. Monthly Matched Taxable Gross                                                        Chart 4. Establishment Year
+                           Receipts                                                                          Over Year % Change
+                                                                                                   4.0%
+ $10,000,000,000
+  $9,000,000,000                                                                                   3.0%
+  $8,000,000,000
+                                                                                                   2.0%
+  $7,000,000,000                                                                           2021
+  $6,000,000,000                                                                                   1.0%
+                                                                                           2022
+  $5,000,000,000
+  $4,000,000,000                                                                                   0.0%
+                                                                                           2023
+  $3,000,000,000
+                                                                                           2024 -1.0%
+  $2,000,000,000
+  $1,000,000,000                                                                           2025 -2.0%
+              $-                                                                                          FY24 - FY24 - FY24 - FY24 - FY25 - FY25 - FY25 - FY25 -
+                                                                                                           Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+                                                                                                    Source: NM DWS - Quarterly Census of Employment and
+Source: NM TRD - Monthly Local Government Distribution Reports (RP-500)                             Wages
+
+
+SOURCE LINKS: NEW MEXICO TAXATION AND REVENUE DEPT (NM TRD), NEW
+MEXICO DEPARTMENT OF WORKFORCE SOLUTIONS (NM DWS), U.S. BUREAU                                                                                                 2
+OF ECONOMIC ANALYSIS (BEA), US CENSUS BUREAU
+Quarterly Economic Summary
+New Mexico
+                Chart 5. Total Employment &                                                  Chart 6. YOY % Change in GDP per
+                        Weekly Wage                                                                       Quarter
+  1,000,000                                                             $1,500     12.0%
+    800,000                                                                        10.0%
+                                                                        $1,000       8.0%
+    600,000
+    400,000                                                                          6.0%
+                                                                        $500
+    200,000                                                                          4.0%
+           -                                              $-                         2.0%
+                FY24 FY24 FY24 FY24 FY25 FY25 FY25 FY25                              0.0%
+                 - Q1 - Q2 - Q3 - Q4 - Q1 - Q2 - Q3 - Q4                                      FY24 - FY24 - FY24 - FY24 - FY25 - FY25 - FY25 - FY25 -
+               Average Employment         Average Weekly Wage                                  Q1     Q2     Q3     Q4     Q1     Q2     Q3     Q4
+  Source: NM DWS - Quarterly Census of Employment and Wages                        Source: U.S. Bureau of Economic Analysis, “SQGDP9 Real GDP by state”
+
+
+                                                                                           Chart 7. Gross Domestic Product Per
+                                                                                                         Quarter
+Gross Domestic Product (GDP) measures the value of                                $140,000,000,000
+all goods and services produced within New Mexico.                                $120,000,000,000
+                                                                                  $100,000,000,000
+Changes in GDP from one period to another are
+                                                                                   $80,000,000,000
+important indicators of the state’s economic                                       $60,000,000,000
+performance. Chart 7 provides quarterly statewide                                  $40,000,000,000
+                                                                                   $20,000,000,000
+GDP, while Table 2 below details a breakdown of GDP                                            $-
+by industry and their YOY changes. Both Chart 7 and                                                      FY24 FY24 FY24 FY24 FY25 FY25 FY25 FY25
+Table 2 present real GDP figures, adjusted to chained                                                    - Q1 - Q2 - Q3 - Q4 - Q1 - Q2 - Q3 - Q4
+2017 dollars.                                                                      Source: U.S. Bureau of Economic Analysis, “SQGDP9 Real GDP by state”
+
+
+                                                       Table 2. Gross Domestic Product by Industry
+                               Industry                                    FY24 - Q4            FY25 - Q4             Growth         Year Over Year Change
+Private Industries                                                     $ 94,067,700,000     $ 96,387,800,000    $     2,320,100,000                    2.5%
+Accommodation and Food Services                                        $   3,832,300,000    $   3,721,200,000   $      (111,100,000)                  -2.9%
+Administrative/Support & Waste Management/Remediation                  $   3,496,600,000    $   3,498,700,000   $         2,100,000                    0.1%
+Agriculture, Forestry, Fishing, and Hunting                            $   1,346,100,000    $   1,220,900,000   $      (125,200,000)                  -9.3%
+Arts, Entertainment, and Recreation                                    $     938,300,000    $     915,100,000   $       (23,200,000)                  -2.5%
+Construction                                                           $   4,093,500,000    $   4,453,600,000   $       360,100,000                    8.8%
+Educational Services                                                   $     611,300,000    $     638,800,000   $        27,500,000                    4.5%
+Finance and Insurance                                                  $   3,756,000,000    $   3,841,600,000   $        85,600,000                    2.3%
+Health Care and Social Assistance                                      $   8,583,900,000    $   8,805,800,000   $       221,900,000                    2.6%
+Information                                                            $   3,955,500,000    $   3,599,800,000   $      (355,700,000)                  -9.0%
+Management of Companies and Enterprises                                $     729,500,000    $     702,900,000   $       (26,600,000)                  -3.6%
+Manufacturing                                                          $   3,921,300,000    $   4,037,300,000   $       116,000,000                    3.0%
+  Manufacturing (Durrable Goods)                                       $   1,954,400,000    $   2,023,400,000   $        69,000,000                    3.5%
+  Manufacturing (Nondurrable Goods)                                    $   1,936,000,000    $   1,984,500,000   $        48,500,000                    2.5%
+Mining, Quarrying, and Oil and Gas Extraction                          $ 16,869,200,000     $ 18,328,000,000    $     1,458,800,000                    8.6%
+Other Services (except Public Administration)                          $   2,234,300,000    $   2,213,900,000   $       (20,400,000)                  -0.9%
+Professional, Scientific, and Technical Services                       $ 10,854,200,000     $ 11,290,200,000    $       436,000,000                    4.0%
+Public Administration                                                  $ 24,607,600,000     $ 24,316,200,000    $      (291,400,000)                  -1.2%
+Real Estate and Rental and Leasing                                     $ 13,927,400,000     $ 14,302,700,000    $       375,300,000                    2.7%
+Retail Trade                                                           $   6,879,300,000    $   6,861,400,000   $       (17,900,000)                  -0.3%
+Transportation and Warehousing                                         $   2,962,600,000    $   3,014,600,000   $        52,000,000                    1.8%
+Utilities                                                              $   1,833,300,000    $   1,768,100,000   $       (65,200,000)                  -3.6%
+Wholesale Trade                                                        $   2,891,100,000    $   2,985,100,000   $        94,000,000                    3.3%
+All Industries                                                         $ 118,784,800,000    $ 120,775,100,000   $     1,990,300,000                    1.7%
+Source: U.S. Bureau of Economic Analysis, “SQGDP9 Real GDP by state”
+
+
+
+ SOURCE LINKS: NEW MEXICO TAXATION AND REVENUE DEPT (NM TRD), NEW
+ MEXICO DEPARTMENT OF WORKFORCE SOLUTIONS (NM DWS), U.S. BUREAU                                                                                           3
+ OF ECONOMIC ANALYSIS (BEA), US CENSUS BUREAU
+Quarterly Economic Summary
+New Mexico
+                                                                                                   Population Sex
+     Population
+                                                                                 49.7%                                         50.3%
+     2,114,768                                                                                           Male     Female
+Source: U.S. Census Bureau - American Community Survey            Source: U.S. Census Bureau - ACS 2023, 5-year estimates
+(ACS) 2023, 5-year estimates
+
+                                                                  Population Age
+
+
+                22.1%                   9.3%              13.2%            12.7%              11.2%             12.8%              11.3%        7.5%
+
+
+                    Under 18 Years                    18 to 24 Years                    25 to 34 Years                      35 to 44 Years
+                    45 to 54 Years                    55 to 64 Years                    65 to 74 Years                      75 Years and Over
+Source: U.S. Census Bureau - ACS 2023, 5-year estimates
+
+
+               2.1%                                                       Race
+
+
+      9.5%               12.0%                                             53.6%                                                       20.9%
+
+
+
+                                                                                                                      1.7%
+                 0.1%
+
+                                                                                                   Percent
+     Native American                                                                                9.5%
+     Black or African American                                                                      2.1%
+     Native Hawaiian and Other Pacific Islander                                                     0.1%
+     Some Other Race                                                                                12.0%
+     White                                                                                          53.6%
+     Asian                                                                                          1.7%
+     Two or More Races                                                                              20.9%
+Source: U.S. Census Bureau - ACS 2023, 5-year estimates
+
+
+                                                 Educational Attainment, Age 25-64
+
+
+        12.3%                        25.7%                               22.6%                    9.2%               16.6%                   13.6%
+
+
+
+
+                    No High School Diploma                        High School Graduate                          Some College, No Degree
+                    Associate's Degree                            Bachelor's Degree                             Postgraduate Degree
+Source: U.S. Census Bureau - ACS 2023, 5-year estimates
+
+
+SOURCE LINKS: NEW MEXICO TAXATION AND REVENUE DEPT (NM TRD), NEW
+MEXICO DEPARTMENT OF WORKFORCE SOLUTIONS (NM DWS), U.S. BUREAU                                                                                         4
+OF ECONOMIC ANALYSIS (BEA), US CENSUS BUREAU
+

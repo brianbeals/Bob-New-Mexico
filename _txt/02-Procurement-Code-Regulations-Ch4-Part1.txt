@@ -1,0 +1,1653 @@
+TITLE 1           GENERAL GOVERNMENT ADMINISTRATION
+CHAPTER 4         STATE PROCUREMENT
+PART 1            PROCUREMENT CODE REGULATIONS
+
+1.4.1.1         ISSUING AGENCY: General Services Department - State Purchasing Division.
+[1.4.1.1 NMAC - Rp, 1.4.1.1 NMAC, 6/21/2022]
+
+1.4.1.2            SCOPE: All executive branch state agencies.
+          A.       Except as otherwise provided in the Procurement Code, Sections 13-1-28 through 13-1-199
+NMSA 1978, the code applies to every expenditure by state agencies and local public bodies for the procurement of
+items of tangible personal property, services and construction.
+          B.       General: Except as otherwise provided in this section, this rule applies to every agency and to
+every transaction to which the Procurement Code applies except the following:
+                   (1)       procurement of highway construction or reconstruction by the department of
+transportation;
+                   (2)       procurement by the judicial branch of state government;
+                   (3)       procurement by the legislative branch of state government;
+                   (4)       procurement by the boards of regents of state educational institutions named in Article 12
+Section 11 of the constitution of New Mexico;
+                   (5)       procurement by the state fair commission of tangible personal property, services and
+construction under twenty thousand dollars ($20,000);
+                   (6)       purchases from the instructional material fund;
+                   (7)       procurement by all local public bodies;
+                   (8)       procurement by regional education cooperatives;
+                   (9)       procurement by charter schools;
+                   (10)      procurement by each state health care institution that provides direct patient care and that
+is, or a part of which is, medicaid certified and participating in the New Mexico medicaid program; and
+                   (11)      procurement by the public school facilities authority.
+[1.4.1.2 NMAC - Rp, 1.4.1.2 NMAC, 6/21/2022]
+
+1.4.1.3            STATUTORY AUTHORITY: Section 9-17-5 NMSA 1978, Laws of 1983, Chapter 301,
+Section 5; and 13-1-95, Laws of 1984, Chapter 65, Section 68 (Repl. Pamp. 1997). Subject to the authority of the
+secretary of the general services department, Section 13-1-95 NMSA 1978 designates the state purchasing agent as
+both the administrator and chief executive of the state purchasing division. The cite further designates the state
+purchasing agent and purchasing division shall be responsible for the procurement of items of tangible personal
+property, services and construction for all state agencies except as otherwise provided in the Procurement Code,
+Sections 13-1-28 through 13-1-199 NMSA 1978, and shall administer the code for those state agencies not excluded
+from the requirement of procurement through the state purchasing agent. Among the statutory duties and
+responsibilities afforded the state purchasing agent is to recommend procurement regulations to the secretary of the
+general services department.
+[1.4.1.3 NMAC - Rp, 1.4.1.3 NMAC, 6/21/2022]
+
+1.4.1.4         DURATION: Permanent.
+[1.4.1.4 NMAC - Rp, 1.4.1.4 NMAC, 6/21/2022]
+
+1.4.1.5         EFFECTIVE DATE: June 21, 2022, unless a later date is cited at the end of a section.
+[1.4.1.5 NMAC - Rp, 1.4.1.5 NMAC, 6/21/2022]
+
+1.4.1.6             OBJECTIVE: Subsection C of Section 13-1-29 NMSA 1978 states that, the purposes of the
+Procurement Code are to provide for the fair and equal treatment of all persons involved in public procurement, to
+maximize the purchasing value of public funds and to provide safeguards for maintaining a procurement system of
+quality and integrity. The objective of this rule is to have the force and effect of law to implement, interpret or make
+statute specific as it applies to the Procurement Code, Sections 13-1-28 through 13-1-199 NMSA 1978 and the
+purposes stated therein.
+[1.4.1.6 NMAC - Rp, 1.4.1.6 NMAC, 6/21/2022]
+
+
+
+
+1.4.1 NMAC                                                                                                              1
+1.4.1.7             DEFINITIONS:
+          A.        Most of the terms which appear in this rule are defined in the Procurement Code.
+          B.        In these rules and regulations the following definitions apply.
+                    (1)       “Anti-poverty program businesses” means small businesses, cooperatives, community
+self-determination corporations or other such enterprises designed and operated to alleviate poverty conditions and
+aided by state or federal antipoverty programs or through private philanthropy.
+                    (2)       “Best obtainable price” means that price at which services or goods can be purchased
+which is most advantageous to the purchasing entity; best obtainable price can be found by obtaining quotes or other
+appropriate methods; where there is only one vendor available for such a purchase utilizing a direct purchase order
+in accordance with statute (such as an entity requiring dues, for example), the price would be the best obtainable
+price since it is the only possible price for that particular procurement.
+                    (3)       “Bidding time” means the period of time between the date the invitation to bid notice is
+published and the date and time set for receipt of bids.
+                    (4)       “Bidder” means one who submits a bid in response to an invitation for bid.
+                    (5)       “Competitive process” means an invitation for bid or request for proposals. Three
+quotes does not constitute a competitive process as the vendors from whom the quotes are received are singled out
+and specifically chosen. Increasing the number of quotes does not invalidate this lack of fairness, transparency, and
+competitiveness.
+                    (6)       “Competitive sealed bid” means the response from a bidder to an invitation to bid
+(ITB).
+                    (7)       “Competitive sealed proposal” means the response from an offeror to a request for
+proposals (RFP).
+                    (8)       “Contract” means any written, binding agreement for the procurement of items of
+tangible personal property, services or construction. A purchase order alone can be a binding contract.
+                    (9)       “Invitation for bid (IFB)” means all documents, including those attached or
+incorporated by reference, used for soliciting competitive sealed bids. Also sometimes referred to as an invitation to
+bid (ITB).
+                    (10)      “Offeror” means one who submits a proposal in response to a request for proposals.
+                    (11)      “Sealed” means, in terms of a non-electronic submission, that the bid or proposal is
+enclosed in a package which is completely fastened in such a way that nothing can be added or removed. Open
+packages submitted will not be accepted except for packages that may have been damaged by the delivery service
+itself. The state reserves the right, however, to accept or reject packages where there may have been damage done
+by the delivery service itself. Whether a package has been damaged by the delivery service or left unfastened and
+should or should not be accepted is a determination to be made by the procurement manager of any particular
+procurement. In terms of electronic submission, the entire required information and accompanying documents for
+the bid or proposal must be submitted via the electronic system being used by the state and by the deadline specified
+in the procurement. The deadline is that minute as stated in the procurement. That is, if a submission is due by 3:00
+p.m., on a particular day, that deadline means 3:00:00 p.m., and does not mean 3:00:59 p.m.
+[1.4.1.7 NMAC - Rp, 1.4.1.7 NMAC, 6/21/2022]
+
+1.4.1.8            CENTRALIZATION OF PROCUREMENT ACTIVITY (1.4.1.8 - 1.4.1.13 NMAC):
+          A.       State purchasing agent. All procurement for state agencies shall be performed by the state
+purchasing agent except the following:
+                   (1)      professional services;
+                   (2)      small purchases having a value not exceeding one thousand five hundred dollars
+($1,500);
+                   (3)      emergency procurements; and
+                   (4)      the types of procurement specified in Subsection B of 1.4.1.2 NMAC.
+          B.       Central purchasing offices. All procurement for state agencies excluded from the requirement of
+procurement through the state purchasing agent shall be performed by a central purchasing office designated by
+statute, the governing authority of that state agency or as otherwise provided in the Procurement Code.
+          C.       Cooperative procurement. Nothing in this section should be interpreted as limiting the ability of
+state agencies to make procurements under existing contracts or enter into cooperative procurement agreements in
+accordance with Sections 13-1-29, 13-1-135 and 13-1-136 NMSA 1978.
+[1.4.1.8 NMAC - Rp, 1.4.1.8 NMAC, 6/21/2022]
+
+
+
+
+1.4.1 NMAC                                                                                                             2
+1.4.1.9             INSPECTION OF PUBLIC RECORDS: The inspection of public records is governed by the
+Inspection of Public Records Act, Sections 14-2-1 through 14-2-12 NMSA 1978. To the extent that any provision
+of this rule conflicts with the Inspection of Public Records Act, as interpreted by the courts of this state, that act shall
+control. Furthermore, no obligation to keep data confidential which is contained in this rule is intended to create any
+liability that would not otherwise exist under state law.
+[1.4.1.9 NMAC - Rp, 1.4.1.9 NMAC, 6/21/2022]
+
+1.4.1.10          DOLLAR AMOUNTS: Whenever a dollar amount appears in this rule, such amount is exclusive
+of applicable gross receipts and local option taxes as the term is defined in Subsection Q of Section 7-9-3 NMSA
+1978.
+[1.4.1.10 NMAC - Rp, 1.4.1.10 NMAC, 6/21/2022]
+
+1.4.1.11            INDEMNIFICATION AND INSURANCE:
+         A.         Tort liability. Except as provided for in the Tort Claims Act, Section 41-4-1 through 41-4-27
+NMSA 1978, no contract governed by this rule shall contain any provision whereby a state agency agrees to
+indemnify or provide tort liability insurance for any contractor.
+         B.         Other risks. No contract governed by this rule shall contain any provision whereby a state agency
+agrees to indemnify a contractor or provide a contractor with a limitation of liability or provide a contractor with
+insurance for non-tort risks.
+         C.         Contract provisions void. Any indemnification or insurance provision in any contract executed in
+violation of this section shall be void and of no effect.
+[1.4.1.11 NMAC - Rp, 1.4.1.11 NMAC, 6/21/2022]
+
+1.4.1.12           [RESERVED]
+
+1.4.1.13          SEVERABILITY: If any provision of this rule, or any application thereof, to any person or
+circumstance, is held invalid, such invalidity shall not affect any other provision or application of this rule which can
+be given effect without the invalid provision or application.
+[1.4.1.13 NMAC - Rp, 1.4.1.13 NMAC, 6/21/2022]
+
+1.4.1.14          APPLICATION (COMPETITIVE SEALED BIDS; 1.4.1.14 -1.4.1.28 NMAC): The
+provisions of 1.4.1.14 through 1.4.1.28 NMAC apply to every procurement made by competitive sealed bids.
+[1.4.1.14 NMAC - Rp, 1.4.1.14 NMAC, 6/21/2022]
+
+1.4.1.15        COMPETITIVE SEALED BIDS REQUIRED: All procurement performed pursuant to the
+procurement code shall be achieved by competitive sealed bids except procurement achieved pursuant to the
+following methods:
+         A.     competitive sealed proposals;
+         B.     small purchases;
+         C.     sole source procurement;
+         D.     emergency procurement;
+         E.     procurement under existing contracts; and
+         F.     purchases from anti-poverty program businesses.
+[1.4.1.15 NMAC - Rp, 1.4.1.15 NMAC, 6/21/2022]
+
+1.4.1.16            INVITATION FOR BIDS ("IFB"):
+          A.        General: The invitation for bids ("IFB"), also sometimes referred to as the invitation to bid (ITB),
+is used to initiate a competitive sealed bid procurement. The IFB shall include the following:
+                    (1)     the specifications for the services, construction or items of tangible personal property to
+be procured, except that professional services and a design and build project delivery system cannot be procured
+with an IFB pursuant to Section 13-1-111 NMSA 1978;
+                    (2)     all contractual terms and conditions applicable to the procurement including any
+requirements for complying with applicable preferences provided in law;
+                    (3)     the term of the contract and conditions of renewal or extension, if any;
+                    (4)     instructions and information to bidders, including the location where bids are to be
+received and the date, time and place of the bid opening;
+
+
+
+1.4.1 NMAC                                                                                                                3
+                   (5)       a notice that the IFB may be canceled and that any and all bids may be rejected in whole
+or in part when it is in the best interest of the state of New Mexico; and
+                   (6)       a notice that reads substantially as follows: The Procurement Code, Section 13-1-28
+through Section 13-1-199 NMSA 1978, imposes civil, misdemeanor and felony criminal penalties for its violation.
+In addition, the New Mexico criminal statutes impose felony penalties for bribes, gratuities and kick-backs.
+          B.       Incorporation by reference: The IFB may incorporate documents by reference, provided that the
+IFB specifies where such documents can be obtained.
+          C.       Evaluation criteria: The IFB shall set forth the evaluation criteria that will be used to determine
+acceptability such as inspection, testing, quality, workmanship, delivery and suitability for a particular purpose.
+Those criteria such as discounts, transportation costs and total or life-cycle costs that will affect the bid price shall be
+objectively measurable. No criteria may be used in bid evaluation that are not set forth in the IFB.
+          D.       Bid form: The IFB shall provide a form which shall include space in which the bid price shall be
+inserted and which the bidder shall affirm, certify, or sign and submit along with all other necessary submissions.
+This may be an entirely electronic process if required by the procurement.
+          E.       Bid samples and descriptive literature:
+                   (1)       "Descriptive literature" means information available in the ordinary course of business
+that shows the characteristics, construction, or operation of an item.
+                   (2)       "Bid sample" means a sample furnished by a bidder that shows the characteristics of an
+item offered in the bid.
+                   (3)       Bid samples or descriptive literature may be required when it is necessary to evaluate
+required characteristics of the item bid.
+                   (4)       Bid samples, when required, shall be furnished free of expense to the state and prior to
+the time set for the opening of bids. Samples not destroyed or mutilated in testing will be returned upon request by
+mail, express or freight, collect. Each sample must be labeled to clearly show the bid number and the bidder's name.
+          F.       Bidding time: Bidding time is the period of time between the date of distribution of the IFB and
+the time and date set for receipt of bids. In each case bidding time shall be set to provide bidders a reasonable time
+to prepare their bids. In no case shall the bidding time be shorter than the time required for publication under
+1.4.1.17 NMAC of this rule.
+[1.4.1.16 NMAC - Rp, 1.4.1.16 NMAC, 6/21/2022]
+
+1.4.1.17           PUBLIC NOTICE INVITATION FOR BID: Publication. The IFB or notice thereof shall be
+published not less than ten calendar days prior to the date set for the opening of bids. The IFB or notice must be
+published in accordance with statute.
+          A.       These requirements of publication are in addition to any other procedures that may be adopted by
+the state purchasing agent to notify prospective bidders that bids will be received, including but not limited to
+publication in trade journals, if available.
+          B.       Bidder lists. The state purchasing agent shall send copies of the notice or IFB to those businesses
+which have signified in writing an interest in submitting bids for particular categories of items of tangible personal
+property, construction and services and which have paid any required fees. This may be done through electronic
+means. (Section 13-1-104 NMSA 1978). Reference is also given to 1.4.1.48 NMAC of this rule.
+          C.       Public availability. A copy of the IFB shall be made available for public inspection on the state
+purchasing agnet’s website.
+[1.4.1.17 NMAC - Rp, 1.4.1.17 NMAC, 6/21/2022]
+
+1.4.1.18          PRE-BID CONFERENCES: Pre-bid conferences may be conducted to explain the procurement
+requirements. If a pre-bid conference is to be held it shall be noticed in the IFB. The conference should be held
+long enough after the IFB has been issued to allow bidders to become familiar with it, but sufficiently before bid
+opening to allow consideration of the conference results in preparing their bids. Nothing stated at the pre-bid
+conference shall change the IFB. An IFB shall only be changed by written amendment as provided in this rule.
+[1.4.1.18 NMAC - Rp, 1.4.1.18 NMAC, 6/21/2022]
+
+1.4.1.19         AMENDMENTS TO THE INVITATION FOR BIDS:
+       A.        Form. An amendment to the IFB shall be identified as such and shall require that bidders
+acknowledge its receipt. The amendment shall refer to the portions of the IFB it amends.
+       B.        Distribution. Amendments shall be sent to all prospective bidders known to have received the
+IFB.
+
+
+
+1.4.1 NMAC                                                                                                                4
+         C.        Timeliness. Amendments shall be distributed within a reasonable time to allow prospective
+bidders to consider them in preparing their bids. If the time and date set for receipt of bids will not permit such
+preparation, the time shall be increased to the extent possible in the amendment or, if necessary, by other electronic
+means and confirmed in the amendment.
+         D.        Use of amendments: Amendments should be used to:
+                   (1)      make any changes in the IFB such as changes in quantity, purchase descriptions, delivery
+schedules, and opening dates;
+                   (2)      correct defects or ambiguities; or
+                   (3)      furnish to other bidders information given to one bidder if such information will assist the
+other bidders in submitting bids or if the lack of such information would prejudice the other bidders.
+[1.4.1.19 NMAC - Rp, 1.4.1.19 NMAC, 6/21/2022]
+
+1.4.1.20            PRE-OPENING MODIFICATION OR WITHDRAWAL OF BIDS:
+          A.        Procedure: A bid may be modified or withdrawn by a bidder prior to the time set for bid opening
+by delivering written or electronic notice to the location designated in the IFB as the place where bids are to be
+received.
+          B.        Disposition of bid security: If a bid is withdrawn in accordance with this section, the bid security,
+if any, shall be returned to the bidder.
+          C.        Records: All documents relating to the modification or withdrawal of bids shall be made a part of
+the appropriate procurement file.
+[1.4.1.20 NMAC - Rp, 1.4.1.20 NMAC, 6/21/2022]
+
+1.4.1.21           LATE BIDS, LATE WITHDRAWALS AND LATE MODIFICATIONS:
+          A.       Definition: Any bid or any withdrawal or modification of a bid received after the time and date
+for opening of bids at the place designated for opening is late. (NOTE: if the time a bid is due is listed as “3 p.m.”
+this means 3:00:00 and not 3:00:59.)
+          B.       General rule: No late bid, late modification, or late withdrawal will be considered unless received
+before contract award, and the bid, modification, or withdrawal would have been timely but for the action or
+inaction of state personnel directly serving the procurement activity.
+          C.       Records: All documents relating to late bids, late modifications, or late withdrawals shall be made
+a part of the appropriate procurement file.
+[1.4.1.21 NMAC - Rp, 1.4.1.21 NMAC, 6/21/2022]
+
+1.4.1.22           BID OPENING:
+          A.       Receipt: Upon its receipt, each bid and modification shall be time-stamped but not opened and
+shall be stored in a secure place until the time and date set for bid opening. This may be done entirely electronically.
+          B.       No bids received: Except as provided in 1.4.1.68 through 1.4.1.72 NMAC of this rule, if no bids
+are received or if all bids received are rejected in accordance with the provisions of 1.4.1.68 through 1.4.1.72
+NMAC of this rule, a new IFB shall be issued. If upon re-bidding with no change in specifications from the first
+IFB, the bids received are unacceptable, or if no bids are secured, the state purchasing agent may purchase (i.e., as
+opposed to procure) the items of tangible personal property, construction or services in the open market at the best
+obtainable price.
+          C.       Opening and recording: Bids and modifications shall be opened publicly in the presence of one or
+more witnesses at the time and place designated in the IFB. Presence in this context may include virtual presence.
+The name of each bidder, the amount of each bid and each bid item, if appropriate, the names and addresses of the
+required witnesses, and such other relevant information as may be specified by the state purchasing agent shall be
+recorded. The record shall be open for public inspection. Each bid, except those portions for which a bidder has
+made a written request for confidentiality, shall also be open to public inspection. Any data, which a bidder believes
+should be kept confidential shall accompany the bid and shall be readily separable from the bid in order to facilitate
+public inspection of the non-confidential portion of the bid. Prices and makes and models or catalogue numbers of
+the items offered, deliveries, and terms of payment shall be publicly available at the time of bid opening regardless
+of any designation to the contrary.
+[1.4.1.22 NMAC - Rp, 1.4.1.22 NMAC, 6/21/2022]
+
+1.4.1.23          MISTAKES IN BIDS:
+
+
+
+
+1.4.1 NMAC                                                                                                              5
+          A.        Consideration for award: Bids shall be unconditionally accepted for consideration for award
+without alteration or correction, except as authorized in 1.4.1.14 through 1.4.1.28 NMAC of this rule.
+          B.        General principles: Correction or withdrawal of a bid because of an inadvertent, nonjudgmental
+mistake in the bid requires careful consideration to protect the integrity of the competitive bidding system, and to
+assure fairness. If the mistake is attributable to an error in judgment, the bid may not be corrected. Bid correction or
+withdrawal by reason of a nonjudgmental mistake is permissible but only to the extent authorized in 1.4.1.14
+through 1.4.1.28 NMAC of this rule.
+          C.        Mistakes discovered before opening: A bidder may correct mistakes discovered before bid
+opening by withdrawing or correcting the bid as provided in 1.4.1.20 NMAC of this rule.
+          D.        Confirmation of bid: When the procurement officer knows or has reason to conclude that a
+mistake has been made in the low bid, the procurement officer should request the low bidder to confirm the bid.
+Situations in which confirmation should be requested include obvious, apparent errors on the face of the low bid or a
+bid unreasonably lower than the other bids submitted. If the low bidder alleges mistake, the bid may be corrected or
+withdrawn if the conditions set forth in Subsection E of this section are met.
+          E.        Mistakes discovered after opening: This subsection sets forth procedures to be applied in three
+situations in which mistakes in bids are discovered after the time and date set for bid opening.
+                    (1)     Technical irregularities: Technical irregularities are matters of form rather than
+substance evident from the bid document, or insignificant mistakes that can be waived or corrected without
+prejudice to other bidders; that is, when there is no effect on price, quality or quantity. The procurement officer may
+waive such irregularities or allow the low bidder to correct them if either is in the best interest of the state.
+Examples include the failure of the low bidder to:
+                            (a)       return the number of signed bids required by the IFB;
+                            (b)       sign the bid, but only if the unsigned bid is accompanied by other material
+indicating the low bidder's intent to be bound; or
+                            (c)       acknowledge receipt of an amendment to the IFB, but only if:
+                                      (i)       it is clear from the bid that the low bidder received the amendment and
+intended to be bound by its terms; or
+                                      (ii)      the amendment involved had no effect on price, quality or quantity.
+                    (2)     Mistakes where intended correct bid is evident: If the mistake and the intended correct
+bid are clearly evident on the face of a bid document, the bid shall be corrected to the intended correct bid and may
+not be withdrawn. Examples of mistakes that may be clearly evident on the face of a bid document are
+typographical errors, errors in extending unit prices, transposition errors, and arithmetical errors. It is emphasized
+that mistakes in unit prices cannot be corrected.
+                    (3)     Mistakes where intended correct bid is not evident: A low bidder alleging a material
+mistake of fact which makes the bid non-responsive may be permitted to withdraw the bid if:
+                            (a)       a mistake is clearly evident on the face of the bid document but the intended
+correct bid is not; or
+                            (b)       the low bidder submits evidence which clearly and convincingly demonstrates
+that a mistake was made.
+                    (4)     Written determination: When a bid is corrected or withdrawn, or a correction or
+withdrawal is denied, the procurement officer shall prepare a written determination showing that the relief was
+granted or denied in accordance with this section.
+[1.4.1.23 NMAC - Rp, 1.4.1.23 NMAC, 6/21/2022]
+
+1.4.1.24            BID EVALUATION AND AWARD:
+          A.        General: A contract solicited by competitive sealed bids shall be awarded with reasonable
+promptness by written notice to the lowest responsible bidder. The IFB shall set forth the requirements and criteria
+that will be used to determine the lowest responsive bid. No bid shall be evaluated for any requirement or criterion
+that is not disclosed in the IFB. Contracts solicited by competitive sealed bids shall require that the bid amount
+exclude the applicable state gross receipts tax or local option tax but that the contracting agency shall be required to
+pay the tax including any increase in the tax becoming effective after the contract is entered into. The tax shall be
+shown as a separate amount on each billing or request for payment made under the contract.
+          B.        Product acceptability: The IFB shall set forth all evaluation criteria to be used in determining
+product acceptability. It may require the submission of bid samples, descriptive literature, technical data, or other
+material. It may also provide for accomplishing any or all of the following prior to award:
+                    (1)      inspection or testing of a product for such characteristics as quality or workmanship;
+
+
+
+1.4.1 NMAC                                                                                                                 6
+                  (2)      examination of such elements as appearance, finish, taste or feel; or
+                  (3)      other examinations to determine whether it conforms with other purchase description
+requirements.
+          C.        Purpose of acceptability evaluation: An acceptability evaluation is not conducted for the purpose
+of determining whether one bidder's item is superior to another's but only to determine that a bidder's offering is
+acceptable as set forth in the IFB. Any bidder's offering which does not meet the acceptability requirements shall be
+rejected as non-responsive.
+          D.        Brand-name or equal specification: Where a brand-name or equal specification is used in a
+solicitation, the solicitation shall contain explanatory language that the use of a brand name is for the purpose of
+describing the standard of quality, performance and characteristics desired and is not intended to limit or restrict
+competition. When bidding an "or equal" the burden of persuasion is on the supplier or manufacturer who has not
+been specified to convince the procurement officer that their product is, in fact, equal to the one specified. The
+procurement officer is given the responsibility and judgement for making a final determination on whether a
+proposed substitution is an "or equal".
+          E.        Determination of lowest bidder: Following determination of product acceptability as set forth in
+Subsections B, C and D of this section, if any is required, bids will be evaluated to determine which bidder offers the
+lowest cost to the state in accordance with the evaluation criteria set forth in the IFB. Only objectively measurable
+criteria that are set forth in the IFB shall be applied in determining the lowest bidder. Examples of such criteria
+include, but are not limited to, discounts, transportation costs and ownership or life-cycle formulas. Evaluation
+factors need not be precise predictors of actual future costs, but to the extent possible the evaluation factors shall be
+reasonable estimates based upon information the state has available concerning future use.
+                    (1)        Prompt payment discounts. Prompt payment discounts shall not be considered in
+computing the low bid. Such discounts may be considered after award of the contract.
+                    (2)        Trade discounts. Trade discounts shall be considered in computing the low bid. Such
+discounts may be shown separately, but must be deducted by the bidder in calculating the unit price quoted.
+                    (3)        Quantity discounts. Quantity discounts shall be included in the price of an item. Such
+discounts may not be considered where set out separately unless the IFB so specifies.
+                    (4)        Transportation costs. Transportation costs shall be considered in computing the low bid.
+Such costs may be computed into the bid price or be listed as a separate item.
+                    (5)        Total or life-cycle costs. Award may be determined by total or life-cycle costing if so
+indicated in the IFB. Life-cycle cost evaluation may take into account operative, maintenance, and money costs,
+other costs of ownership and usage and resale or residual value, in addition to acquisition price, in determining the
+lowest bid cost over the period the item will be used.
+                    (6)        Energy efficiency. Award may be determined by an evaluation consisting of acquisition
+price plus the cost of energy consumed over a projected period of use.
+          F.        Restrictions: Nothing in 1.4.1.24 NMAC of this rule shall be deemed to permit contract award to
+a bidder submitting a higher quality item than designated in the IFB unless the bidder is also the lowest bidder as
+determined under Subsection E of this section. Further, except as provided in this Subsection F of 1.4.1.24 NMAC
+tion, 1.4.1.24 NMAC of this rule does not permit negotiations with any bidder. If the lowest responsive bid has
+otherwise qualified, and if there is no change in the original terms and conditions, the lowest responsible bidder may
+negotiate with the purchaser (i.e., this exception applies only to purchases and does not apply to procurements
+generally) for a lower total bid to avoid rejection of all bids for the reason that the lowest bid was up to ten percent
+higher than budgeted project funds. Such negotiation shall not be allowed if the lowest bid was more than ten
+percent over budgeted project funds.
+          G.        Documentation of award: Following award, a record showing the basis for determining the
+successful bidder shall be made a part of the procurement file. Award in this context means the final required state
+agency signature on the contract(s) resulting from the procurement.
+          H.        Publicizing awards: Written notice of award shall be sent to the successful bidder. Notice of
+award shall also be posted on the state purchasing website.
+[1.4.1.24 NMAC - Rn 1.4.1.24 NMAC, 6/21/2022]
+
+1.4.1.25           STATUTORY PREFERENCES: Statutory preferences to be applied in determining low bidder
+or successful offeror. New Mexico law provides certain statutory preferences for several categories of bidders and
+offerors as well as for recycled content goods (Sections 13-1-21 and 13-1-22 NMSA 1978). These preferences must
+be applied in regard to invitations for bids and requests for proposals in accordance with statute in determining the
+lowest bidder or successful offeror.
+
+
+
+1.4.1 NMAC                                                                                                             7
+[1.4.1.25 NMAC - Rp, 1.4.1.25 NMAC, 6/21/2022]
+
+1.4.1.26           IDENTICAL LOW BIDS:
+          A.       Definition: Identical low bids are low responsive bids, from responsible bidders, which are
+identical in price after the application of the preferences referred to in 1.4.1.25 NMAC of this rule and which meet
+all the requirements and criteria set forth in the IFB.
+          B.       Award: When two or more identical low bids are received, the state purchasing agent may:
+                   (1)        award pursuant to the multiple source award provisions of Sections 13-1-153 and 13-1-
+154 NMSA 1978;
+                   (2)        award to a bidder with a statutory preference if the identical low bids are submitted by a
+bidder with a statutory preference and a nonresident business or nonresident contractor;
+                   (3)        award to a bidder offering recycled content goods if the identical low bids are for
+recycled content goods and virgin goods;
+                   (4)        award by lottery to one of the identical low bidders; or
+                   (5)        reject all bids and re-solicit bids or proposals for the required services, construction or
+items of tangible personal property.
+[1.4.1.26 NMAC - Rp, 1.4.1.26 NMAC, 6/21/2022]
+
+1.4.1.27           MULTI-STEP SEALED BIDS:
+         A.        General: Multi-step bidding is a variant of the competitive sealed bidding method. This method
+may be utilized when the state purchasing agent or a central purchasing office makes a determination that it is
+impractical initially to prepare specifications to support an award based on price, or that specifications are
+inadequate or are too general to permit full and free competition without technical evaluation and discussion.
+         B.        Phased process: Multi-step bidding is a phased process which combines elements of both the
+competitive sealed proposal method, seeking necessary information or unpriced technical offers in the initial phase;
+and regular competitive sealed bidding, inviting bidders who submitted technically acceptable offers in the initial
+phase, to submit competitive sealed price bids on the technical offers in the final phase. The contract shall be
+awarded to the lowest responsible bidder. If time is a factor, the state purchasing agent or a central purchasing
+office may require bidders to submit a separate sealed bid during the initial phase to be opened after the technical
+evaluation.
+         C.        Public notice: Whenever multi-step sealed bids are used, public notice for the first phase shall be
+given in accordance with 1.4.1.17 NMAC of this rule. Public notice is not required for the second phase.
+[1.4.1.27 NMAC - Rp, 1.4.1.27 NMAC, 6/21/2022]
+
+1.4.1.28           PAYMENTS FOR PURCHASES: Contract clause. All contracts resulting from an invitation
+for bids shall contain a clause allowing for late payment charges against the state agency in the amount and under
+the conditions set forth in Section 13-1-158 NMSA 1978.
+[1.4.1.28 NMAC - Rp, 1.4.1.28 NMAC, 6/21/2022]
+
+1.4.1.29          APPLICATION (COMPETITIVE SEALED PROPOSALS; 1.4.1.29-1.4.1.47 NMAC):
+         A.       General: Except as provided in Subsections B and C of this section, the provisions of 1.4.1.29
+through 1.4.1.47 NMAC of this rule apply to every procurement made by competitive sealed proposals.
+         B.       Architects, engineers, landscape architects and surveyors: The provisions of 1.4.1.29 through
+1.4.1.47 NMAC of this rule do not apply to the procurement of professional services of architects, engineers,
+landscape architects and surveyors for state public works projects or local public works projects. Except that when
+procuring such professional services for state public works projects or local public works projects state agencies and
+local public bodies shall comply with Section 13-1-120 through 13-1-124 NMSA 1978, competitive sealed
+qualifications-based proposals.
+         C.       Procurement of professional services by state agencies with rulemaking authority: A state agency
+with rule making authority may adopt its own regulations for the procurement of professional services by
+competitive sealed proposals under the following conditions:
+                  (1)       the state agency must receive prior written authorization from the general services
+department secretary;
+                  (2)       the state agency's proposed regulations must provide that RFPs or notices thereof having
+a value exceeding sixty thousand dollars ($60,000) will be provided to the state purchasing agent for distribution to
+
+
+
+
+1.4.1 NMAC                                                                                                                  8
+prospective offerors who have registered with the state purchasing agent's office in accordance with the terms of
+Subsection B of 1.4.1.17 NMAC and Subsection A of 1.4.1.32 NMAC of this rule.
+          D.       "Professional services" are defined in Section 13-1-76 NMSA 1978: The section of statute
+acknowledges the difficulty of any attempt made to recognize and list each and every service that could conceivably
+fall within the definition of "professional services". Instead, the statute provides in relevant part that "...other
+persons or businesses providing similar professional services to those listed may be designated as such by a
+determination issued by the state purchasing agent or a central purchasing office." In instances where "...other
+persons or businesses providing similar professional services...", as cited in Section 13-1-76, NMSA 1978, is not
+clearly defined, state agencies shall submit a written request to the state purchasing agent for issuance of a
+determination and a finding that the service is to be designated as a professional service. State agencies shall not
+make such a determination independent of the state purchasing agent.
+[1.4.1.29 NMAC - Rp, 1.4.1.29 NMAC, 6/21/2022]
+
+1.4.1.30           GENERAL DISCUSSION:
+          A.       Use of competitive sealed proposals: When a state agency procures professional services that are
+not related to a design and build project delivery system in accordance with Section 13-1-119.1 NMSA 1978, or
+when the state purchasing agent or a designee makes a determination that the use of competitive sealed bids is either
+not practicable or not advantageous to the state, a procurement shall be effected by competitive sealed proposals.
+Note well: Section 13-1-111 NMSA 1978 only authorizes state agencies other than the state purchasing agent to
+procure professional services by means of competitive sealed proposals. Section 13-1-111 NMSA 1978 does not
+authorize state agencies to avoid centralized purchasing through the state purchasing agent by issuing RFPs for
+items of tangible personal property, or nonprofessional services.
+          B.       Definitions: The words "practicable" and "advantageous" are to be given ordinary dictionary
+meanings. The term "practicable" denotes what may be accomplished or put into practical application.
+"Advantageous" denotes a judgmental assessment of what is in the state's best interest. The use of competitive
+sealed bids may be practicable, that is, reasonably possible, but not necessarily advantageous, that is, in the state's
+best interest.
+          C.       Proposals offer flexibility: The key element in determining advantageousness is the need for
+flexibility. The competitive sealed proposal method differs from the competitive sealed bid method in two
+important ways:
+                   (1)      it permits discussions with competing offerors and changes in their proposals including
+price; and;
+                   (2)      it allows more subjective evaluations to be made in comparing acceptable offerors’
+proposals with stated evaluation criteria when selecting among acceptable proposals for award of a contract.
+          D.       Determinations by category: The state purchasing agent may make determinations by category of
+services or items of tangible personal property that it is either not practicable or not advantageous to procure
+specified types of service or items of tangible personal property by competitive sealed bids in which case
+competitive sealed proposals shall be utilized. The state purchasing agent may modify or revoke such
+determinations at any time.
+[1.4.1.30 NMAC - Rp, 1.4.1.30 NMAC, 6/21/2022]
+
+1.4.1.31          REQUEST FOR PROPOSALS ("RFP"):
+         A.       Initiation: The request for proposals ("RFP") is used to initiate a competitive sealed proposal
+procurement. All state agencies shall follow published guidelines and procedures issued by the state purchasing
+agent from development stage through award of RFP-based procurements. At a minimum the RFP shall include the
+following:
+                  (1)       the specifications for the services or items of tangible personal property to be procured;
+                  (2)       all contractual terms and conditions applicable to the procurement;
+                  (3)       instructions concerning the submission and response to questions;
+                  (4)       the term of the contract and conditions of renewal or extension, if any;
+                  (5)       instructions and information to offerors, including the location where proposals are to be
+received and the date, time and place where proposals are to be received and reviewed;
+                  (6)       all of the evaluation factors, and the relative weights to be given to the factors in
+evaluating proposals;
+
+
+
+
+1.4.1 NMAC                                                                                                            9
+                  (7)       a statement that discussions may be conducted with offerors who submit proposals
+determined to be potentially acceptable of being selected for award, but that proposals may be accepted without such
+discussions;
+                  (8)       a notice that the RFP may be canceled and that any and all proposals may be rejected in
+whole or in part when it is in the best interest of the state of New Mexico; and
+                  (9)       a statement of how proposed costs should be submitted;
+                  (10)      a notice that reads substantially as follows: The Procurement Code, Section 13-1-28
+through 13-1-199 NMSA 1978, imposes civil, misdemeanor and felony criminal penalties for its violation. In
+addition, the New Mexico criminal statutes impose felony penalties for bribes, gratuities and kick-backs.
+         B.       Incorporation by reference: The RFP may incorporate documents by reference, provided that the
+RFP specifies where such documents can be obtained.
+         C.       Form of proposal: The manner in which proposals are to be submitted, including any forms for
+that purpose, must be designated in the RFP.
+         D.       Proposal preparation time: 30 calendar days between the date of issue and the proposal due date is
+the recommended minimum proposal preparation time. A longer preparation time may be required for complex
+procurements or for procurements that require substantial offeror resources to prepare an acceptable proposal.
+[1.4.1.31 NMAC - Rp, 1.4.1.31 NMAC, 6/21/2022]
+
+1.4.1.32            PUBLIC NOTICE REQUEST FOR PROPOSAL:
+          A.        Procurements by the state purchasing agent: The state purchasing agent shall give public notice of
+the RFP in the same manner as provided in 1.4.1.17 NMAC of this rule. However, an RFP or a notice shall be
+published not less than 20 days prior to the date set for receipt of proposals unless a shorter time frame is requested
+and approval granted by the state purchasing agent.
+          B.        Procurements of all tangible personal property or services: The procurement manager shall
+deliver to the state purchasing agent or designee the following listed items no later than 15 calendar days prior to the
+proposed issue date (this requirement may be waived by the state purchasing agent at the state purchasing agent’s
+discretion):
+                    (1)      the RFP authorization and plan document, if required;
+                    (2)      a state of New Mexico requisition completed according to state purchasing division
+processes;
+                    (3)      a list containing the names and addresses of suggested vendors, if any;
+                    (4)      a copy of the complete RFP document; for large or complex procurements, the draft RFP
+document shall be delivered to the state purchasing agent for review at least thirty days prior to the proposed issue
+date (this requirement may be waived by the state purchasing agent at the state purchasing agent’s discretion).
+          C.        Procurements of professional services by other central purchasing offices: When procuring
+professional services, central purchasing offices other than the state purchasing agent shall provide the following
+notice:
+                    (1)      the RFP or a notice thereof shall be published not less than 10 calendar days prior to the
+date set for the receipt of proposals; it is recommended, however, that the time period between the published date
+and the date set for receipt of proposals be no less than 20 days; the RFP or notice shall be published at least once in
+a newspaper of general circulation in the area in which the central purchasing office is located; if there is no
+newspaper of general circulation in the area, such other notice may be given as is commercially reasonable; and
+                    (2)      a copy of the RFP and notice may be delivered to the state purchasing agent not less than
+15 calendar days prior to the date set for the issuance; if so received, the state purchasing agent shall distribute the
+RFP or notice to prospective offerors who have registered with the state purchasing agent's office in accordance with
+the terms of Subsection B of 1.4.1.17 NMAC of this rule and Subsection A of this section; and
+                    (3)      a copy of the RFP shall be made available for public inspection at the central purchasing
+office or electronically or online.
+          D.        Additional notice: The requirements of Subsections A, B and C of this section are in addition to
+any other procedures which may be adopted by the state purchasing agent or central purchasing offices to notify
+prospective offerors that proposals will be received, including but not limited to publication in professional journals,
+if available.
+[1.4.1.32 NMAC - Rp 1.4.1.32 NMAC, 6/21/2022]
+
+1.4.1.33         PRE-PROPOSAL CONFERENCES: Pre-proposal conferences may be conducted in
+accordance with 1.4.1.18 NMAC of this rule. Any such conference should be held prior to submission of initial
+
+
+
+1.4.1 NMAC                                                                                                           10
+proposals. Other than for particular procurements where an agency feels a pre-proposal conference is necessary
+(such as for construction procurements where building walk-throughs or similar activities would be required or other
+like procurements), it is strongly recommended that pre-proposal conferences not be made mandatory so as to not
+eliminate potential vendors prior to receiving bids or proposals.
+[1.4.1.33 NMAC - Rp, 1.4.1.33 NMAC, 6/21/2022]
+
+1.4.1.34           AMENDMENTS TO THE REQUEST FOR PROPOSALS:
+          A.       Prior to submission of proposals: Prior to submission of proposals, amendments to the RFP may
+be made in accordance with 1.4.1.19 NMAC of this rule.
+          B.       After submission of proposals: After submission of proposals, amendments to the RFP shall be
+distributed only to short-listed offerors. The short-listed offerors shall be permitted to submit new proposals or to
+amend those submitted. If in the opinion of the procurement officer or procurement manager, a contemplated
+amendment will significantly change the nature of the procurement, the RFP shall be canceled in accordance with
+1.4.1.68 through 1.4.1.72 NMAC of this rule, and a new RFP issued.
+[1.4.1.34 NMAC - Rp, 1.4.1.34 NMAC, 6/21/2022]
+
+1.4.1.35            MODIFICATION OR WITHDRAWAL OF PROPOSALS: Proposals may be modified or
+withdrawn prior to the established due date in accordance with 1.4.1.20 NMAC of this rule. The established due
+date is either the time and date announced for receipt of proposals or receipt of modifications to proposals, if any; or,
+if discussions have begun, it is the time and date by which best and final offers must be submitted by short-listed
+offerors. (NOTE: if the time a proposal is due is listed as “3 p.m.” this means 3:00:00 and not 3:00:59.)
+[1.4.1.35 NMAC - Rp, 1.4.1.35 NMAC, 6/21/2022]
+
+1.4.1.36           LATE PROPOSALS, LATE WITHDRAWALS AND LATE MODIFICATIONS: Any
+proposal, withdrawal, or modification received after the established due date at the place designated for receipt of
+proposals is late. (See 1.4.1.35 NMAC of this rule for the definition of "established due date.") They may be
+considered only in accordance with 1.4.1.21 NMAC of this rule.
+[1.4.1.36 NMAC - Rp, 1.4.1.36 NMAC, 6/21/2022]
+
+1.4.1.37           RECEIPT AND OPENING OF PROPOSALS:
+         A.        Receipt: Proposals and modifications shall be time-stamped upon receipt and held in a secure
+place until the established due date. This may be done entirely electronically. (See 1.4.1.35 NMAC of this rule for
+the definition of "established due date.")
+         B.        Opening: Proposals shall not be opened publicly and shall not be open to public inspection until
+after award of a contract. Award in this context means the final required state agency signature on the contract(s)
+resulting from the procurement. An offeror may request in writing nondisclosure of confidential data. Such data
+shall accompany the proposal and shall be readily separable from the proposal in order to facilitate eventual public
+inspection of the nonconfidential portion of the proposal.
+[1.4.1.37 NMAC - Rp, 1.4.1.37 NMAC, 6/21/2022]
+
+1.4.1.38           EVALUATION OF PROPOSALS:
+         A.        Evaluation factors: The evaluation shall be based on the evaluation factors and the relative
+weights set forth in the RFP. Appropriate rating systems (numerical, point-based, pass/fail, etc.) are required for
+requests for proposals-based procurements.
+         B.        Evaluation committee: The state agency management shall appoint an evaluation committee prior
+to the due date for receipt of proposals. The size of the committee should be manageable and include both user and
+technical support representatives. Contractor subject matter experts may be used to advise the committee but cannot
+evaluate proposals.
+         C.        Classified proposals: For the purpose of conducting discussions under 1.4.1.39 NMAC of this
+rule, proposals shall be initially classified as:
+                   (1)       responsive;
+                   (2)       potentially responsive, that is, reasonably susceptible of being made responsive; or
+                   (3)       non-responsive.
+         D.        Disqualification: Non-responsive proposals are disqualified and eliminated from further
+consideration. A written determination in the form of a letter shall be sent to the disqualified offeror setting forth the
+grounds for the disqualification, and made a part of procurement file.
+
+
+
+1.4.1 NMAC                                                                                                             11
+[1.4.1.38 NMAC - Rp, 1.4.1.38 NMAC, 6/21/2022]
+
+1.4.1.39            PROPOSAL DISCUSSIONS AND NEGOTIATIONS WITH INDIVIDUAL OFFERORS:
+          A.        Discussions authorized: Discussions may be conducted with responsible offerors who submit
+acceptable or responsive, potentially acceptable or potentially responsive proposals.
+          B.        Purposes of discussions: Discussions are held to clarify technical or other aspects of the
+proposals.
+          C.        Conduct of discussions: If during discussions there is a need for any substantial clarification or
+change in the request for proposals, the request for proposals shall be amended to incorporate such clarification or
+change. Any substantial oral clarification of a proposal shall be reduced to writing by the offeror. Proposals may be
+accepted and evaluated without such discussion. This is not an opportunity for the offerors to amend the substance
+of their proposals.
+          D.        Short list: All responsible offerors who submit acceptable proposals are eligible for the short list.
+If numerous acceptable proposals have been submitted, however, the procurement officer or procurement manager
+may rank the proposals and select the highest ranked proposals for the short list. Those responsible offerors who are
+selected for the short list are the "short-listed offerors" or "finalist offerors".
+          E.        Competitive negotiations: Competitive negotiations may be held among the short-listed offerors
+to:
+                    (1)       promote understanding of a state agency's requirements and short-listed offerors'
+proposal; and
+                    (2)       facilitate arriving at a contract that will be most advantageous to a state agency taking
+into consideration the evaluation factors set forth in the RFP;
+                    (3)       except for circumstances and situations otherwise approved by the state purchasing agent,
+negotiations of the relevant terms and conditions as well as any other important factors in an RFP and proposed
+contract are negotiated prior to award of a contract, not after award.
+          F.        Conduct of competitive negotiations: Short-listed offerors shall be accorded fair and equal
+treatment with respect to any negotiations and revisions of proposals. The procurement officer should establish
+procedures and schedules for conducting negotiations. If during discussions there is a need for any substantial
+clarification of or change in the RFP, the RFP shall be amended to incorporate such clarification or change. Any
+substantial oral clarification of a proposal shall be reduced to writing by the short-listed offeror.
+[1.4.1.39 NMAC - Rp, 1.4.1.39 NMAC, 6/21/2022]
+
+1.4.1.40          DISCLOSURE: The contents of any proposal shall not be disclosed so as to be available to
+competing offerors during the negotiation process and prior to award. Award in this context means the final
+required state agency signature on the contract(s) resulting from the procurement.
+[1.4.1.40 NMAC - Rp, 1.4.1.40 NMAC, 6/21/2022]
+
+1.4.1.41           BEST AND FINAL OFFERS: Best and final offers in a request for proposals are sometimes
+appropriate and helpful. An offeror’s best offer should be included in that offeror’s original proposal and no
+discussion or changes to that offer should be allowed prior to selection of the offeror as the successful offeror unless
+negotiations are undertaken pursuant to 1.4.1.39 NMAC of this rule. After such selection of a successful offeror or
+offerors (for a multiple award procurement) and before final award, an agency may negotiate with the selected
+successful offeror(s) for the best possible terms for the state but such negotiations shall not change the successful
+offeror’s or offerors’ (for a multiple award procurement) proposal(s) to the detriment of the state. Award in this
+context means the final required state agency signature on the contract(s) resulting from the procurement.
+[1.4.1.41 NMAC - Rp, 1.4.1.41 NMAC, 6/21/2022]
+
+1.4.1.42           MISTAKES IN PROPOSALS:
+         A.        Modification or withdrawal of proposals: Proposals may be modified or withdrawn as provided in
+1.4.1.35 NMAC of this rule.
+         B.        Mistakes discovered after receipt of proposals: This subsection sets forth procedures to be applied
+in several situations in which mistakes in proposals are discovered after receipt of proposals.
+                   (1)      Confirmation of proposal. When the procurement officer or procurement manager knows
+or has reason to conclude before award that a mistake has been made, the procurement officer or procurement
+manager should request the offeror to confirm the proposal. If the offeror alleges mistake, the proposal may be
+
+
+
+
+1.4.1 NMAC                                                                                                            12
+corrected or withdrawn during any discussions that are held or if the conditions set forth in Subsection C of this
+section are met.
+                    (2)      During negotiations. If best and final offers are requested in the RFP, between the period
+of selecting short-listed/finalist offerors and the date set for best and final offers, any short-listed or finalist offeror
+may freely correct any mistake by modifying or withdrawing the proposal until the time and date set for receipt of
+best and final offers.
+          C.        Technical irregularities: Technical irregularities are matters of form rather than substance evident
+from the proposal document, or insignificant mistakes that can be waived or corrected without prejudice to other
+offerors; that is, when there is no effect on price, quality or quantity. If discussions are not held or if best and final
+offers upon which award will be made have been received, the procurement officer or procurement manager may
+waive such irregularities or allow an offeror to correct them if either is in the best interest of the state. Examples
+include, but are not limited to, the failure of an offeror to:
+                    (1)      return the number of signed proposals required by the RFP;
+                    (2)      sign the appropriate forms where called for, but only if the unsigned forms are
+accompanied by other material indicating the offeror's intent to be bound; or
+                    (3)      acknowledge receipt of an amendment to the RFP, but only if:
+                             (a)       it is clear from the proposal that the offeror received the amendment and
+intended to be bound by its terms; or
+                             (b)       the amendment involved had no effect on price, quality or quantity.
+          D.        Correction of mistakes: If discussions are not held, or if the best and final offers upon which
+award will be made have been received, mistakes shall be corrected to the intended correct offer whenever the
+mistake and the intended correct offer are clearly evident to the evaluation committee members or the procurement
+officer or the procurement manager on the face of the proposal, in which event the proposal may not be withdrawn.
+          E.        Withdrawal of proposals: If discussions are not held, or if the best and final offers upon which
+award will be made have been received, an offeror alleging a material mistake of fact which makes a proposal non-
+responsive may be permitted to withdraw the proposal if:
+                    (1)      the mistake is clearly evident to the evaluation committee members or the procurement
+officer or the procurement manager on the face of the proposal but the intended correct offer of the offeror is not; or
+                    (2)      the offeror submits evidence which clearly and convincingly demonstrates that a mistake
+was made.
+          F.        Determination required: When a proposal is corrected or withdrawn, or correction or withdrawal
+is denied under Subsections C through E of this section, the procurement officer or procurement manager shall
+prepare a written determination showing that the relief was granted or denied in accordance with this section.
+[1.4.1.42 NMAC - Rp, 1.4.1.42 NMAC, 6/21/2022]
+
+1.4.1.43           AWARD: PROFESSIONAL SERVICES:
+          A.       Procedure: An award shall be made to the responsible offeror whose proposal is most
+advantageous to a state agency, taking into consideration the evaluation factors set forth in the RFP. The
+procurement officer shall make a written determination in the form of an evaluation committee report showing the
+basis on which an award was found to be most advantageous to a state agency based on the factors set forth in the
+RFP. Award in this context means the final required state agency signature on the contract(s) resulting from the
+procurement.
+          B.       Publicizing awards: The procurement manager or procurement officer shall promptly provide all
+offerors who submitted proposals written notice of the award. Award in this context means the final required state
+agency signature on the contract(s) resulting from the procurement.
+          C.       Publicizing awards: The procurement manager or procurement officer shall promptly provide all
+offerors who submitted proposals written notice of the award which notice shall be sent via certified mail, return
+receipt requested, and shall include the expiration date and time of the protest period, if there was a change from the
+date and time published in the RFP.
+[1.4.1.43 NMAC - Rp, 1.4.1.43 NMAC, 6/21/2022]
+
+1.4.1.44          AWARD: ALL TANGIBLE PERSONAL PROPERTY OR SERVICES: (INCLUDES
+SOFTWARE, HARDWARE, NON-PROFESSIONAL SERVICES, etc):
+          A.      Procedure: The award shall be made by the state purchasing agent or designee to the responsible
+offeror whose proposal is most advantageous to the state agency, taking into consideration the evaluation factors set
+forth in the RFP. The procurement manager shall make a written determination in the form of an evaluation
+
+
+
+1.4.1 NMAC                                                                                                               13
+committee report showing the basis on which the recommended award was found to be most advantageous to the
+state agency based on the factors set forth in the RFP.
+         B.       Publicizing awards: The procurement manager shall promptly provide all offerors who submitted
+responsive proposals written notice of the award. The written notice shall be sent via certified mail, return receipt
+requested, and shall include the expiration date and time of the protest period, if there was a change from the date
+and time published in the RFP.
+[1.4.1.44 NMAC - Rp, 1.4.1.44 NMAC, 6/21/2022]
+
+1.4.1.45           PUBLIC INSPECTION:
+         A.        General: After award, any written determinations made pursuant to these rules, the evaluation
+committee report and each proposal, except those portions for which the offeror has made a written request for
+confidentiality, shall be open to public inspection. Confidential data is normally restricted to confidential financial
+information concerning the offeror's organization and data that qualifies as a trade secret in accordance with the
+Uniform Trade Secrets Act, Sections 57-3A-1 to 57-3A-7 NMSA 1978. The price of products offered or the cost of
+services proposed may not be designated as confidential information. Award in this context means the final required
+state agency signature on the contract(s) resulting from the procurement.
+         B.        Confidential data: If a request is received for disclosure of data, for which an offeror has made a
+written request for confidentiality, the state purchasing agent or central purchasing office shall examine the offeror's
+request and make a written determination that specifies which portions of the proposal should be disclosed. If it is
+determined that an offeror’s requested confidential data should be disclosed, that offeror will receive reasonable
+notice in order to afford the offeror the opportunity to take legal action to prevent the disclosure. Unless the offeror
+takes legal action to prevent the disclosure, the data will be so disclosed. After award the proposal shall be open to
+public inspection subject to any continuing prohibition on the disclosure of confidential data. Award in this context
+means the final required state agency signature on the contract(s) resulting from the procurement.
+[1.4.1.45 NMAC - Rp, 1.4.1.45 NMAC, 6/21/2022]
+
+1.4.1.46           PAYMENTS FOR PURCHASES: Contract clause. All contracts resulting from a request for
+proposals shall contain a clause allowing for late payment charges against the state agency in the amount and under
+the conditions set forth in Section 13-1-158 NMSA 1978.
+[1.4.1.46 NMAC - Rp, 1.4.1.46 NMAC, 6/21/2022]
+
+1.4.1.47           GSD CONTRACT REVIEW: All contracts for professional services with state agencies shall be
+reviewed as to all requirements as set forth in statute and rule by the general services department, if such review is
+required by the general services department or subsequent general services department rules.
+[1.4.1.47 NMAC - Rp, 1.4.1.47 NMAC, 6/21/2022]
+
+1.4.1.48           APPLICATION (SMALL PURCHASES; 1.4.1.48 - 1.4.1.52 NMAC): The provisions of
+1.4.1.48 through 1.4.1.52 NMAC of this rule apply to the procurement of nonprofessional services, construction or
+items of tangible personal property having a value not exceeding the value set forth in statute for small purchases
+and to the procurement of professional services having a value not exceeding the value set forth in statute for small
+purchases of professional services, the use of a statewide price agreement, an existing contract or the methods of
+procurement set forth in 1.4.1.50 through 1.4.1.52 NMAC of this rule provide alternatives to the competitive sealed
+bid and competitive sealed proposal methods of procurement. If an existing statewide price agreement, an existing
+contract or, the procurement methods set forth in 1.4.1.50 through 1.4.1.52 NMAC of this rule are not used, the
+competitive sealed bid or competitive sealed proposal methods shall apply.
+[1.4.1.48 NMAC - Rp, 1.4.1.48 NMAC, 6/21/2022]
+
+1.4.1.49           DIVISION OF REQUIREMENTS: Procurement requirements shall not be artificially divided
+so as to constitute a small purchase under 1.4.1.48 through 1.4.1.52 NMAC of this rule.
+[1.4.1.49 NMAC - Rp, 1.4.1.49 NMAC, 6/21/2022]
+
+1.4.1.50           SMALL PURCHASES OF $20,000 OR LESS: A state agency may procure services,
+construction or items of tangible personal property having a value not exceeding twenty thousand dollars ($20,000)
+by issuing a direct purchase order to a contractor based upon the best obtainable price and in accordance with any
+procedures or processes set forth by the state purchasing agent and the state controller.
+[1.4.1.50 NMAC - Rp, 1.4.1.50 NMAC, 6/21/2022]
+
+
+
+1.4.1 NMAC                                                                                                           14
+1.4.1.51            SMALL PURCHASES OF ITEMS OF TANGIBLE PERSONAL PROPERTY,
+CONSTRUCTION AND NONPROFESSIONAL SERVICES:
+          A.        Quotation to be obtained: Insofar as it is practical for small purchases of nonprofessional services,
+construction or items of tangible personal property having a value exceeding twenty thousand dollars ($20,000) but
+not exceeding the value set forth in statute for small purchases, and in accordance with any procedures or processes
+set forth by the state purchasing agent and the state controller, no fewer than three businesses shall be solicited via
+written requests containing the specifications for the procurement to submit written quotations that are recorded and
+placed in the procurement file. Such notations as “does not carry” or “did not return my phone call” do not qualify
+as a valid quotation. The central nonprofit agency’s declining to offer to perform a particular service does not
+qualify as a valid quotation; it is, in fact, the refusal to provide a quotation. If the lowest quotation is not acceptable,
+the central purchasing office must issue a written determination as to the reasons for such a decision. These reasons
+must not be arbitrary or capricious. The written determination becomes a part of the procurement file.
+          B.        Disclosure: Prior to award, the contents of any response to a quotation shall not be disclosed to
+any other business from which the same request for quotation is also being solicited. Award in this context means
+the final required state agency signature on the contract(s) or purchase order resulting from the procurement.
+          C.        Award: Award shall be made to the responsible and responsive business offering the lowest
+acceptable quotation.
+          D.        Records: The names of the businesses submitting quotations and the date and the amount of each
+quotation shall be recorded and maintained as a public record.
+[1.4.1.51 NMAC - Rp, 1.4.1.51 NMAC, 6/21/2022]
+
+1.4.1.52           SMALL PURCHASES OF PROFESSIONAL SERVICES:
+          A.       Application: A central purchasing office may procure professional services having a value not to
+exceed the value set forth in statute for small purchases of professional services, except for the services of architects,
+engineers, landscape architects, or surveyors for state public works projects, as that term is defined in Section 13-1-
+91 NMSA 1978, in accordance with Subsections B, C, and D of this section and 1.4.10 NMAC.
+          B.       Examination of offeror list: Before contacting any business, a central purchasing office is
+encouraged to examine the state purchasing agent's current list of registered offerors, if any. Central purchasing
+offices are encouraged to contact at least three businesses for written offers before selecting a contractor.
+          C.       Negotiations: A central purchasing office shall negotiate a contract for the required services at a
+fair and reasonable price to the state agency.
+          D.       Disclosure: If more than one business is contacted, the contents of the written or oral offer of one
+business shall not be disclosed to another business until award is made. Award in this context means the final
+required state agency signature on the contract(s) resulting from the procurement.
+[1.4.1.52 NMAC - Rp, 1.4.1.52 NMAC, 6/21/2022]
+
+1.4.1.53          APPLICATION (SOLE SOURCE PROCUREMENTS, 1.4.1.53 - 1.4.1.57 NMAC): The
+provisions of 1.4.1.53 through 1.4.1.57 NMAC of this rule apply to all sole source procurements unless emergency
+conditions exist as defined in 1.4.1.59 NMAC of this rule.
+[1.4.1.53 NMAC - Rp, 1.4.1.53 NMAC, 6/21/2022]
+
+1.4.1.54          SOLE SOURCE PROCUREMENT OF ITEMS OF TANGIBLE PERSONAL PROPERTY,
+CONSTRUCTION AND NONPROFESSIONAL SERVICES:
+         A.       Conditions for use: A contract may be awarded without competitive sealed bids or competitive
+sealed proposals, regardless of the estimated cost, when the state purchasing agent or a central purchasing office,
+employing due diligence, determines, in writing, that:
+                  (1)       there is only one source for the required service, construction or item of tangible personal
+property;
+                  (2)       the service, construction or item of tangible personal property is unique and this
+uniqueness is substantially related to the intended purpose of the contract; and
+                  (3)       other similar services, construction or items of tangible personal property cannot meet the
+intended purpose of the contract.
+         B.       Request by using agency: Any request by a using agency that a procurement be restricted to one
+potential contractor shall be accompanied by a written explanation as to why no other will be suitable or acceptable
+
+
+
+
+1.4.1 NMAC                                                                                                               15
+to meet the need. The written explanation shall be made upon a form provided by the state purchasing agent and
+available on-line.
+          C.        Posting: Prior to the award of a sole source procurement contract, the state purchasing agent or
+central purchasing office shall:
+                    (1)      provide the information set forth in statute and listed upon the form made available by the
+state purchasing agent on the state purchasing agent’s website to the department of information technology for
+posting on the sunshine portal; and
+                    (2)      forward the same information to the legislative finance committee.
+          D.        A local public body central purchasing office, prior to award of a sole source contract, shall post
+the information required by statute on the local public body website, if one exists, and post the information required
+by statute on the state purchasing agent’s website.
+          E.        Negotiations: The state purchasing agent or a central purchasing office shall conduct negotiations,
+as appropriate, as to price, delivery and quantity, in order to obtain the price most advantageous to the state.
+          F.        Notice; protest: At least 30 days before a sole source contract is awarded, the state purchasing
+agent, a central purchasing office, a local public body, or a designee of any of these entities shall post notice of the
+intent to award a sole source contract on its website if one exists, and post the information required by statute on the
+state purchasing agent’s website. Any qualified potential contractor who was not awarded a sole source contract
+may protest to the state purchasing agent or a central purchasing office. The protest shall be submitted:
+                    (1)      in writing; and
+                    (2)      within 15 calendar days of the notice of intent to award a contract being posted on the
+state purchasing agent’s website or a central purchasing office’s website, if it maintains one, or on a local public
+body’s website, if it maintains one. (NOTE: the posting date should be the same on all websites upon which it is
+posted. If this is not the case, however, the 15 calendar period runs from the latest posted date.)
+          G.        Specifications: The state purchasing agent or a central purchasing office shall not circumvent the
+sole source request and posting and award process by narrowly drafting specifications so that only one
+predetermined source would satisfy those specifications.
+[1.4.1.54 NMAC - Rp, 1.4.1.54 NMAC, 6/21/2022]
+
+1.4.1.55          [RESERVED]
+
+1.4.1.56          [RESERVED]
+
+1.4.1.57           RECORDS OF SOLE SOURCE PROCUREMENTS: The state purchasing agent or central
+purchasing office shall maintain records of sole source procurements for a period as required by the commission of
+public records, state records center and archives statutes and rules. The party responsible for the procurement must
+retain the records. Posting such procurements on the state purchasing agent’s website does not remove the central
+purchasing office’s or a local public body’s responsibility to maintain these records if the central purchasing office
+or a local public body was responsible for the procurement. The record of each such procurement shall be a public
+record and shall contain:
+          A.       the contractor's name and address;
+          B.       the amount and term of the contract;
+          C.       a listing of the services, construction, or items of tangible personal property procured under the
+contract; and
+          D.       the justification for the procurement method which shall include any written determinations and
+written approvals required by any provision of 1.4.1.53 through 1.4.1.57 NMAC of this rule.
+[1.4.1.57 NMAC - Rp, 1.4.1.57 NMAC, 6/21/2022]
+
+1.4.1.58          APPLICATION (EMERGENCY PROCUREMENTS, 1.4.1.58 - 1.4.1.64 NMAC): The
+provisions of 1.4.1.58 through 1.4.1.64 NMAC of this rule apply to every procurement made under emergency
+conditions that will not permit other source selection methods to be used.
+[1.4.1.58 NMAC - Rp, 1.4.1.58 NMAC, 6/21/2022]
+
+1.4.1.59          DEFINITION OF EMERGENCY CONDITIONS: Refer to Section 13-1-127 NMSA 1978 for
+conditions allowing for the use of an emergency procurement.
+[1.4.1.59 NMAC - Rp, 1.4.1.59 NMAC, 6/21/2022]
+
+
+
+
+1.4.1 NMAC                                                                                                           16
+1.4.1.60          SCOPE OF EMERGENCY PROCUREMENTS: Emergency procurements shall be limited to
+those services, construction, or items of tangible personal property necessary to meet the emergency. Such
+procurement shall not include the purchase or lease-purchase of heavy road equipment.
+[1.4.1.60 NMAC - Rp, 1.4.1.60 NMAC, 6/21/2022]
+
+1.4.1.61           AUTHORITY TO MAKE EMERGENCY PROCUREMENTS: The state purchasing agent or
+a central purchasing office, employing due diligence, may make emergency procurements when an emergency
+condition arises; provided that emergency procurements shall be made with such competition as is practicable under
+the circumstances.
+[1.4.1.61 NMAC - Rp, 1.4.1.61 NMAC, 6/21/2022]
+
+1.4.1.62           PROCEDURE: The procedure used shall be selected to assure that the required services,
+construction, or items of tangible personal property are procured in time to meet the emergency. Given this
+constraint, such competition as is practicable shall be obtained.
+[1.4.1.62 NMAC - Rp, 1.4.1.62 NMAC, 6/21/2022]
+
+1.4.1.63           WRITTEN DETERMINATION AND POSTING REQUIRED: A written determination of
+the basis for the emergency procurement shall be made containing the information set forth in statute and listed on
+the form issued by the state purchasing agent and available on the state purchasing agent’s website. Within three
+business days of awarding an emergency procurement, the awarding central purchasing office within a state agency
+shall:
+          A.       provide the information required by statute to the department of information technology for
+posting on the sunshine portal; and
+          B.       forward the same information to the legislative finance committee.
+[1.4.1.63 NMAC - Rp, 1.4.1.63 NMAC, 6/21/2022]
+
+1.4.1.64           RECORDS OF EMERGENCY PROCUREMENTS: The state purchasing agent or central
+purchasing office shall maintain records of emergency procurements for a period as required by the commission of
+public records, state records center and archives statutes and rules. The party responsible for the procurement must
+retain the records. Posting such procurements on the state purchasing agent’s website does not remove the central
+purchasing office’s responsibility to maintain these records if the central purchasing office was responsible for the
+procurement. The record of each such procurement shall be a public record and shall contain:
+          A.       the contractor's name and address;
+          B.       the amount and term of the contract;
+          C.       a listing of the services, construction, or items of tangible personal property procured under the
+contract; and
+          D.       the justification for the procurement method.
+[1.4.1.64 NMAC - Rp, 1.4.1.64 NMAC, 6/21/2022]
+
+1.4.1.65            PROCUREMENT UNDER EXISTING CONTRACTS AUTHORIZED: The state
+purchasing agent or a central purchasing office may contract for services, professional services, construction, or
+items of tangible personal property without the use of competitive sealed bids or competitive sealed proposals as
+follows:
+          A.        at a price equal to or less than the contractor's current federal supply contract (GSA), providing the
+contractor has indicated in writing a willingness to extend the contract's pricing, terms and conditions to the state
+agency and the purchase order adequately identifies the contract relied upon; or
+          B.        with a business which has a current price agreement with the state purchasing agent or a central
+purchasing office for the item, services, or construction meeting the same standards and specifications as the items
+to be procured, if the following conditions are met:
+                    (1)       the total quantity purchased does not exceed the quantity which may be purchased under
+the applicable price agreement; and
+                    (2)       the purchase order adequately identifies the price agreement relied upon;
+          C.        other than Subsection A and B of this section and cooperative procurements as authorized by
+statute (and described in Section 13-1-135 NMSA 1978) or the state procurement card program (described in
+Section 6-5-9.1 NMSA 1978), no other procurement under existing contracts is authorized; no central purchasing
+office of a state agency or any other governmental entity may utilize a contract entered into by a different state
+
+
+
+1.4.1 NMAC                                                                                                             17
+agency or other governmental entity if not involved in the procurement itself (i.e., so-called “piggybacking” of
+contracts; the practice of “piggybacking” is not allowed under the Procurement Code); purchases under contracts
+developed through cooperative procurement authorized under Section 13-1-135 NMSA 1978 or contracts which
+qualify under Section 13-1-129 NMSA 1978 is permitted and does not constitute “piggybacking.”
+[1.4.1.65 NMAC - Rp, 1.4.1.65 NMAC, 6/21/2022]
+
+1.4.1.66           LIMITATION ON SUBSECTION A OF 1.4.1.65 OF THIS RULE RELATING TO GSA
+CONTRACTS: It should be understood, the state is not authorized to utilize a GSA contract per se. It is
+imperative, therefore, that the contractor, not a dealer or distributor, who has a current GSA contract indicate in
+writing a willingness to extend the contract's pricing, terms and conditions to the state of New Mexico. Therefore, a
+state agency shall not procure services, construction or items of tangible personal property directly under a general
+services administration (GSA) contract. Rather, a state agency must procure pursuant to a state purchasing agent
+price agreement which reflects the prices, terms and conditions of the respective GSA contract. If no such state
+purchasing agent price agreement exists, a state agency may make a written request to the state purchasing agent for
+the issuance of one. The request must be accompanied by a current copy of the applicable GSA contract, a letter
+from the contractor expressing a willingness to extend the contract's pricing, terms and conditions to the state of
+New Mexico and a letter from the state agency indicating a commitment to utilize the price agreement. The state
+purchasing agent will ascertain whether it is current and whether the proposed price is equal to or less than the
+federal supply contract price. If everything is in order, the state purchasing agent will issue a price agreement or
+purchase order reflecting the prices, terms and conditions of the GSA contract. A state agency shall make no
+procurements from the GSA contractor until a state purchasing agent price agreement has been issued.
+[1.4.1.66 NMAC - Rp, 1.4.1.66 NMAC, 6/21/2022]
+
+1.4.1.67           COPIES OF CONTRACTS AND PRICE AGREEMENTS: A central purchasing office shall
+retain for public inspection and for the use of auditors a copy of each state purchasing agent contract or current price
+agreement relied upon to make purchases without seeking competitive bids.
+[1.4.1.67 NMAC - Rp, 1.4.1.67 NMAC, 6/21/2022]
+
+1.4.1.68          APPLICATION (CANCELLATION OF SOLICITATIONS OR REJECTION OF BIDS OR
+PROPOSALS; 1.4.1.68 - 1.4.1.72 NMAC): The provisions of 1.4.1.68 through 1.4.1.72 NMAC of this rule shall
+govern the cancellation of any solicitations whether issued by the state purchasing agent under competitive sealed
+bids, competitive sealed proposals, small purchases, or any other source selection method, and rejection of bids or
+proposals in whole or in part.
+[1.4.1.68 NMAC - Rp, 1.4.1.68 NMAC, 6/21/2022]
+
+1.4.1.69          POLICY: Any solicitation may be canceled or any or all bids or proposals may be rejected in
+whole or in part when it is in the best interest of the state of New Mexico.
+[1.4.1.69 NMAC - Rp, 1.4.1.69 NMAC, 6/21/2022]
+
+1.4.1.70           CANCELLATION OF SOLICITATIONS OR REJECTION OF ALL BIDS OR
+PROPOSALS:
+          A.       Prior to opening:
+                   (1)       As used in this section, "opening" means the date set for opening of bids or receipt of
+proposals.
+                   (2)       Prior to opening, a solicitation may be canceled in whole or in part when the state
+purchasing agent or central purchasing office makes a written determination that such action is in the state's best
+interest for reasons including but not limited to:
+                             (a)       the services, construction, or items of tangible personal property are no longer
+required;
+                             (b)       the using agency no longer can reasonably expect to fund the procurement; or
+                             (c)       proposed amendments to the solicitation would significantly change the nature
+of the procurement.
+                   (3)       When a solicitation is canceled prior to opening, notice shall be sent to all businesses
+solicited. The notice shall:
+                             (a)       identify the solicitation;
+                             (b)       briefly explain the reason for cancellation; and
+
+
+
+1.4.1 NMAC                                                                                                            18
+                              (c)      where appropriate, explain that an opportunity will be given to compete on any
+resolicitation or any future procurements of similar services, construction, or items of tangible personal property.
+          B.        After opening:
+                    (1)       After opening but prior to award, all bids or proposals may be rejected in whole or in part
+when the state purchasing agent or central purchasing office makes a written determination that such action is in the
+state's best interest for reasons including but not limited to:
+                              (a)      all of the bids and proposals are nonresponsive;
+                              (b)      the services, construction, or items of tangible personal property are no longer
+required;
+                              (c)      ambiguous or otherwise inadequate specifications were part of the solicitation;
+                              (d)      the solicitation did not provide for consideration of all factors of significance to
+the using agency;
+                              (e)      prices exceed available funds and it would not be appropriate to adjust quantities
+to come within available funds;
+                              (f)      all otherwise acceptable bids or proposals received are at clearly unreasonable
+prices; or
+                              (g)      there is reason to believe that the bids or proposals may not have been
+independently arrived at in open competition, may have been collusive, or may have been submitted in bad faith.
+                    (2)       A notice of rejection should be sent to all businesses that submitted bids or proposals, and
+it shall conform to Paragraph (3) of Subsection A of this section.
+[1.4.1.70 NMAC - Rp, 1.4.1.70 NMAC, 6/21/2022]
+
+1.4.1.71           REJECTION OF INDIVIDUAL BIDS OR PROPOSALS:
+           A.      Reasons for rejection:
+                   (1)       Bids. As used in this section, "bid"means competitive sealed bids. Reasons for rejecting
+a bid shall include but are not limited to:
+                             (a)       the business that submitted the bid is nonresponsible as determined under
+1.4.1.73 NMAC of this rule;
+                             (b)       the bid is not responsive; or
+                             (c)       the service, construction, or item of tangible personal property offered in the bid
+is unacceptable by reason of its failure to meet the requirements of the specifications, or permissible alternates, or
+other acceptability criteria set forth in the IFB.
+                   (2)       Proposals. As used in this section, "proposal" means competitive sealed proposals.
+Unless the solicitation states otherwise, proposals need not be unconditionally accepted without alteration or
+correction and a using agency's stated requirements may be revised or clarified after proposals are submitted. This
+flexibility must be considered in determining whether reasons exist for rejecting all or any part of a proposal.
+Reasons for rejecting proposals include but are not limited to:
+                             (a)       the business that submitted the proposal is nonresponsible as determined under
+1.4.1.75 through 1.4.1.79 NMAC of this rule;
+                             (b)       the proposal is not responsive; or
+                             (c)       the proposed price is clearly unreasonable; or
+                             (d)       the proposal failed to adequately address one or more material mandatory
+requirements as set forth in the request for proposals.
+          B.       Written determination required: A written determination which contains the reasons for the
+rejection of an individual bid or proposal shall be prepared by the state purchasing agent or central purchasing office
+and made a part of the procurement file.
+[1.4.1.71 NMAC - Rp, 1.4.1.71 NMAC, 6/21/2022]
+
+1.4.1.72            "ALL OR NONE" BIDS: When the term "all or none" is used:
+          A.        By the purchaser in a solicitation: A solicitation may require bidders to submit bids or offers on
+all items listed in the solicitation, or may identify certain groups of items in which all items must be bid. If the
+solicitation is properly so limited, a bidder's failure to bid all items identified as "all or none" items may render the
+bid nonresponsive.
+          B.        By the bidder or offeror, and not the purchaser: If the bidder restricts acceptance of the bid, or a
+portion thereof, by such a statement as "all or none", the bidder has "qualified" the offer which may render the bid as
+nonresponsive.
+
+
+
+1.4.1 NMAC                                                                                                              19
+          C.       In instances as stated in both Subsections A and B of this section such a bid or offer may be
+accepted only if the state purchasing agent or a central purchasing office issues a determination setting forth the
+basis for accepting the bid or offer as being in the best interest of the state. Also in both instances, the bid or offer is
+only eligible for award if it is the overall low bid for the item or items so restricted.
+[1.4.1.72 NMAC - Rp, 1.4.1.72 NMAC, 6/21/2022]
+
+1.4.1.73           APPLICATION (RECEIPT; INSPECTION; ACCEPTANCE OR REJECTION OF
+DELIVERIES; 1.4.1.73 - 1.4.1.74 NMAC): The using agency is responsible for inspecting and accepting or
+rejecting deliveries.
+          A.       The using agency shall determine whether the quantity is as specified in the purchase order or
+contract.
+          B.       The using agency shall determine whether the quality conforms to the specifications referred to or
+included in the purchase order or contract.
+          C.       If inspection reveals that the delivery does not meet or conform to the quantity or quality specified
+in the purchase order or contract, the using agency shall notify the vendor that the delivery has been rejected and
+shall order the vendor to promptly make a satisfactory replacement or supplementary delivery.
+          D.       In case the vendor fails to comply, the using agency shall promptly file a purchasing complaint
+with the state purchasing agent.
+          E.       Also, in case the vendor fails to comply, the using agency shall have no obligation to pay for the
+nonconforming delivery.
+          F.       If the delivery does conform to the quantity and quality specified in the purchase order or contract,
+the using agency shall certify that delivery has been completed and is satisfactory.
+[1.4.1.73 NMAC - Rp, 1.4.1.73 NMAC, 6/21/2022]
+
+1.4.1.74           SUMMARY: Notwithstanding the requirements of 1.4.1.73 NMAC, if, after delivery and
+acceptance of the delivery, the delivery or a portion thereof is later found to be non-conforming to the specifications
+referred to or included in the purchase order or contract, such acceptance does not waive any rights or remedies
+which are otherwise granted to the buyer in accordance with other applicable sections of laws of New Mexico.
+[1.4.1.74 NMAC - Rp, 1.4.1.74 NMAC, 6/21/2022]
+
+1.4.1.75       APPLICATION (RESPONSIBILITY OF BIDDERS AND OFFERORS; 1.4.1.75 - 1.4.1.79
+NMAC): A determination of responsibility or non-responsibility shall be governed by 1.4.1 75 through 1.4.1.79
+NMAC.
+[1.4.1.75 NMAC - Rp, 1.4.1.75 NMAC, 6/21/2022]
+
+1.4.1.76           STANDARDS OF RESPONSIBILITY:
+         A.        Standards for bidders: Factors to be considered in determining whether the standard of
+responsibility has been met include whether a bidder has:
+                   (1)     submitted a responsive bid;
+                   (2)     adequate financial resources, production or service facilities, personnel, service
+reputation and experience to make satisfactory delivery of the services, construction, or items of tangible personal
+property described in the IFB;
+                   (3)     a satisfactory record of performance;
+                   (4)     a satisfactory record of integrity;
+                   (5)     qualified legally to contract with the state; and
+                   (6)     supplied all necessary information and data in connection with any inquiry concerning
+responsibility.
+         B.        Standards for offerors: Factors to be considered in determining whether the standard of
+responsibility has been met include whether an offeror has:
+                   (1)     submitted a responsive proposal;
+                   (2)     adequate financial resources, production or service facilities, personnel, service
+reputation and experience to make satisfactory delivery of the services or items of tangible personal property
+described in the proposal;
+                   (3)     a satisfactory record of performance;
+                   (4)     a satisfactory record of integrity;
+                   (5)     qualified legally to contract with the state; and
+
+
+
+1.4.1 NMAC                                                                                                               20
+                (6)     supplied all necessary information and data in connection with any inquiry concerning
+responsibility.
+[1.4.1.76 NMAC -Rp, 1.4.1.76 NMAC, 6/21/2022]
+
+1.4.1.77          ABILITY TO MEET STANDARDS: A bidder or offeror may demonstrate the availability of
+adequate financial resources, production or service facilities, personnel and experience by submitting, upon request:
+         A.       evidence that the bidder or offeror possesses the necessary items;
+         B.       acceptable plans to subcontract for the necessary items; or
+         C.       a documented commitment from, or explicit arrangement with, a satisfactory source to provide the
+necessary items.
+[1.4.1.77 NMAC - Rp, 1.4.1.77 NMAC, 6/21/2022]
+
+1.4.1.78           INQUIRY BY PROCUREMENT OFFICER: Before awarding a contract, the procurement
+officer or procurement manager must be satisfied that the bidder or offeror is responsible. Therefore, a bidder or
+offeror shall supply information and data requested by the procurement officer concerning the responsibility of the
+bidder or offeror. The unreasonable failure of a bidder or offeror to promptly supply information or data in
+connection with such an inquiry is grounds for a determination that the bidder or offeror is not responsible.
+[1.4.1.78 NMAC - Rp, 1.4.1.78 NMAC, 6/21/2022]
+
+1.4.1.79          DETERMINATION REQUIRED: If a bidder or offeror who otherwise would have been
+awarded a contract is found to be non-responsible, a written determination, setting forth the basis of the finding,
+shall be prepared by the state purchasing agent or central purchasing office. The written determination shall be
+made part of the procurement file, and a copy of the determination shall be sent to the non-responsible bidder or
+offeror.
+[1.4.1.79 NMAC - Rp, 1.4.1.79 NMAC, 6/21/2022]
+
+1.4.1.80            APPLICABILITY (PROTESTS; 1.4.1.80 - 1.4.1.93 NMAC): The provisions of 1.4.1.80
+through 1.4.1.93 NMAC of this rule apply to all protests filed with the state purchasing agent and all central
+purchasing offices that have not adopted regulations for resolving protests. Central purchasing offices with
+rulemaking authority, other than the state purchasing agent, may adopt regulations for resolving protests filed within
+their jurisdictions.
+[1.4.1.80 NMAC - Rp, 1.4.1.80 NMAC, 6/21/2022]
+
+1.4.1.81          RIGHT TO PROTEST: Any bidder or offeror who is aggrieved in connection with a solicitation
+or award of a contract, including a sole source procurement, may protest to the state purchasing agent or central
+purchasing office.
+[1.4.1.81 NMAC - Rp, 1.4.1.81 NMAC, 6/21/2022]
+
+1.4.1.82           FILING OF PROTEST:
+         A.        Protest must be written: Protests must be in writing and addressed to the state purchasing agent or
+central purchasing office, whichever has control and administration over the procurement.
+         B.        Contents: The protest shall:
+                  (1)        include the name and address of the protestant;
+                  (2)        include the solicitation number;
+                  (3)        contain a statement of the grounds for protest;
+                  (4)        include supporting exhibits, evidence or documents to substantiate any claim unless not
+available within the filing time in which case the expected availability date shall be indicated; and
+                  (5)        specify the ruling requested from the state purchasing agent or central purchasing office.
+         C.       Pleadings: No formal pleading is required to initiate a protest, but protests should be concise,
+logically arranged, and direct.
+         D.       Time limit: Protests shall be submitted within 15 calendar days after knowledge of the facts or
+occurrences giving rise to the protest. Any person or business that has been sent written notice of any fact or
+occurrence is presumed to have knowledge of the fact or occurrence. Posting on the state purchasing division’s
+website is considered public notice in this regard as well.
+[1.4.1.82 NMAC - Rp, 1.4.1.82 NMAC, 6/21/2022]
+
+
+
+
+1.4.1 NMAC                                                                                                            21
+1.4.1.83            PROCUREMENTS AFTER PROTEST:
+         A.         In the event of a timely protest, as defined in Subsection D of 1.4.1.82 NMAC of this rule, the
+state purchasing agent or central purchasing office shall not proceed further with the procurement unless the state
+purchasing agent or central purchasing office makes a written determination that the award of the contract is
+necessary to protect substantial interests of a state agency. Such written determination should set forth the basis for
+the determination. As used in 1.4.1.80 through 1.4.1.93 NMAC of this rule, the point in time in which a contract is
+awarded is that point at which a legally enforceable contract is created unless the context clearly requires a different
+meaning. Award in this context means the final required state agency signature on the contract(s) resulting from the
+procurement.
+         B.         A procurement shall not be halted after a contract has been awarded merely because a protest has
+been filed. After a contract has been awarded, the state purchasing agent or central purchasing office may, in its sole
+discretion, halt a procurement in exceptional circumstances or for good cause shown.
+[1.4.1.83 NMAC - Rp, 1.4.1.83 NMAC, 6/21/2022]
+
+1.4.1.84           PROCEDURE:
+          A.       Upon the filing of a timely protest, the state purchasing agent or central purchasing office shall
+give notice of the protest to the contractor if award has been made or, if no award has been made, to all bidders or
+offerors who appear to have a substantial and reasonable prospect of receiving an award if the protest is denied.
+          B.       The protestant and every business that receives notice pursuant to Subsection A of this section will
+automatically be parties to any further proceedings before the state purchasing agent or central purchasing office. In
+addition, any other person or business may move to intervene at any time during the course of the proceedings.
+Intervention will be granted upon a showing of a substantial interest in the outcome of the proceedings. Interveners
+shall accept the status of the proceedings at the time of their intervention; in particular, they must abide by all prior
+rulings and accept all previously established time schedules. The state purchasing agent or central purchasing
+office, and all employees thereof, are not parties to the proceedings.
+          C.       The state purchasing agent or central purchasing office may take any action reasonably necessary
+to resolve a protest. Such actions include, but are not limited to, the following:
+                   (1)       issue a final written determination summarily dismissing the protest;
+                   (2)       obtain information from the staff of the state purchasing agent or central purchasing
+office;
+                   (3)       require parties to produce for examination information or witnesses under their control;
+                   (4)       require parties to express their positions on any issues in the proceedings;
+                   (5)       require parties to submit legal briefs on any issues in the proceeding;
+                   (6)       establish procedural schedules;
+                   (7)       regulate the course of the proceedings and the conduct of any participants;
+                   (8)       receive, rule on, exclude or limit evidence;
+                   (9)       take official notice of any fact that is among the traditional matters of official or
+administrative notice;
+                   (10)      conduct hearings; and
+                   (11)      take any action reasonably necessary to compel discovery or control the conduct of
+parties or witnesses.
+[1.4.1.84 NMAC - Rp, 1.4.1.84 NMAC, 6/21/2022]
+
+1.4.1.85          DISCOVERY: Upon written request of any party, or upon its own motion, the state purchasing
+agent or central purchasing office may require parties to comply with discovery requests.
+[1.4.1.85 NMAC - Rp, 1.4.1.85 NMAC, 6/21/2022]
+
+1.4.1.86           HEARINGS:
+          A.       Hearings will be held only when the state purchasing agent or central purchasing office determines
+that substantial material factual issues are present that cannot be resolved satisfactorily through an examination of
+written documents in the record. Any party may request a hearing, but such requests shall be deemed denied unless
+specifically granted.
+          B.       Hearings, when held, should be as informal as practicable under the circumstances, but the state
+purchasing agent or central purchasing office has absolute discretion in establishing the degree of formality for any
+particular hearing. In no event is the state purchasing agent or central purchasing office required to adhere to formal
+rules of evidence or procedure.
+
+
+
+1.4.1 NMAC                                                                                                            22
+[1.4.1.86 NMAC - Rp, 1.4.1.86 NMAC, 6/21/2022]
+
+1.4.1.87          RESOLUTION:
+         A.       The state purchasing agent or central purchasing office shall promptly issue a written
+determination relating to the protest. The determination shall:
+                  (1)       state the reasons for the action taken; and
+                  (2)       inform the protestant of the right to judicial review of the determination pursuant to
+Section 13-1-183 NMSA 1978.
+         B.       A copy of the written determination shall be sent immediately by certified mail, return receipt
+requested, to each of the contractors, if award has been made or, if no award has been made, to all bidders or
+offerors who appear to have a substantial and reasonable prospect of receiving an award if the protest is denied.
+[1.4.1.87 NMAC - Rp, 1.4.1.87 NMAC, 6/21/2022]
+
+1.4.1.88            RELIEF:
+          A.        Prior to award: If, prior to award, the state purchasing agent or central purchasing office makes a
+written determination that a solicitation or proposed award of a contract is in violation of law, then the solicitation or
+proposed award shall be canceled.
+          B.        After award:
+                    (1)       No fraud or bad faith. If, after an award, the state purchasing agent or central purchasing
+office makes a written determination that a solicitation or award of a contract is in violation of law and that the
+business awarded the contract has not acted fraudulently or in bad faith:
+                              (a)      the contract may be ratified, affirmed or revised to comply with law, provided
+that a written determination is made that doing so is in the best interest of the state; or
+                              (b)      the contract may be terminated, and the business awarded the contract shall be
+compensated for the actual expenses reasonably incurred under the contract plus a reasonable profit prior to
+termination.
+                    (2)       Fraud or bad faith. If, after an award, the state purchasing agent or central purchasing
+office makes a written determination that a solicitation or award of a contract is in violation of law and that the
+business awarded the contract has acted fraudulently or in bad faith, the contract shall be canceled.
+          C.        Relief not allowed: Except as provided in Subparagraph (b) of Paragraph (1) of Subsection B of
+this section, the state purchasing agent or central purchasing office shall not award money damages or attorneys'
+fees.
+[1.4.1.88 NMAC - Rp, 1.4.1.88 NMAC, 6/21/2022]
+
+1.4.1.89            MOTION FOR RECONSIDERATION:
+          A.        Motion: A motion for reconsideration of a written determination issued pursuant to 1.4.1.87
+NMAC of this rule may be filed by any party or by any using agency involved in the procurement. The motion for
+reconsideration shall contain a detailed statement of the factual and legal grounds upon which reversal or
+modification of the determination is deemed warranted, specifying any errors of law made, or information not
+previously considered.
+          B.        When to file: A motion for reconsideration shall be filed not later than seven calendar days after
+receipt of the written determination.
+          C.        Response to motion: The state purchasing agent or central purchasing office shall promptly issue
+a written response to the motion for reconsideration. A copy of the written response shall be sent immediately by
+certified mail, return receipt requested, to each of the contractors, if award has been made or, if no award has been
+made, to all bidders or offerors who appear to have a substantial and reasonable prospect of receiving an award if the
+protest is denied.
+[1.4.1.89 NMAC - Rp, 1.4.1.89 NMAC, 6/21/2022]
+
+1.4.1.90           DESIGNEE:
+          A.       Designation: At any point during a protest proceeding, the state purchasing agent or central
+purchasing office may appoint a designee as defined in Section 13-1-51 NMSA 1978 to preside over the proceeding.
+The designee will have all of the powers described in 1.4.1.80 through 1.4.1.93 NMAC of this rule except the power
+to issue a written determination under 1.4.1.87 NMAC of this rule. The designee only has authority to recommend a
+resolution to the state purchasing agent or central purchasing office under 1.4.1.87 NMAC of this rule.
+
+
+
+
+1.4.1 NMAC                                                                                                             23
+          B.       Who may be designated: Any person, other than the procurement officer, procurement manager or
+other person not directly involved in the procurement, may serve as a designee.
+          C.       Recommended written determination: A designee shall present a recommended written resolution
+to the state purchasing agent or central purchasing office. No party may appeal from the recommended resolution of
+the designee.
+          D.       Action by state purchasing agent or central purchasing office: The state purchasing agent or
+central purchasing office shall approve, disapprove or modify the recommended resolution of the designee in
+writing. Such approval, disapproval or modification shall be the written determination required by 1.4.1.87 NMAC
+of this rule. Any party may file a motion for reconsideration of the written determination pursuant to 1.4.1.89
+NMAC of this rule.
+[1.4.1.90 NMAC - Rp, 1.4.1.90 NMAC, 6/21/2022]
+
+1.4.1.91            FINAL DETERMINATION:
+          A.        No motion for reconsideration: In those proceedings in which no motion for reconsideration is
+filed, the written determination issued pursuant to 1.4.1.87 NMAC of this rule shall be the final determination for
+purposes of the time limits for seeking judicial review under Section 13-1-183 NMSA 1978.
+          B.        Motion for reconsideration: In those proceedings in which a motion for reconsideration is filed,
+the written response to the motion issued pursuant to 1.4.1.89 NMAC of this rule shall be the final determination for
+purposes of the time limits for seeking judicial review under Section 13-1-183 NMSA 1978.
+[1.4.1.91 NMAC - Rp, 1.4.1.91 NMAC, 6/21/2022]
+
+1.4.1.92          COPIES OF COMMUNICATIONS:
+         A.       Copies to be provided to parties: Each party to a protest proceeding shall certify that it has
+provided every other party with copies of all documents or correspondence addressed or delivered to the state
+purchasing agent or central purchasing office.
+         B.       Ex parte communications: No party shall submit to the state purchasing agent or central
+purchasing office, ex parte, any material, evidence, explanation, analysis, or advice, whether written or oral,
+regarding any matter at issue in a protest.
+[1.4.1.92 NMAC - Rp, 1.4.1.92 NMAC, 6/21/2022]
+
+1.4.1.93           COUNTING DAYS: In computing any period of time prescribed in 1.4.1.80 through 1.4.1.93
+NMAC of this rule, the day of the event from which the designated period of time begins to run shall not be
+included, but the last day of the period shall be included unless it is a Saturday, a Sunday, or a legal holiday, in
+which event the period shall run to the end of the next business day.
+[1.4.1.93 NMAC - Rp, 1.4.1.93 NMAC, 6/21/2022]
+
+1.4.1.94          CHIEF PROCUREMENT OFFICER REGISTRATION AND CERTIFICATION:
+           A.     Overview: This section applies to chief procurement officers in all state agencies and local public
+bodies.
+                    (1)      Statutory Authority. Under Section 9-17-5 NMSA 1978 and the Procurement Code,
+Sections 13-1-1 et seq NMSA 1978 , the general services secretary has authority to promulgate rules and regulations
+relating to this program.
+                    (2)      Scope. The chief procurement officer registration, certification and recertification
+training program is a state wide program administered by the state purchasing agent. Each state agency and local
+public body shall provide to the state purchasing agent the name of and all changes to the name of the state agency's
+or local public body's chief procurement officer and information identifying the state agency's or local public body's
+central purchasing office. The state purchasing agent shall maintain a list of the names of chief procurement officers
+reported to the state purchasing agent by state agencies and local public bodies. The state purchasing agent shall
+make the list of approved chief procurement officers available to the public through the web site of the purchasing
+division of the general services department and in any other appropriate form. It is a violation of statute if state
+agencies and local public bodies do not have a chief procurement officer listed on the state purchasing agent list
+before performing procurements. Section 13-1-98 NMSA 1978 shall not reduce the scope of duties, responsibilities
+or authority of the state purchasing agent, nor shall such exemptions exclude state agencies and local public bodies
+from the duties and responsibilities of providing the state purchasing agent the name of its certified chief
+procurement officer. All state agencies and local public bodies and their certified chief procurement officers are
+required to comply with all requirements under Sections 13-1-28 through 13-1-199 NMSA 1978 (amended 2013).
+
+
+
+1.4.1 NMAC                                                                                                             24
+         B.         Definitions:
+                    (1)       “Approves” or “approved” means a chief procurement officer has successfully
+completed the certification or recertification training program administered by the state purchasing agent and
+attested to by the issuance of a certificate signed by the state purchasing agent.
+                    (2)       “Conduct” or “conducting” procurements means the act of preparing, advertising,
+processing, and awarding procurements of any kind, including, but not limited to, sole source, invitation to bid,
+request for proposals, and contracts under state price agreements.
+                    (3)       “Certification program” means the initial certification process through passing an exam
+after completing course material and a test approved by the general services secretary.
+                    (4)       “Recertification program” means training that will include affirmation of successfully
+completing course material approved by the general services secretary.
+          C.        Mandatory identification of certified chief procurement officer: Each state agency and local
+public body shall annually, on or before January 1st of each year, and within 15 calendar days every time thereafter
+upon a vacancy or extended absence of a certified chief procurement officer for more than two weeks, provide to the
+state purchasing agent the name of the state agency or local public body certified chief procurement officer and, if
+applicable, information identifying the state agency or local public body central purchasing office. Every state
+agency or local public body shall have a certified chief procurement officer on the state purchasing agent list to
+perform procurments. No agency shall conduct procurements until a certified chief procurement officer is approved
+by the state purchasing agent. Upon a vacancy or absence, the state agency or local public body shall have 90 days
+to replace its certified chief procurement officer. In the event the initial 90 day period is to be exceeded, and upon
+good cause shown, to the satisfaction of the state purchasing agent, an additional 90 days may be granted to the state
+agency or local public body by the state purchasing agent to replace its certified chief procurement officer.
+Examples of good cause would include vacancies due to emergencies, death or resignation of a certified chief
+procurement officer. Until a certified chief procurement officer is reported to the state purchasing agent no
+procurements may be conducted and no duties, responsibilities, and obligations may be performed as detailed in
+Subsection F of 1.4.1.94 NMAC unless granted temporary authority by the state purchasing agent.
+          D.        Registration of chief procurement officer with state purchasing agent: Each state agency or local
+public body is responsible for registering its chief procurement officer and ensuring the information on the state
+purchasing division website is current and correct. The certified chief procurement officer, that has been reported by
+the state agency or local public body to the state purchasing agent as provided in Subsection C of 1.4.1.94 NMAC
+above, shall register with the state purchasing agent through the state purchasing division’s website. The state
+agency or local public body shall provide all the required identification information, including:
+                    (1)       certified chief procurement officer name with title, phone number and email address;
+                    (2)       agency or entity name with full address and registration date.
+At the time of registering for the certification or recertification program, the applicant shall execute a statement of
+personal responsibility affirming:
+                              (a)       the applicant is a current employee of a state agency or local public body and
+not employed as an independent contractor;
+                              (b)       the applicant has not been convicted of a felony unless pardoned by the
+governor; and
+                              (c)       any additional required information specified by the state purchasing agent.
+          E.        Chief procurement officer certification: The state purchasing agent shall establish a certification
+and recertification program for all chief procurement officers including the initial certification, and recertification
+every two years, on or before the certification anniversary date for each certified chief procurement officer. In order
+to be certified or recertified, a chief procurement officer shall remain an employee of the state agency or local public
+body, must not be convicted of a felony or behavior unbecoming of a chief procurement officer with a record of
+performance that establishes good moral character and competency, and shall obtain such training as deemed
+appropriate by the secretary of the general services department and pass a certification or recertification program, as
+appropriate, approved by the secretary of the general services department. Subject to the provisions of subsection J,
+the state purchasing agent may revoke a certification if shown that the chief procurement officer has not maintained
+the standards for a chief procurement officer. The secretary of the general services department reserves the right to
+add separate certifications and recertifications of specialized acquisitions under the procurement code as are deemed
+necessary or useful by the secretary.
+          F.        Certified chief procurement officer duties, responsibilities and obligations: On and after July 1,
+2015, only certified chief procurement officers may do the following, except that persons using procurement cards
+may continue to issue purchase orders and authorize small purchases:
+
+
+
+1.4.1 NMAC                                                                                                           25
+                    (1)      make determinations, including determinations regarding exemptions, pursuant to the
+Procurement Code;
+                    (2)      issue purchase orders and authorize small purchases pursuant to the Procurement Code;
+and
+                    (3)      approve procurement pursuant to the Procurement Code.
+          G.        Failure to identify and register a certified chief procurement officer: In the event that the state
+agency or local public body does not have a certified chief procurement officer identified and registered in
+conformance with Section 13-1-95.2 NMSA 1978, pursuant to Section 13-1-97 NMSA 1978, procurement acts by
+that state agency or local public body may be suspended at the discretion of the state purchasing agent.
+          H.        Identification, registration and certification violations: Any procurement act performed by a state
+agency or local public body under the New Mexico procurement code that has not identified and registered its
+certified chief procurement officer in conformance with Section 13-1-95.2 NMSA 1978, may be deemed a
+procurement violation. For state agencies, such procurement violation(s) may also result in a violation of the
+department of finance and administration’s Model Accounting Practices.
+          I.        Delegation or sharing of certified chief procurement officer duties: The sharing of a certified chief
+procurement officer through mutual execution of a memorandum of agreement by the state agency (agencies) or
+local public body(bodies) is allowed. A state agency or local public body wanting to delegate or share a certified
+chief procurement officer with another state agency or local public body shall: provide to the state purchasing agent
+for such sharing arrangement, information identifying the state agency or local public body central purchasing
+office, the name of the state agency or local public body shared certified chief procurement officer and the
+intergovernmental agreement supporting the arrangement. Chief procurement officers may only be employees of
+the state or a local public body and may not be third parties or temporary employees exept as otherwise provided in
+this subsection.
+          J.        Revocation or suspension of certification:
+                    (1)      The state purchasing agent may suspend or revoke certified chief procurement officer
+certification in whole or in part, based on any action or conduct deemed improper of a certified chief procurement
+officer, including but not limited to severity or frequency of procurement violations, non-compliance with the
+Governmental Conduct Act (Sections 10-16-1 through 10-16-18 NMSA 1978), lack of verification that the chief
+procurement officer has successfully completed the certification or recertification program established by the state
+purchasing agent; lack of verification of current employement by the reporting state agency or local public body
+and not employed as an independent contractor; lack of verification that the person has not been convicted of a
+felony and behavior unbecoming of a chief procurement officer with a record of performance that establishes
+competency.
+                    (2)      Due process procedures shall be initiated by the state purchasing agent after reasonable
+notice to the certified chief procurement officer involved as follows in this section. The state purchasing agent or
+his designee shall cause written notice of the proposed revocation or suspension of certification (the Action) to be
+sent by certified mail, return receipt requested, to the certified chief procurement officer involved. The notice shall
+contain the following statements:
+                             (a)       the action contemplated is for revocation or suspension of certified chief
+procurement officer certification;
+                             (b)       the reasons for the action, which shall include a summary of the certified chief
+procurement officer’s conduct or performance/nonperformance of his duties to which the action relates;
+                             (c)       the action is brought pursuant to the provisions contained in Section 13-1-95.2
+NMSA 1978 and the regulations promulgated thereunder;
+                             (d)       sufficient facts exist, unless rebutted, to support the proposed revocation or
+suspension of certification and that the state purchasing agent shall proceed to suspend or revoke certified chief
+procurement officer certification in whole or in part unless the certified chief procurement officer requests, in
+writing, a hearing within 15 consecutive calendar days from the day the certified chief procurement officer receives
+the notice of the proposed Action;
+                             (e)       the address where the certified chief procurement officer’s request for hearing
+shall be sent, and the name of the person to whom the request shall be sent; and
+                             (f)       that if the certified chief procurement officer fails to deliver a written request for
+a hearing to the person designated within the 15 days required in Subparagraph (d) of this Section, a final
+determination shall be made by the state purchasing agent;
+                             (g)       upon receipt of a timely request for hearing, the state purchasing agent will
+appoint a neutral hearing officer and any such hearing officer so appointed will conduct the hearing and recommend
+
+
+
+1.4.1 NMAC                                                                                                                26
+a final decision to the state purchasing agent. If no hearing officer can be appointed in timely fashion, the state
+purchasing agent shall then act as the hearing officer.
+                    (3)       If a hearing is requested, the hearing officer shall send written notice to the certified chief
+procurement officer of the time and the place of the hearing.
+                    (4)       Hearings, and any subsequent appeals, shall conform to the standards, requirements, and
+process set forth for protests under the procurement code, Sections 13-1-28 thru 13-1-199 NMSA 1978, and be as
+informal as may be reasonable and appropriate under the circumstances. However, in no event shall the hearing
+officer be required to adhere to formal rules of evidence or procedure. The weight to be attached to evidence
+presented in any particular form will be within the discretion of the hearing officer. Stipulations of fact agreed upon
+by the participants may be regarded and used as evidence at the hearing. The participants may stipulate the
+testimony that would be given by a witness as if the witness were present. The hearing officer may require evidence
+in addition to that offered by the participants. The state purchasing agent shall issue a written determination
+regarding revocation or suspension of certification following the hearing.
+          K.        Reinstatement of certification:
+                    (1)       The state purchasing agent may reinstate the certified chief procurement
+officer certification:
+                              (a)       in whole or in part;
+                              (b)       temporarily or permanently; or
+                              (c)       may limit the scope of duties as the state purchasing agent
+deems appropriate.
+                    (2)       The state purchasing agent may require successful completion of re-certificaton or proof
+of eligibility as a pre-condition for reinstatement. This may include successful completion of the certification
+program or recertification program.
+                    (3)       The state purchasing agent reserves the right to adopt additional remedies into the
+program as deemed appropriate.
+          L.        Coordination by the state purchasing agent: The state purchasing agent may coordinate with the
+department of finance and administration regarding the reporting of decisions and actions under this section for state
+agencies, and with the local government division of the department of finance and administration for local public
+bodies.
+          M.        Policies from the state purchasing agent: The state purchasing agent reserves the right to
+implement further policies to give full effect to the certified chief procurement officer statutes and this rule as
+required and necessary.
+          N.        Limitations: Nothing in these rules shall be deemed to be a limit on the authority of the state
+purchasing agent to enact the purpose of these rules, nor a limit on other legal liability of certified chief procurement
+officer for their action or conduct.
+[1.4.1.94 NMAC - Rp, 1.4.1.94 NMAC, 6/21/2022]
+
+1.4.1.95            STATE USE ACT:
+           A.       Procurement of services: In regard to the procurement of services, before utilizing any other
+procurement method allowed under the Procurement Code, a state agency or local public body shall first offer the
+procurement to the central non-profit agency under contract with the state. The central non-profit agency has the
+right of first refusal for any procurement of services provided that the service is stated on a list provided and
+published by the central non-profit agency and provided that the provider can meet the time requirements of the state
+agency.
+           B.       Central non-profit agency: The central non-profit agency shall:
+                    (1)       publish the list of services available through the central non-profit agency on a website
+available to all state agencies and local public bodies;
+                    (2)       ensure that all service providers on this list meet the eligibility requirements to offer
+services under Section 13-1C-1 et. seq., NMSA 1978; and
+                    (3)       ensure that the prices offered to state agencies and local public bodies reflect the fair
+market value of such services in accordance with Section 13-1C-5 NMSA 1978;
+                    (4)       provided that, under Section 13-1C-6 NMSA 1978, services provided pursuant to and
+facilities covered by Section 22-14-27 NMSA 1978 are excluded from procurement through the central non-profit
+agency.
+           C.       Procurement of services pursuant to Section 13-1C-1 et. seq., NMSA 1978 are exempt from the
+Procurement Code.
+
+
+
+1.4.1 NMAC                                                                                                                27
+[1.4.1.95 NMAC - Rp, 1.4.1.95 NMAC, 6/21/2022]
+
+History of 1.4.1 NMAC:
+Pre-NMAC History:
+Laws of 1984, Chapter 65, Section 1 enacted the Procurement Code to apply to every expenditure by state agencies
+and local public bodies for the procurement of items of tangible personal property, services and construction. To
+implement the Code, and in accordance with the statutory requirements applicable at the date and time, the subject
+and material found in this rule was first filed with the state records center and archives in 1984 as general services
+department (GSD) Procurement Code Regulations, GSD Rule No. 84-611, filed 11/21/1984; superseded by
+Procurement Code Regulations, GSD Rule No. 87-601, filed 12/16/1987; superseded by Procurement Code
+Regulations, GSD Rule No. 89-601, filed 12/01/1989; superseded by Procurement Code Regulations, GSD Rule
+No. 93-601, filed 09/21/1993; superseded by 1 NMAC 5.2, filed 01/15/1998.
+
+History of Repealed Material:
+1.4.1 NMAC, Procurement Code Regulations (filed 11/01/2001) repealed 09/30/2005.
+1.4.1 NMAC, Procurement Code Regulations (filed 09/16/2005) repealed 8/30/2013.
+1.4.1 NMAC, Procurement Code Regulations (filed 8/13/2013) repealed 6/21/2022.
+
+Other History:
+GSD Rule No. 93-601 (filed 09/21/1993) was renumbered, reformatted and amended to 1 NMAC 5.2, Procurement
+Code Regulations, effective 01/15/1998.
+1 NMAC 5.2, Procurement Code Regulations (filed 01/02/1998) was renumbered, reformatted, amended and
+replaced to 1.4.1 NMAC, Procurement Code Regulations, effective 11/15/2001.
+1.4.1 NMAC, Procurement Code Regulations (filed 11/01/2001) was replaced by 1.4.1 NMAC, Procurement Code
+Regulations, effective 09/30/2005.
+1.4.1 NMAC, Procurement Code Regulations (filed 09/16/2005) was replaced by 1.4.1 NMAC, Procurement Code
+Regulations, effective 8/30/2013.
+1.4.1 NMAC, Procurement Code Regulations (filed 8/13/2013) was replaced by 1.4.1 NMAC, Procurement Code
+Regulations, effective 6/21/2022.
+
+
+
+
+1.4.1 NMAC                                                                                                           28
+

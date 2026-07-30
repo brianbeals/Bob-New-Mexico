@@ -1,0 +1,1334 @@
+               Best Value Procurement Guide – Part 2
+
+
+
+
+       Best Value Procurement Guide
+
+                 Part 2 – The RFP Process
+
+
+
+
+Issued by:
+
+General Services Department
+State Purchasing Division
+State of New Mexico
+
+
+
+January 2016
+
+
+
+                                 i
+                                Best Value Procurement Guide – Part 2
+
+
+
+
+TABLE OF CONTENTS
+I.        Introduction ......................................................................................................................... Page iii
+
+II.       Quick Reference Glossary ............................................................................................... Page 1
+
+III.      The RFP Process ................................................................................................................. Page 4
+
+IV.       Managing the Procurement Process............................................................................ Page 6
+
+V.        Selecting the Evaluation Committee .......................................................................... Page 11
+
+VI.       Evaluating Proposals ......................................................................................................... Page 13
+
+VII.      Debriefing after Award ..................................................................................................... Page 15
+
+
+EXHIBITS
+Exhibit A: Sample Code of Conduct and Confidentiality Agreement ............................ Page 1a
+
+Exhibit B: Sample Evaluation Committee Training Presentation ................................. Page 3a
+
+Exhibit C: Sample Proposal Control Sheet .............................................................................. Page 6a
+
+Exhibit D: Sample Scoring Matrix .............................................................................................. Page 7a
+
+
+
+
+                                                                             ii
+                      Best Value Procurement Guide – Part 2
+
+
+
+I. INTRODUCTION
+
+
+ This Guide to competitive requests for proposals has been prepared by the State Purchasing Division
+
+ (SPD) of the General Services Department (GSD) of the State of New Mexico (State) and is intended solely
+
+ as reference material for state agencies and local public bodies within New Mexico. This Guide does not
+
+ supersede local, state, or federal laws.
+
+
+
+ Best value procurement is the preferred method for considering evaluation factors in addition to
+
+ cost/price for use by any State agency for selecting a firm or contractor to provide services, goods, or
+
+ tangible personal property. The Guide has been organized into two primary areas, the first to describe the
+
+ overall procurement process and the second, to provide examples of required documents to be used to
+
+ ensure attention is given to all the required steps and processes. These document samples can be tailored
+
+ to specific procurements without requiring new document creation.
+
+
+
+ The Quick Reference Glossary of terms, Section II, provides formal procurement term definitions that are
+
+ reflected throughout the Guide in italics. These definitions reflect statute or other legal resources use and
+
+ pertain only to this Guide. The statutory language should be used to interpret any ambiguity.
+
+ Please direct any questions, comments about this Guide, or requests for assistance with any aspect of the
+
+ Best Value Procurement process to SPD at (505) 827-0472.
+
+
+
+
+                                                    iii
+                      Best Value Procurement Guide – Part 2
+
+II. QUICK REFERENCE GLOSSARY
+   Best Value Procurement: Procurement method implemented by issuing Request for Proposals (RFP)
+    where evaluation factors in addition to cost/price are considered in the selection of a firm or contractor
+    and encompasses the total benefits a State entity expects from the acquisition.
+
+   Code of Conduct: Governmental Conduct Act. NMSA 1978, §10-16-1, et seq.
+
+   Competitive Qualifications-Based Selection (QBS): Procurement method using an RFP but, because price is
+    not an evaluation factor for selection of a firm or contractor, does not qualify as Best Value Procurement.
+
+   Confidentiality Agreement: Written covenant governing how procurement activities should be carried out
+    by the evaluation committee. See also, Non-Disclosure Agreement.
+
+   Confidential information: “Any information which is available to an employee because of the employee’s
+    status as an employee within a state agency or a local public body which is not a matter of public
+    knowledge or available to the public on request.” NMSA 1978, §13-1-39
+
+   Conflict of Interest: A situation in which a person has a duty to more than one person or organization,
+    but cannot do justice to the actually or potentially adverse interests of both parties. Black’s Law
+    Dictionary 363 (10th Ed.) 2014
+
+   Construction: “Building, altering, repairing, installing or demolishing in the ordinary course of business
+    any:
+            (1) road, highway, bridge, parking area or related project;
+            (2) building, stadium or other structure;
+            (3) airport, subway or similar facility;
+            (4) park, trail, athletic field, golf course or similar facility;
+            (5) dam, reservoir, canal, ditch or similar facility;
+            (6) sewage or water treatment facility power generating plant,
+                  pump station, natural gas compressing station or similar facility;
+            (7) sewage, water, gas or other pipeline;
+            (8) transmission line;
+            (9) radio, television or other tower;
+            (10) water, oil or other storage tank;
+            (11) shaft, tunnel or other mining appurtenance;
+            (12) electrical wiring, plumbing or plumbing fixture, gas piping, gas
+                  appliances or water conditioners;
+            (13) air conditioning conduit, heating or other similar mechanical
+                  work; or
+            (14) similar work, structures or installations.
+
+     Shall also include:
+              (1) leveling or clearing land;
+              (2) excavating earth;
+              (3) drilling wells of any type, including seismographic shot holes or core drilling; and
+              (4) similar work, structures or installations.” NMSA 1978, §13-1-40
+
+   Contract: “Any agreement for the procurement of tangible personal property, services or construction.”
+    NMSA 1978, §13-1-41
+
+   Contractor: “Any business having a contract with a state agency or local public body.”
+    NMSA 1978, §13-1-43
+
+                                                     1
+                     Best Value Procurement Guide – Part 2
+
+
+
+   Design/Build: Type of project in which the contract includes design and construction services.
+    NMSA 1978, §13-1-119.1
+
+   Goods: Tangible and consumable personal property having a physical existence, i.e., durable, commercial
+    off-the-shelf products such as vehicles, computers, and equipment; products of economic output.
+
+   Invitation for Bids: All documents, including those attached or incorporated by reference, used for
+    soliciting sealed bids.
+
+   Local Public Body: “Every political subdivision of the state that expends public money from whatever
+    source derived, including but not limited to counties, county institutions, bureaus or commissions;
+    incorporated cities, towns or villages, drainage, conservancy, irrigation or other districts; charitable
+    institutions for which an appropriation is made by the legislature; and every office or officer of any of
+    the above.” NMSA 1978, §6-6-1
+
+   Low-Bid Procurement: Procurement process for selecting a firm or contractor based exclusively on price
+    obtained by verbal or written quotes or issuing an official Invitation for Bids. Also referred to as Low or
+    Lowest-Priced Procurement.
+
+   Non-Disclosure Agreement: see Confidentiality Agreement.
+
+   Nonresponsive: Proposal or bid that does not conform to requirements set forth in the Request for
+    Proposals or Invitation for Bids and is not evaluated by the evaluation committee.
+
+   Procurement:
+           “A. purchasing, renting, leasing, lease purchasing or otherwise acquiring items of tangible
+                 personal property, services or construction; and
+            B. all procurement functions, including but not limited to preparation of specifications,
+                 solicitation of sources, qualification or disqualification of sources, preparation and award
+                 of contract and contract administration.” NMSA 1978, §13-1-74
+
+   Procurement Manager: Individual responsible for purchasing or otherwise acquiring items of tangible
+    personal property, services, or construction or for managing and coordinating procurement agents,
+    buyers, or purchasing agents; the primary point of contact for a firm or contractor.
+
+   Professional Services: “Services of architects, archeologists, engineers, surveyors, landscape architects,
+    medical arts practitioners, scientists, management and systems analysts, certified public accountants,
+    registered public accountants, lawyers, psychologists, planners, researchers, construction managers and
+    other persons or businesses providing similar professional services, which may be designated as such by
+    a determination issued by the state purchasing agent or a central purchasing office.”
+    NMSA 1978, §13-1-76
+
+   Qualifications-Based Selection (QBS): Procurement process for selecting architects, engineers, landscape
+    architects, surveyors, and construction management professionals on the basis of qualifications and
+    subsequent negotiations as to price rather than price being an evaluation factor.
+
+   Request for Proposals (RFP): “All documents, including those attached to or incorporated by reference,
+    used for soliciting proposals.” NMSA 1978, §13-1-81. “Material respects of a request for a proposal
+    include, but are not limited to, price, quality, quantity or delivery requirements.”
+    NMSA 1978, §13-1-85
+
+                                                    2
+                     Best Value Procurement Guide – Part 2
+
+   Resident Preference: “Business with a valid resident business or contractor certificate issued by the NM
+    Taxation & Revenue Department.” NMSA 1978, §13-1-22(A)
+
+   Responsible Bidder: “Bidder who submits a responsive bid and has furnished, when required, information
+    and data to prove that his financial resources, production or service facilities, personnel, service
+    reputation and experience are adequate to make satisfactory delivery of the services, construction or
+    items of tangible personal property described in the Invitation for Bids.” NMSA 1978, §13-1-82
+
+   Responsible Offeror: “Offeror who submits a responsive proposal and has furnished, when required,
+    information and data to prove that his financial resources, production or service facilities, personnel,
+    service reputation and experience are adequate to make satisfactory delivery of the services or items of
+    tangible personal property described in the proposal.” NMSA 1978, §13-1-83
+
+   Responsive Bid: “Bid which conforms in all material respects to the requirements set forth in the
+    Invitation for Bids. Material aspects of a bid include, but are not limited to, price, quality, quantity or
+    delivery requirements.” NMSA 1978, §13-1-84
+
+   Responsive Offer: “Offer which conforms in all material respects to the requirements set forth in the
+    Request for Proposals. Material respects of a proposal include, but are not limited to, price quality,
+    quantity or delivery requirements.” NMSA 1978, §13-1-85
+
+   Scope of Work: Specific details of work to be performed in completion of a project under a contract.
+
+   Services: “Furnishing labor, time or effort by a contractor not involving the delivery of a specific end
+    product other than reports and other materials which are merely incidental to the required
+    performance; includes the furnishing insurance but does not include construction or the services of
+    employees of a state agency or a local public body.” NMSA 1978, §13-1-87
+
+   State Agency: “Any department, commission, council, board, committee, institution, legislative body,
+    agency, government corporation, educational institution or official of the executive, legislative or judicial
+    branch of the government of this state; includes the purchasing division of the general services
+    department and the state purchasing agent but does not include local public bodies.”
+    NMSA 1978, §13-1-90
+
+   Subcontractor: “Individual who takes a portion of a contract from the principal contractor or another
+    subcontractor.” Black’s Law Dictionary 1651 (10th Ed.) 2014
+
+   Tangible Personal Property: “Tangible property other than real property having a physical existence,
+    including but not limited to supplies, equipment, materials and printed materials.” NMSA 1978, §13-1-93
+
+   Vendor: Entity providing a service or tangible personal property to a state agency.
+
+   Veterans Preference: Business with a valid resident veteran business certificate issued by the NM
+    Taxation & Revenue Department. See NMSA 1978, §13-1-22(A). See also, State Purchasing Division
+    (SPD) Policy Memo FY13-001: Application of Veterans Preference, attached as Exhibit H to Policy Memo.
+
+
+
+
+                                                     3
+                    Best Value Procurement Guide – Part 2
+
+III. THE RFP PROCESS
+
+The RFP Process consists of the period from when the RFP is issued to the due date for
+proposals. This phase of Best Value Procurement is handled exclusively by the procurement
+manager and does not require work by the evaluation committee.
+
+   A. Issuing Public Notice: New Mexico State Statute requires that public notice be
+      provided when an RFP is issued. The minimum requirement is a legal notice published
+      once in a newspaper of general circulation in the area where the state agency is
+      located. The legal notice must be published at least ten (10) days before proposals are
+      due. SPD handles the publication of legal notices pertaining to procurements it
+      oversees.
+
+      For construction and complex IT projects, a state agency or SPD should issue public
+      notice at least thirty (30) days before proposals are due. This longer notice period is
+      recommended because it allows time to hold a pre-proposal conference and enables
+      more offerors to submit proposals, thereby increasing the choices available to the state
+      agency. Notice in newspapers with statewide circulation is also recommended, so that
+      a wider range of firms and vendors can have an opportunity to submit a proposal.
+
+      For projects and services that do not require a pre-proposal conference, such as routine
+      services, simpler IT projects, and professional services that are not QBS procurements, a
+      fourteen (14) day notice period may be adequate. In addition to a legal notice, state
+      agencies should consider notifying their vendors on file, posting their RFP
+      announcements on their respective websites as well as any relevant professional
+      periodicals, websites, and trade journals that might help disseminate information
+      about the RFP.
+                                                   Figure 4: Sample Legal Notice of a Request for Proposals
+
+
+      A sample legal notice is provided in
+      Figure 4. The legal notice should
+      clearly state that it is announcing an
+      RFP, a description of the project
+      (title), some basic information
+      potential offerors should know about
+      the project, and instructions on how
+      to obtain a full copy of the RFP along
+      with the deadline for proposal
+      submissions. If attendance at a pre-
+      proposal conference is required, this
+      should also be mentioned in the legal
+      notice.
+
+
+
+                                               4
+                 Best Value Procurement Guide – Part 2
+
+   Preparing proposals in response to an RFP can be a very resource-intensive process for
+   offerors and represents a significant opportunity cost for them. A potential offeror will
+   want to know if qualifying offerors will have to go through an interview as part of the
+   procurement selection process. If an interview will be required, the legal notice as well
+   as the RFP should so indicate. The legal notice and RFP should contain enough
+   information to encourage competitive proposals as well as to enable potential offerors
+   to determine if they have the capability and time to complete the entire selection
+   process and successfully execute the contract.
+
+B. Holding a Pre-Proposal Conference: Construction projects and complex professional
+   services projects may include a pre-proposal conference, which gives offerors a chance
+   to ask questions about the RFP and project in a public setting, so that all potential
+   offers receive the same information. Schedule the conference no later than one (1)
+   week after the release of the RFP so that offerors can incorporate into their proposals
+   the information obtained from the conference.
+
+   Include in the RFP the time and date of the pre-proposal conference if it is to be held. If
+   held, attendance must should be mandatory; therefore, vendors that do not attend
+   cannot submit proposals. Maintain a sign-in sheet to track offerors in attendance. The
+   procurement manager should answer all questions; evaluation committee members
+   need not attend.
+
+C. Issuing Amendments: The state agency may issue amendments to the RFP.
+   Substantive amendments or those that could alter the response to the RFP must be
+   issued no later than 7 calendar days before the proposal due date. Amendments that
+   only extend the proposal due date may be issued any time prior to the deadline,
+   although one (1) week notice is recommended.
+
+   As shown in Exhibit B, the state agency must develop a standard RFP Amendment Form
+   that contains the RFP number, RFP title, date of the amendment, and the section and
+   wording of the RFP that is being amended.
+
+D. Opening Proposals: Stamp the date and time of receipt on all unopened proposal
+   envelopes as they are received by the state agency. This evidences receipt in a timely
+   manner prior to the closing date and time required in the RFP. Return to offerors all
+   proposals received after the required date and time with a cover letter of
+   determination of nonresponsive, because of receipt after the date and time required in
+   the RFP.
+
+   Open timely proposals as soon as possible after the closing time in the presence of a
+   witness and record on a control sheet the RFP number and name, the time of proposal
+   opening, the person and witness opening the proposals, and the name of all offerors.
+   Those nonresponsive submissions returned to the offerors must also be recorded on
+   the control sheet. Place the completed Proposal Control Sheet in the procurement files.
+   See Exhibit F for a sample Proposal Control Sheet.
+
+                                            5
+                                Best Value Procurement Guide – Part 2
+
+       E. Determining Proposal Responsiveness: Screen all proposals to ensure they are
+          responsive to the RFP. This means ensuring that proposals include all material
+          requirements stated in the RFP, such as quality, quantity, and delivery requirements as
+          well as a separate submittal for price. List material requirements on the Proposal
+          Control Sheet and check off each as they are confirmed. The witness should conduct a
+          second review to verify the accuracy of the first review.
+
+              The procurement manager may deem a proposal nonresponsive if it does not address
+              one or more of the material requirements in the RFP; the state agency is not obligated
+              to evaluate nonresponsive proposals. Nonresponsive proposals differ from proposals
+              with minor errors or omissions, such as typos or a missing signature. Proposals with
+              errors that do not alter the substance of the proposal can be accepted, and the
+              procurement manager and procurement officer may allow the offeror to correct the
+              problem prior to review by the evaluation committee as outlined in the Procurement
+              Code.1
+
+
+
+IV. MANAGING THE PROCUREMENT PROCESS
+
+         Best Practices: Managing the Procurement Process
+         1.    The Procurement Code permits revisions of proposals after submission and prior to award for the purpose
+               of obtaining best and final offers (NMSA 1978, §13-1-115), but the practice of negotiating through best
+               and final offers is strongly discouraged to avoid a situation in which a reverse auction takes place.
+         2.    The Procurement Code permits the procurement manager to waive technical irregularities that do not
+               alter the price, quality, or quantity of the services, construction, or items of tangible personal property bid
+               or offered as long as the irregularities are insignificant mistakes that can be waived or corrected without
+               prejudice to other offerors (NMSA 1978, §13-1-132, and Rule 1.4.1.42, NMAC). Avoid when practical
+               allowing revisions to submitted proposals, which can lead to the appearance of impropriety.
+         3.    Consider all proposals received after the deadline, regardless of how late, as nonresponsive unless the
+               tardiness was the fault of state personnel directly serving the procurement activity (Rule 1.4.1.21(B),
+               NMAC).
+         4.    Procurement managers should ensure that all stages of the procurement process are well documented.
+         5.    Instruct offerors to submit technical proposals and price proposals in separate, sealed packages.
+         6.    The procurement manager must withhold Price Proposals from the evaluation committee until after the
+               Technical Proposal evaluations have concluded. Under no circumstance shall Price Proposals be handled
+               by the evaluation committee prior to the finalization of the Technical Proposal evaluations.
+
+
+       A. Responsibilities of the Procurement Manager: A state agency representative or staff
+          member manages the procurement process and assists the evaluation committee with
+          its duties. This individual may be assigned to manage all state agency procurements as
+          full-time responsibilities or may be assigned to handle a specific procurement because
+          of project familiarity. The staff person may have many titles but will be called the
+          procurement manager in this document.
+
+
+1
+    Irregularities in bids or proposals, NMSA 1978, § 13-1-132
+
+                                                                 6
+                     Best Value Procurement Guide – Part 2
+
+      The procurement manager must be familiar with the procurement policies of the
+      involved state agency and is not a voting member of the evaluation committee.
+      Responsibilities include:
+
+         Developing the final draft of the RFP and ensuring review by the appropriate
+          authorities in order to execute it according to law;
+         Working with the procurement manager to issue the legal notice to release the RFP;
+         Scheduling meetings for the evaluation committee;
+         Leading the pre-proposal conference, if scheduled;
+         Receiving and responding to questions from potential offerors regarding the RFP;
+         Receiving and date/time-stamping envelopes of proposals received for
+          procurements not handled by the SPD;
+         Screening proposals for responsiveness and documenting results in a Proposal
+          Control Sheet;
+         Training the evaluation committee (See Training of the Evaluation Committee
+          section)
+         Distributing proposals and evaluation forms to committee members;
+         Contacting potential offerors for clarifications or negotiations, if needed;
+         Drafting the evaluation committee report in concert with members of the
+          evaluation committee and submitting it to the procurement officer for approval; and
+         Overseeing contract negotiations in conjunction with the project manager.
+
+B. Training Evaluation Committee Members: The procurement manager will develop a
+training session to be done in person for the evaluation committee, schedule the training,
+communicate the training date simultaneously to all evaluation committee members, and
+distribute written materials, including the handouts and a template of the Evaluation
+Committee Training Presentation, Exhibit E.
+
+The purpose of evaluation committee training is to ensure that proposals are evaluated
+consistently with two important outcomes:
+
+         selecting a responsible offeror that will provide the best value to the state agency,
+         ensuring an environment of open and fair competition for the responsible offerors.
+
+Evaluation committee training should cover, at a minimum, the following areas:
+
+          1. Overview of the Procurement Process and Responsibilities of the Evaluation
+             Committee: Inform the evaluation committee that they will be using Best Value
+             Procurement,because the contractor for the project should be chosen on price as
+             well as non-price criteria. Note: the standardized procurement process is not
+             designed to completely eliminate subjectivity in the selection method but to
+             insert value judgments based on objectively determined criteria into the
+             procurement process.
+
+
+
+                                               7
+          Best Value Procurement Guide – Part 2
+
+   Explain thoroughly to the evaluation committee all the primary steps in the
+   procurement process. The evaluation committee’s responsibilities include:
+
+   a) Evaluating proposals;
+   b) Selecting a short list of responsible offerors to interview, if necessary;
+   c) Conducting interviews with responsible offerors, if necessary; and
+   d) Recommending a responsible offeror with which the state agency should
+      enter into contracts.
+
+   The procurement manager, project manager, and procurement officer have
+   responsibility for legal review of pertinent documents, negotiating, and entering
+   into contracts.
+
+2. Overview of the Project: The procurement manager should provide the
+   evaluation committee with a draft scope of work for the project. The draft scope
+   of work should contain the background/need, description, technical/
+   professional specifications, and budget for the project. The scope of work will
+   become part of the contract.
+
+      For Construction Projects: Design documents such as preliminary
+       engineering plans or architectural drawings are typically developed before a
+       construction RFP is issued. These documents should become part of the
+       scope of work in the RFP.
+
+      For Complex Professional Services, IT, and Technical Projects: Technical
+       reports and studies are often developed before issuing RFPs for complex
+       services, IT, and technical work. Information from these reports and studies
+       should become part of the scope of work in the RFP.
+
+3. Code of Conduct and Confidentiality Agreement: All members of the evaluation
+   committee must read and sign a Code of Conduct and Confidentiality Agreement
+   containing the guidelines and requirements for professional conduct, conflicts of
+
+4. interest, and non-disclosure of information. Code of Conduct and Confidentiality
+   Agreement, Exhibit B, and its sections are defined as follows:
+
+      Professional Conduct: Behavior that will ensure a fair and consistent
+       evaluation of proposals in a manner that is defensible and in accordance
+       with the parameters set forth in the RFP.
+
+      Conflicts of Interest:   Undue influence on the selection process due to
+       personal interests.
+
+      Non-Disclosure Agreement: Covenant outlining the manner in which
+       information is handled during and after the selection process. Committee
+
+                                    8
+          Best Value Procurement Guide – Part 2
+
+       members shall not discuss information pertaining to the RFP selection
+       process with non-committee members, even after a selection has been
+       made. Proposals can contain sensitive or proprietary information that
+       responsible offerors do not want shared with competitors or the public.
+
+5. Evaluation Criteria: Best Value Procurement uses well-defined criteria to
+   evaluate proposals. Points are assigned to each criterion to help the evaluation
+   committee rank the proposals and ultimately determine which responsible
+   offeror to recommend for a project. For these reasons, it is critical to train the
+   evaluation committee on core elements of the criteria and how to apply them.
+
+6. Technical vs. Price Proposals: According to legal requirements, responsible
+   offerors must submit a Technical Proposal and a Price Proposal, each in
+   separate sealed packages, for the evaluation committee to review. Price
+   Proposals are not reviewed until the Technical Proposal containing all the non-
+   price factors is fully evaluated. This process ensures that non-price factors are
+   evaluated in their own right, without being influenced by a responsible offeror’s
+   price. To ensure the proper evaluation sequence, the procurement manager
+   must withhold Price Proposals from the evaluation committee until after the
+   Technical Proposal evaluations are concluded. Under no circumstance shall
+   Price Proposals be handled by the evaluation committee prior to the finalization
+   of the Technical Proposal evaluations.
+
+7. Evaluating Against the Criteria: Ensure the evaluation committee understands
+   that they are not comparing proposals; scoring is not done on a relative scale.
+   Instead, they are evaluating each proposal individually, against the evaluation
+   criteria. This is important to achieve fair and impartial scoring of each proposal.
+
+8. Independent Review, Discussion, Consensus: Explain the process to review
+   proposals to the evaluation committee:
+
+      Independent Review: Evaluation committee members should read and
+       review independently upon receipt each proposal based on stated
+       evaluation criteria. The individual scores of committee members are
+       preliminary assessments and may be modified during the consensus period
+       of the evaluation deliberations.
+
+      Evaluation Committee Discussion: The entire committee will meet and
+       discuss the proposals. Group discussion allows committee members to
+       receive input from one another as well as from technical experts on the
+       committee. Each committee member will assign and record scores for the
+       proposals, and the procurement manager will total the scores.
+
+      Consensus: When scoring, the committee should attempt to reach consensus
+       on the tier or range (see Scoring Guidance, below), although the numerical
+
+                                    9
+                               Best Value Procurement Guide – Part 2
+
+                          scores they individually assign to each criterion would likely be different.
+                          The ultimate scoring of proposals should be based on a mutually agreed
+                          upon score, rather than, on a median.
+
+                9. Standard Evaluation Criteria and Points: Instruct the evaluation committee of
+                   the criteria that are standard requirements of an RFP. While non-price criteria
+                   are flexible and can be tailored to specific projects, most procurements use the
+                   following standard criteria:
+
+                     a) past performance
+                     b) experience relevant to the project
+                     c) project staffing or project team
+                     d) management plan or approach to the project
+                     e) health and safety record (for Construction and Facility Maintenance
+                        projects)
+                     f) price.
+
+                     Variations can be used depending on the type of project. Other criteria and
+                     corresponding points can be added to meet the needs of the project.
+
+                     The New Mexico Administrative Code permits Best Value Procurement to assign
+                     a weight of 30-70% to pricing. This percentage weight will vary with the
+                     complexity, specificity, and urgency of each individual project.
+
+                     The evaluation process is simplified by having the points for all criteria total
+                     100, 1000, or another multiple of 10.
+
+                10. Scoring Guidance: Without guidance, each committee member might interpret
+                   each criterion and score each response subjectively. This could result in a wide
+                   range of scores with no clear consensus. The procurement manager must
+                   prepare a Scoring Matrix for the evaluation committee similar to the sample
+                   provided in Exhibit F. Include in the Matrix each criterion, points assigned to
+                   each criterion, and tiers or ranges to help the committee evaluate the proposals
+                   consistently and to facilitate consensus.
+
+               11. Preferences: Inform the evaluation committee when preferences must be used
+                   in the procurement process. State agencies must assign up to 5% additional
+                   points for local businesses located in New Mexico.2 To be eligible for the
+                   additional points, responsible offerors shall be required to submit with their
+                   proposal a copy of their Resident Business Certificate or Resident Veteran
+                   Contractor Certificate to substantiate their status as a local enterprise. All
+                   preference certificates, including Resident Business Certificates and Resident
+                   Veteran Contractor Certificates, are issued by the New Mexico Taxation &
+
+
+2
+    Application of preferences requirements, descriptions and applications, NMSA 1978, §§13-1-21, 22 and 14-2.
+
+                                                                10
+                     Best Value Procurement Guide – Part 2
+
+             Revenue Department upon approval of an application. See Exhibit G, Application
+             for Resident Business Certification.
+
+             Preferences are mandatory when state and/or local funds are exclusively
+             involved in the purchase. Federal funds typically prohibit the use of a local,
+             state, or veterans preference.
+
+        12. Interviews: As stated earlier, the legal notice and the RFP should clearly state if
+            interviews will be conducted as part of the selection process and the impact on
+            the overall scoring procedures. If the evaluation committee will be selecting the
+            top responsible offerors based on proposals and then conducting interviews with
+            this short list of responsible offerors, the RFP should clearly state if the interview
+            will be part of an aggregate score that will include the written proposal or if the
+            interview will be the sole set of criteria on which the evaluation committee will
+            select a contractor, which is known as a two-step process.
+
+             In deciding what information to obtain through interviews, the evaluation
+             committee must objectively consider its ability to evaluate adequately
+             information. In addition, the evaluation committee should consider the costs
+             associated with conducting interviews, both to the evaluation committee and
+             the responsible offerors (e.g. time, travel, and opportunity costs). Consider
+             alternatives to on-site interviews when feasible, such as teleconferencing, video
+             conferencing, etc.).
+
+             Finally, the evaluation committee must develop a way to standardize the
+             interview assessment. All responsible offerors should be asked the same
+             questions and follow up questions. Facilitate scoring by making questions as
+             specific as possible.
+
+
+
+V. SELECTING THE EVALUATION COMMITTEE
+Best Practices: Selecting the Evaluation Committee
+1. Choose three to five qualified voting members.
+2. Select committee members with knowledge or expertise relevant to the project.
+3. Identify and select committee members early in the procurement process.
+4. Request committee members to sign a Code of Conduct and Confidentiality Agreement affirming
+   they have no conflicts of interest and will agree to a non-disclosure clause pledging
+   confidentiality during and after the selection process.
+5. Provide training to committee members before they begin to evaluate proposals.
+6. The state agency should offer to pay committee members not employed by the state agency a
+   per diem in accordance with its per diem policies.
+7. The Procurement officer or staff member should assist the evaluation committee.
+
+
+
+                                               11
+                     Best Value Procurement Guide – Part 2
+
+Establish the process for selecting members of the evaluation committee prior to RFP release.
+If scheduling conflicts cannot be resolved after setting meeting dates convenient for all
+members, allot time to seek alternate members. Ideally, the make-up of the evaluation
+committee will not change during the procurement process. Once proposals are received, this
+group will conduct all activities of the standardized procurement process, including:
+
+      confirming proposal responsiveness;
+      evaluating responsive offers;
+      identifying a short list of responsible offerors to interview, if necessary;
+      conducting interviews with responsive offerors, if necessary; and
+      making a recommendation to the state agency on which responsible offeror they
+       determine can provide the state agency with the best value and complete a specific
+       project according to pre-set criteria.
+
+An evaluation committee typically consists of three to five members with some level of subject
+matter expertise or knowledge regarding the project. Achieve diversity on the evaluation
+committee by selecting members with different types of expertise and members representing
+different areas depending on the size and complexity of the procurement. When necessary, the
+procurement manager should ensure that non-voting subject matter experts are on hand to
+provide their expertise, analysis, and recommendations to the evaluation committee so that
+they are able to make informed decisions. For example, the state agency’s accountant can
+confirm that a responsible offeror’s financial statements are in order.
+
+Evaluation committee members might need to attend several meetings and should be aware
+of the time commitment required. As a result of their critical responsibilities, evaluation
+committee members must be trained on the procurement process, maintain confidentiality
+during and after the procurement process, have no conflicts of interest or benefit personally by
+the selection outcome. These requirements are described in more detail in the following
+sections.
+
+Figure 5 details the composition of an evaluation committee and the role that each member
+might have in the procurement process.
+
+
+
+
+                                              12
+                     Best Value Procurement Guide – Part 2
+
+Figure 5: Sample Composition of Evaluation Committee
+
+
+ VOTING MEMBER DESCRIPTION OF COMMITTEE MEMBER
+
+ Project Manager      Staff person to manage the process once a contract is finalized. The project manager
+                      may provide expertise to assist in the drafting of the scope of work.
+
+
+ State agency         Staff person (other than the project manager) or contractor with in-depth knowledge
+ Representative       of the background and need for the project. This person may draft or assist in
+                      drafting the scope of work and provide input on the relationship between this project
+                      and others in the state agency.
+
+
+ Technical Expert     Expert in the project’s specific field to provide technical review. Experts may be staff
+                      members, contractors, members of professional organizations, or professionals living
+                      in the community.
+
+
+ Specialty            Additional specialty experts may be warranted for projects with specific technical
+ Technical Expert     requirements, such as hospitals, auditoriums, or disaster recovery centers.
+
+
+ User                 Representative on evaluation committee from a state agency using the project
+ Representative       deliverable provided by another state agency. User group representatives are
+                      especially important for large, visible community projects.
+
+
+
+
+VI. EVALUATING PROPOSALS
+Once a date has been selected for the evaluation committee to meet and review the proposals,
+the procurement manager must ensure the members of the evaluation committee will have all
+of the necessary resources available to them during the evaluation session. To expedite the
+evaluation process, provide each member with a copy of each proposal (the RFP can require
+that offerors submit multiple copies of the proposal). As reference material, the procurement
+manager should distribute handouts of the training presentation as well as a copy of this
+guide.
+
+Prior to the evaluation meeting, appoint one member of the evaluation committee to check
+references as opposed to relying upon past performance as provided in the proposals.
+Although the New Mexico State statute does not specifically govern the details of how
+references are to be evaluated, as a best practice, handle all communication through e-mail in
+order to generate a public document and to keep the process consistent. Ask the same
+questions of all reference contacts. Sample areas on which to focus these questions include:
+
+
+
+                                                   13
+                     Best Value Procurement Guide – Part 2
+
+      Working Relationship: Did the contractor collaborate and work as a partner with the
+       best interest of the client in mind?
+      Communication by Contractor:            Were there clear, open, and responsive
+       communications with the owner throughout the project?
+      Performance History Meeting Milestones and Deadlines: Were important project
+       milestones met; was the project completed on time?
+      Cost of Control Measures: How well did the contractor work with the project owner to
+       control costs from bid through project completion, and was the project completion
+       within budget?
+      Accuracy of Billing and Documentation: Was invoicing timely, accurate, and correctly
+       classified? Were billings supported by adequate documentation? Were errors
+       corrected promptly by the contractor?
+      Customer Satisfaction and Impression: How satisfied is the owner overall with the
+       completed project and the process the contractor followed on the project? What is the
+       owner’s lasting impression of the contractor?
+
+Provide a copy of the reference responses to each evaluation committee member. Address the
+manner to score the references in the training presentation. One way to generate a score from
+the references is to have the evaluation committee rank each area on a scale of 1 to 5, where:
+
+              1 = Poor
+              2 = Below Average
+              3 = Average
+              4 = Good
+              5 = Excellent
+
+If preferences are to be used in the procurement, instruct a member of the evaluation
+committee to check the validity of every offeror’s preference status prior to the evaluation
+session. This can easily be done online by entering the offeror’s name and preference
+certificate number in the New Mexico Taxation & Revenue Department’s preferences
+validation website: https://secure.mvd.newmexico.gov/residentcertificate/default.aspx.
+
+If the evaluation committee will be selecting a short-list of candidates to interview, remind
+members whether the interview is part of an aggregate result that will include their current
+evaluation scores or if it is a two-step process, in which the successful contractor will be
+selected from the short list of candidates interviewed based on interview responses alone.
+Encourage evaluation committee members to take detailed notes during the interview and
+specify, in writing, what they relied upon in making the source selection decision.
+
+Identify one committee member to be responsible for summarizing the committee members’
+input during the evaluation sessions. This summary, along with the scores, will become part of
+the public record as a Committee Report.
+
+Retain all documents pertaining to the procurement process in a file that must be kept for
+three years by the state agency. If the procurement was done by SPD, the file is kept by SPD.
+
+                                             14
+                             Best Value Procurement Guide – Part 2
+
+Prior to award, the state agency shall ensure award documents and contracts have been
+reviewed by the state agency’s legal counsel to ensure legal sufficiency of the procurement.
+
+VII. DEBRIEFING POST AWARD
+Once the evaluation process has concluded and an award has been made to a successful
+offeror, the offerors not selected have ten (10) business days to request in writing a debriefing
+session with the procurement manager. In no case shall a debriefing be held prior to the
+expiration of the protest period, which is fifteen (15) days after an award has been made.3
+
+Debriefings are an opportunity for unsuccessful offerors to learn more about the procurement
+process, how a decision was made, and how they can improve future proposals. Discuss only
+the strengths and weaknesses of the proposal submitted by the offeror being debriefed.
+
+Debriefings not only afford offerors an opportunity to receive feedback, they also allow
+offerors to submit their input. Be open to receiving constructive feedback on how the
+procurement was perceived and how future improvements to the procurement process can be
+implemented.
+
+
+
+
+3
+    Right to protest, NMSA 1978, §13-1-172.
+
+                                               15
+                          Best Value Procurement Guide – Part 2
+
+
+                                                  Exhibit A
+
+                          Sample Code of Conduct and Confidentiality Agreement
+
+I, the undersigned, a member of the Evaluation Committee for Request for Proposal #[Insert RFP #] for
+[Insert RFP Title] will perform the evaluation under the guidelines and requirements set forth below:
+
+1. Professional Conduct
+
+    I have a professional interest in ensuring that the scoring and evaluation of the offeror responses to the
+    above named Request for Proposal can be supported and defended, and that the recommendation of
+    the Evaluation Committee will lead to the selection of the proposal most advantageous to the
+    [Insert State agency Name], taking into consideration the evaluation factors set forth in the RFP.
+
+2. Conflict of Interest
+
+    a. I herby affirm that I shall not accept any favor, gratuity, or any other thing of value from any
+       person, firm, corporation or other entity that has submitted a proposal for funding or is in the
+       process of negotiating a contract with the [Insert State agency Name]. Such favors, gratuities, or
+       things of value shall include, but not be limited to, the seeking of or acceptance of gifts, favors,
+       services, promises of future employment, and/or honorariums, from [Insert State agency Name]
+       suppliers, contractors, regulated enterprises or individuals, interested parties or people seeking
+       to do business with [Insert State agency Name].
+
+
+    b. I also agree that I shall disqualify myself from participating in any aspect of the proposal review
+       and/or negotiation process directly or indirectly affecting a business in which I or a member of
+       my immediate family has a financial interest.
+
+    c. I may not participate in the development of proposals in response to this solicitation.
+
+
+3. Non-Disclosure of Information
+
+     a.   I understand that offeror responses to the above named RFP will be provided to me upon the
+          receipt of this signed Code of Conduct and Confidentiality agreement. The responses are being
+          shared with me as a member of the Evaluation Committee with the understanding they are
+          confidential and should be treated as such. They are for the sole use of the members of the
+          Evaluation Committee and alternates, as a part of their confidential information. Review of
+          material is intended only for the individuals within the evaluation committee and mentioned
+          within this Code of Conduct and Confidentiality Agreement.
+
+     b.   I affirm that I shall maintain the strictest level of confidentiality regarding all aspects of the
+          proposal review and/or contract negotiation process. I shall not discuss with any person, or
+          disclose, at any time, to any person, the contents or scoring of proposals, and/or decisions of
+          the evaluation committee throughout the proposal, review, protest, and/or contract
+          negotiation process.
+
+
+                                                     1a
+                       Best Value Procurement Guide – Part 2
+I understand and agree to abide this Code of Conduct and Confidentiality Agreement and all applicable
+[Insert State agency Name] policies and laws and further agree to take full responsibility for the copies
+of all proposals delivered into my care. I will not disclose, or make available the contents therein to
+competing offerors or persons not involved in the evaluation process.
+
+If I should become aware of any situation, which might arise, that could alter any of the representations
+above, or that might otherwise create the appearance of a conflict or other impropriety, I will notify the
+Purchasing Officer and committee chair immediately.
+
+
+
+__________________________________                                __________________
+
+Procurement Manager                                      Date
+
+
+
+
+__________________________________                                __________________
+
+Member, Evaluation Committee (signature)                 Date
+
+
+
+
+__________________________________
+
+Member, Evaluation Committee (print)
+
+
+
+
+                   Exhibit A: Sample Code of Conduct and Confidentiality Agreement
+
+
+
+
+                                                    2a
+                                     Best Value Procurement Guide – Part 2
+                                   Exhibit B: Sample Evaluation Committee Training Presentation
+
+
+
+
+                                                                       1. Purpose of the Training
+
+
+
+                                                                          Ensure proposals are evaluated in a consistently to:
+                       RFP #
+                                                                          1) Select the offeror that will provide the best value to the
+                                                                              state agency
+                   RFP Title
+                                                                          2) Ensure an environment of open and fair competition
+                                                                             for the offerors
+        Evaluation Committee Training
+
+    Date
+                                                                          NOTE: Oversee introductions of committee members
+
+
+
+
+2. Overview of Procurement Process/                                    3. Code of Conduct and Confidentiality Agreement
+   Responsibilities of the Committee
+                                                                              Professional Standards
+   Best Value Procurement allows committee members to
+   consider qualifications and other criteria along with price.               No Conflicts of Interest
+
+   Steps in the process include:                                              Non-Disclosure of Information
+                                                                               o All information contained in proposals will be
+   1)   Draft and approve Request for Proposals                                   treated confidentially
+   2)   Issue RFP and receive proposals (staff only)                           o Cannot be shared with other offerors or persons
+   3)   Evaluate proposals                                                        not participating in the evaluation process
+   4)   Select short list or single offeror                                    o Terms of confidentiality do not end once the
+   5)   Interviews (optional)                                                     evaluation process has concluded
+   6)   Negotiate and enter into contract
+
+                                                                          NOTE: Distribute and review Code of Conduct. Ask committee members to
+                                                                          sign Code of Conduct before they leave the training.
+
+
+
+
+                                                                  3a
+                                           Best Value Procurement Guide – Part 2
+                                             Exhibit B: Evaluation Committee Training Presentation
+
+
+
+4. Overview of Project                                                     5. Evaluation Process
+
+
+
+             Background and need for the Project                                Technical vs. Price Proposals
+
+             Description                                                        Scoring against the criteria
+
+             Technical Specifications                                           Independent review, discussion, consensus
+
+             Project budget
+
+
+
+
+   NOTE: Provide committee with draft Scope of Work to review
+
+
+
+
+6. Evaluation Criteria                                                     7. Guidelines on How to Score References
+
+             Past Performance or qualifications                              Definition:
+             Experience relevant to the Project
+             Project Staffing or Project team                                    1 = Poor
+             Management Plan or approach to the Project
+             Health and Safety record                                            2 = Below Average
+             Price
+                                                                                  3 = Average
+             Resident Preference or Veterans Preference
+                                                                                  4 = Good
+
+                                                                                  5 = Excellent
+
+
+
+
+                                                                      4a
+                              Best Value Procurement Guide – Part 2
+
+
+                            Exhibit B: Sample Evaluation Committee Training Presentation
+
+
+
+
+8. Short List                                                9. Interviews
+
+
+
+
+10. Contract Negotiations                                    11. Committee Report
+
+
+
+
+                       Exhibit B: Sample Evaluation Committee Training Presentation
+
+
+
+
+                                                        5a
+                     Best Value Procurement Guide – Part 2
+                             Exhibit C: Sample Proposal Control Sheet
+
+All responsive proposals submitted in response to RFP#12345678 for Sample Services were opened on:
+
+                Date___________________________         At:_____________AM/PM
+
+Offeror    Name of    Contact     Responsive    Opened       Opened by     Witness     Witness
+Name       Contact     email        or Non-     by (Print)   (Signature)   (Print)   (Signature)
+            Person                responsive
+                                 (Date & time
+                                   Received)
+
+
+
+
+                                                6a
+                       Best Value Procurement Guide – Part 2
+                                          Exhibit D: Scoring Matrix
+
+
+
+                             Note: Tiers and points provided as examples only
+
+
+
+Insert RFP Number and Title
+
+                                                                        Offeror    Offeror    Offeror
+                                                                           1          2          3
+Insert Name of Evaluator
+
+
+
+1. Past Performance or Qualifications : 15 points
+   [Insert criterion description from RFP]
+
+
+
+  Tier 1: 1-15 points
+  Certain that offeror can perform project successfully, based on:
+    Experience significantly exceeds minimum standards
+    Strengths outweigh weaknesses, if any
+                                                                       Offeror    Offeror    Offeror
+                                                                          1          2          3
+
+
+
+  Tier 2: 6-10 points
+  Possible that offeror can perform project successfully, based on:
+    Experience meets minimum standards
+    Strengths offset by weaknesses, if any
+                                                                       Offeror    Offeror    Offeror
+                                                                          1          2          3
+
+
+
+
+  Tier 3: 1-5 points
+  Uncertain that offeror can perform project successfully, based on:
+    Questionable if experience meets minimum standards
+    Weaknesses outweighed by strengths
+                                                                       Offeror    Offeror    Offeror
+                                                                          1          2          3
+
+
+
+
+                                                       7a
+                           Best Value Procurement Guide – Part 2
+2. Experience Relevant to the Project: 15 points
+    [Insert criterion description from RFP]
+
+    Tier 1: 11-15 points
+    Certain that offeror can perform project successfully, based on:
+     Two or more projects of similar size and complexity
+     Three positive references, if required
+                                                                        Offeror   Offeror   Offeror
+                                                                           1         2         3
+
+
+    Tier 2: 6-10 points
+
+    Possible that offeror can perform project successfully, based on:
+
+       One project of similar size and complexity
+       Two positive references, if required
+                                                                        Offeror   Offeror   Offeror
+                                                                           1         2         3
+
+
+
+
+    Tier 3: 1-5 points
+
+    Uncertain that offeror can perform project successfully, based on:
+
+       One project of similar size
+       One positive reference, if required
+                                                                        Offeror   Offeror   Offeror
+                                                                           1         2         3
+
+
+
+
+3. Project Staffing or Project Team: 15 points
+
+    [Insert criterion description from RFP]
+
+    Tier 1: 11-15 points
+
+    Certain that offeror can perform project successfully, based on:
+
+       Experience and qualifications significantly exceeds minimum standards
+       Documented experience of past collaboration
+       Clear organizational structure
+                                                                        Offeror   Offeror   Offeror
+                                                                           1         2         3
+
+
+
+
+                                                        8a
+                          Best Value Procurement Guide – Part 2
+   Tier 2: 6-10 points
+
+   Possible that offeror can perform project successfully, based on:
+
+      Experience and qualifications meet minimum standards
+      Some past collaboration
+      Organizational structure adequate but could be improved
+                                                                       Offeror   Offeror      Offeror
+                                                                          1         2            3
+
+
+
+3. Project Staffing or Project Team, (Continued): 15 points
+
+   Tier 3: 1-5 points
+
+   Uncertain that offeror can perform project successfully, based on:
+
+      Questionable if experience and qualifications meet minimum standards
+      Minimal to no evidence of past collaboration
+      Organizational structure unclear or confusing
+                                                                       Offeror   Offeror      Offeror
+                                                                          1         2            3
+
+
+
+4. Management Plan: 15 points
+
+   [Insert criterion description from RFP]
+
+   Tier 1: 11-15 points
+
+   Certain that offeror can perform project successfully, based on:
+
+      Detailed understanding of project requirements
+      Project management approach exceeds performance and quality requirements for the project
+      Project schedule meets or exceeds deadlines, may introduce some efficiencies
+                                                                       Offeror   Offeror      Offeror
+                                                                          1         2            3
+
+
+
+
+                                                       9a
+                          Best Value Procurement Guide – Part 2
+   Tier 2: 6-10 points
+
+   Possible that offeror can perform project successfully, based on:
+
+      Adequate understanding of project requirements
+      Project management approach meets performance or quality requirements for the project.
+      Project schedule meets deadlines
+                                                                       Offeror   Offeror        Offeror
+                                                                          1         2              3
+
+
+
+   Tier 3: 1-5 points
+
+   Uncertain that offeror can perform project successfully, based on:
+
+      Limited understanding of project requirements
+      Project management approach does not meet all or some performance or quality requirements for the
+       project
+       Questionable if project schedule meets deadlines
+                                                                       Offeror   Offeror        Offeror
+                                                                          1         2              3
+
+
+
+
+5. Health and Safety Record (15 points)—if applicable
+
+   [Insert criterion description from RFP]
+
+   Tier 1: 11-15 points
+
+   Certain that offeror can perform project successfully, based on:
+
+      Comprehensive health & safety plan
+      History of exceeding health & safety targets
+      High safety rating
+      Evidence of subcontractor involvement in firm’s health & safety management system
+                                                                       Offeror   Offeror        Offeror
+                                                                          1         2              3
+
+
+
+
+                                                      10a
+                           Best Value Procurement Guide – Part 2
+    Tier 2: 6-10 points
+
+    Possible that offeror can perform project successfully, based on:
+
+       Comprehensive health & safety plan
+       History of achieving health & safety targets
+       Average safety rating
+       Evidence of subcontractor involvement in firm’s health & safety management system
+
+                                                                        Offeror        Offeror   Offeror
+                                                                           1              2         3
+
+
+    Tier 3: 1-5 points
+
+    Uncertain that offeror can perform project successfully, based on:
+
+       Comprehensive health & safety plan
+       Below average safety rating
+                                                                        Offeror        Offeror   Offeror
+                                                                           1              2         3
+
+
+
+6. Price (25 points)
+
+    Tier 1: 11-15 points
+
+    Certain that offeror can perform project successfully, based on:
+
+       Price is responsive to RFP requirements and instructions
+       Price is realistic in respect to project plans and specifications
+       Methodology provided for all components
+       Price includes base price and alternates—if applicable
+                                                                        Offeror        Offeror   Offeror
+                                                                           1              2         3
+
+
+
+    Tier 2: 6-10 points
+
+    Possible that offeror can perform project successfully, based on:
+
+       Price is responsive to RFP requirements and instructions
+       Questions about price being realistic in respect to project plans and specifications
+       Methodology missing for some components
+       Price includes base price and alternates—if applicable
+                                                                        Offeror        Offeror   Offeror
+                                                                           1              2         3
+
+
+
+                                                          11a
+                         Best Value Procurement Guide – Part 2
+
+    Tier 3: 1-5 points
+
+    Uncertain that offeror can perform project successfully, based on:
+
+       Price is not responsive to RFP requirements and instructions
+       Price is not realistic in respect to project plans and specifications
+       Methodology not provided for all components
+       Price does not include base price and alternates—if applicable
+                                                                        Offeror   Offeror   Offeror
+                                                                           1         2         3
+
+
+
+
+   7. Resident preference (5 points)
+
+
+
+
+                                    Exhibit D: Scoring Matrix
+
+
+
+                                                         12a
+

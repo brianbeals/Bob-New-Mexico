@@ -1,0 +1,13 @@
+Metropolitan, Small Metro, Mixed Urban/Rural and Rural New Mexico Counties
+
+
+
+
+Metopolitan Counties: Bernalillo, Sandoval, Torrance, Valencia
+Small Metro Counties: Doña Ana, San Juan, Santa Fe
+Mixed Urban/Rural Counties: Cibola, Chaves, Curry, Eddy, Grant, Lea, Los Alamos, Luna, McKinley,
+Otero, Rio Arriba, Roosevelt, San Miguel, Taos
+Rural Counties: Catron, Colfax, De Baca, Guadalupe, Harding, Hidalgo, Lincoln, Mora, Quay, Sierra,
+Socorro, Union
+                                                                                          November 2014
+

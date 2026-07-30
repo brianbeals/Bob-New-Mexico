@@ -1,0 +1,370 @@
+TITLE 1           GENERAL GOVERNMENT ADMINISTRATION
+CHAPTER 4         STATE PROCUREMENT
+PART 7            SUSPENSION OR DEBARMENT OF BIDDERS, OFFERORS OR CONTRACTORS
+
+1.4.7.1         ISSUING AGENCY: General Services Department - State Purchasing Division.
+[1.4.7.1 NMAC - N, 08-30-13]
+
+1.4.7.2            SCOPE: Applicability. This regulation affects all user agencies procuring contracts, other than
+professional services, through the state purchasing agent, all contractors obtaining or attempting to obtain contracts
+through the state purchasing agent and all suspensions or debarments by the secretary of contractors from
+consideration for award of contracts.
+[1.4.7.2 NMAC - Rp, GSD 87-602.2.0, 08-30-13]
+
+1.4.7.3         STATUTORY AUTHORITY: This regulation is based on 13-1-177 through 13-1-180 NMSA
+1978.
+[1.4.7.3 NMAC - N, 08-30-13]
+
+1.4.7.4         DURATION: Permanent.
+[1.4.7.4 NMAC - N, 08-30-13]
+
+1.4.7.5         EFFECTIVE DATE: August 30, 2013, unless a later date is cited at the end of a section.
+[1.4.7.5 NMAC - N, 08-30-13]
+
+1.4.7.6           OBJECTIVE: Purpose. The purpose of this regulation is to protect the state from risks
+associated with awarding contracts to persons having exhibited an inability or unwillingness to perform faithfully
+contracts awarded to them by the state; and protect substantial state interests and the integrity of the state’s
+procurement process by establishing a procedure whereby persons determined to have displayed improper conduct
+can be suspended or debarred from doing business with the state. It is not the purpose of the regulation to impose
+punishment upon persons for any acts or omissions. There shall be no suspension, debarment, or discrimination of
+any kind against any person because that person has complained or protested, formally or informally, the state’s
+procurement processes or decisions.
+[1.4.7.6 NMAC - Rp, GSD 87-602.1.0, 08-30-13]
+
+1.4.7.7            DEFINITIONS:
+           A.      "Contractor" means any bidder, offeror or construction contractor, excluding contractors for
+professional services, who have been awarded or are seeking award of one or more contracts through the state
+purchasing agent under the provisions of the Procurement Code. "Contractor" includes individuals, joint ventures,
+corporations and all other business entities.
+           B.      "Debarment" means a final order of the secretary that denies a contractor the right to bid or offer
+to enter into a contract, other than a contract for professional services, with the state purchasing agent. The period
+of debarment specified in an order of debarment shall be for no less than three months and for no more than three
+years. A debarment period shall begin on the day the contractor receives notice of the final order of debarment and
+shall automatically expire no later than the end of the term specified in the order.
+           C.      "Hearing" means an examination (proceeding) of the issue before the hearing officer, whether the
+issues are of law or fact. When the hearing officer determines that the contested issues are only of law, the
+examination need not include oral argument of the parties or their counsel or an evidentiary proceeding.
+           D.      "Participants to a debarment or suspension proceeding" means the state purchasing agent, user
+agency (if any) and contractor.
+           E.      "Party" means the contractor who is the subject of a determination under Subsection A of 1.4.7.9
+NMAC.
+           F.      “Person” means an individual, corporation, business trust, estate, trust, partnership, limited
+liability company, association, joint venture or other legal or commercial entity. As used in this rule, the terms
+“person”, “bidder”, “offeror” and “contractor” include principals, officers, directors, owners, partners and managers
+of the person, bidder, offeror or contractor.
+           G.      "Procurement Code" means 13-1-28 through 13-1-199 NMSA 1978.
+
+
+1.4.7 NMAC                                                                                                               1
+          H.        "Professional services" means the services of architects, archeologists, engineers, land surveyors,
+landscape architects, medical arts practitioners, scientists, management and systems analysts, certified public
+accountants, registered public accountants, lawyers, psychologists, planners, and researchers and persons and
+businesses providing similar services.
+          I.        "Secretary" means the secretary of the general services department. The secretary is the
+governing authority of the state purchasing agent.
+          J.        "State purchasing agent" means the director of the state purchasing division, general services
+department.
+          K.        "Suspension" means a final order of the secretary that denies a contractor the right to bid or offer
+to enter into a contract, other than a contract for professional services, with the state purchasing agent. An order of
+suspension shall not exceed three months, provided that the suspension may be longer pursuant to Paragraph (3) of
+Subsection D of 1.4.7.9 NMAC. A period of suspension shall begin on the day the contractor receives notice of the
+final order of suspension and shall automatically expire no later than the end of the suspension specified in the
+order.
+          L.        "Unsatisfactory performance" means a record of poor performance or default on one or more
+contracts for construction, services (other than professional services) or tangible personal property including, but
+not limited to, overshipments, undershipments, providing damaged or defective goods, making unauthorized
+substitutions, billing errors or service deficiencies. The term includes negligent or intentional failure, without good
+cause, to perform in accordance with the specifications or time limits provided in a contract, or a history of failure to
+perform or of poor performance in accordance with the terms of one or more contracts unless the failure to perform
+or the poor performance was caused by acts beyond the control of the contractor.
+          M.        "User agency" means any state agency or agencies, including, but not limited to, departments,
+divisions, bureaus, boards, commissions and any other subdivision of the state of New Mexico that:
+              (1) received or were designated to receive any benefit, including, but not limited to, supplies,
+services or construction, pursuant to a contract which is the basis of any proposed suspension or debarment action;
+and
+              (2) initiated the grievance that led to issuance of a determination of probable cause under Subsection
+A of 1.4.7.9 NMAC or is determined to have had an integral role in the events which form the basis for the
+suspension or debarment action; such determination shall be made by the hearing officer or state purchasing agent;
+no agency of state government shall be a participant to a suspension or debarment proceeding unless designated as a
+participant pursuant to this section; only a user agency designated as a participant shall be entitled to notices
+required by this regulation.
+[1.4.7.7 NMAC - Rp, GSD 87-602.5.0, 08-30-13]
+
+1.4.7.8           POLICY: The policy of this regulation is to provide reasonable notice and require a fair hearing
+prior to any debarment of any contractor from consideration for award of contracts.
+[1.4.7.8 NMAC - Rp, GSD 87-602.4.0, 08-30-13]
+
+1.4.7.9            DEBARMENT OR SUSPENSION - PROCEDURES:
+          A.       Initiation: The state purchasing agent or a central purchasing agent or a central purchasing office,
+after reasonable notice to the person involved, shall have authority to recommend to the governing authority of a
+state agency or a local public body the debarment of a person for cause from consideration for award of contracts,
+other than contracts for professional services. The debarment shall not be for a period of more than three years.
+The authority to debar shall be exercised by the governing authority of a state agency or a local public body in
+accordance with the following rules. The state purchasing agent and user agency and all employees thereof are not
+parties to the proceedings, but shall be participants as set forth in Subsection D of 1.4.7.7 NMAC.
+          B.       Debarment procedures.
+              (1) Notice to the contractor: The state purchasing agent or his designee shall cause written notice of
+the proposed debarment to be sent by certified mail, return receipt requested, to the contractor. The notice shall
+contain the following statements:
+                    (a) the action contemplated is for debarment;
+                    (b) the maximum time period of the debarment is three years (also give the recommended
+maximum time of debarment, if less than three years);
+                    (c) the reasons for the action, which shall include a summary of the contractor’s conduct to
+which the action relates and a listing of any contracts related to such conduct;
+
+
+
+1.4.7 NMAC                                                                                                             2
+                    (d) the action is brought pursuant to the provisions contained in 13-1-177 through 13-1-180
+NMSA 1978 and the regulations promulgated thereunder;
+                    (e) sufficient facts exist, unless rebutted, to support the proposed debarment and that the GSD
+secretary shall proceed to debar unless contractor requests, in writing, a hearing within 15 consecutive calendar days
+from the day contractor receives the notice of the proposed action;
+                    (f) the address where contractor’s request for hearing shall be sent, and the name of the person
+to whom the request shall be sent; and
+                    (g) the contractor may be represented throughout the proceeding by an attorney licensed to
+practice law in the state of New Mexico.
+              (2) Failure to request hearing on debarment: If the contractor fails to deliver a written request for a
+hearing to the person designated pursuant to Subparagraph (f) of Paragraph (1) of Subsection B of 1.4.7.9 NMAC
+within the 15 days required in Subparagraph (e) of Paragraph (1) of Subsection B of 1.4.7.9 NMAC, a final
+determination shall be made, pursuant to the requirements of Subsection E of 1.4.7.9 NMAC.
+              (3) Hearing officer appointment: Where a timely request for hearing is received, the state purchasing
+agent may appoint a hearing officer to conduct the hearing and recommend a final decision to the state purchasing
+agent. If no hearing officer is appointed, the state purchasing agent shall act as the hearing officer. In such
+instance, the hearing officer’s recommendation and the state purchasing agent’s recommendation to the secretary
+shall be one and the same.
+              (4) Notice of hearing: When hearing is requested under Subparagraph (e) of Paragraph (1) of
+Subsection B of 1.4.7.9 NMAC, the hearing officer shall send written notice to the contractor of the time and the
+place of the hearing. The hearing shall be held within no sooner than five days and no later than 60 days after the
+contractor receives notice of the hearing unless continued by the hearing officer for good cause. Failure to hold a
+timely hearing shall result in dismissal of the contemplated action. The state purchasing officer may renew the
+proposed action against the contractor by following all procedures of 1.4.7.9 NMAC of these regulations if such
+refiling is otherwise timely.
+              (5) Debarment hearing procedures.
+                    (a) Hearings shall be as informal as may be reasonable and appropriate under the
+circumstances and in accordance with applicable due process requirements. However, in no event shall the hearing
+officer be required to adhere to formal rules of evidence or procedure. The weight to be attached to evidence
+presented in any particular form will be within the discretion of the hearing officer. Stipulations of fact agreed upon
+by the participants may be regarded and used as evidence at the hearing. The participants may stipulate the
+testimony that would be given by a witness as if the witness were present. The hearing officer may require evidence
+in addition to that offered by the participants.
+                    (b) A hearing shall be recorded but need not be transcribed except at the request and expense
+of the party or participant requesting the transcription. In the event of multiple requests for transcriptions, cost of
+transcription shall be borne equally by those making the requests. In addition to the recording, a record of those
+present, identification of any written evidence presented, and copies of all written statements and a summary of the
+hearing shall be sufficient record.
+                    (c) Opening and closing statements may be made by the participants at the discretion of the
+hearing officer.
+                    (d) Witnesses shall testify under oath or affirmation. All witnesses may be cross-examined.
+                    (e) Hearing requirement. The hearing officer and the parties may require a final hearing before
+the hearing officer. The hearing officer may define the scope of such hearing and limit presentation to evidentiary,
+legal matter or summation of the case.
+                    (f) The hearing officer shall make a final recommendation to the state purchasing agent within
+30 days after the record is closed in the examination.
+                    (g) A copy of the determination of debarment shall be mailed to the last known address on file
+with the state purchasing agent or central purchasing office, by first class mail, within three business days after
+issuance of the written determination or transmitted electronically within three business days after issuance of the
+written determination.
+          C.       Authority of the hearing officer in a debarment procedure: the hearing officer may, among other
+things:
+              (1) conduct hearings and hold informal conferences in person or by telephone, to settle, simplify or
+establish the issues in a proceeding or to consider other matters that may aid in the expeditious disposition of the
+proceeding either by request of the participants or as required by the hearing officer;
+
+
+
+1.4.7 NMAC                                                                                                           3
+              (2) require participants to state their positions with respect to the various issues in the proceeding,
+including requiring the submission of briefs on any issues in the proceedings;
+              (3) require participants to produce for examination those relevant witnesses and documents under
+their control and permit or prohibit discovery;
+              (4) rule on motions and other procedural matters;
+              (5) regulate the course of the proceedings, procedural schedules and the conduct of participants
+therein;
+              (6) receive, rule on, exclude, or limit evidence and limit lines of questioning or testimony which are
+irrelevant, immaterial, or repetitious;
+              (7) fix time limits for submission of written documents;
+              (8) impose appropriate sanctions against any participant or person failing to obey a directive under
+these procedures, which sanctions may include, but not be limited to:
+                     (a) refusing to allow the non-complying participant to support or oppose designated claims or
+defenses, or prohibiting that participant from introducing evidence when such evidence is the subject of or related to
+the non-compliance;
+                     (b) excluding all testimony of an unresponsive or evasive witness; and
+                     (c) expelling any participant or person from further participation in the hearing;
+              (9) take official notice of any material fact not appearing in evidence in the record, if such fact is
+among the traditional matters of official or administrative notice.
+          D.        Suspension procedures.
+              (1) The state purchasing agent or a central purchasing office, after consultation with the using
+agency, may suspend a person from consideration for award of contracts if the state purchasing agent or central
+purchasing office, after reasonable investigation, finds that a person has engaged in conduct that constitutes cause
+for debarment pursuant to 13-1-178 NMSA 1978.
+              (2) The state purchasing agent or his designee shall cause written notice of the determination of
+suspension to be sent by certified mail, return receipt requested, to the contractor. The notice of suspension shall
+contain the following statements:
+                     (a) the action is a suspension of the contractor;
+                     (b) the maximum time period of the suspension is three months (also give the recommended
+maximum time of suspension if less than three months), provided that the suspension may be longer pursuant to
+Paragraph (3) of Subsection D of 1.4.7.9 NMAC in which case the notice of suspension will state this condition;
+                     (c) the reasons for the action, which shall include a summary of the contractor’s conduct to
+which the action relates and a listing of any contracts related to such conduct;
+                     (d) the action is brought pursuant to the provisions contained in 13-1-177 through 13-1-180
+NMSA 1978 and the regulations promulgated thereunder; and
+                     (e) the sufficient facts that exist to support the suspension, and that the GSD secretary has
+suspended the person.
+              (3) Suspension based upon a criminal offense. If a person has been charged with a criminal offense
+that would be a cause for debarment pursuant to 13-1-178 NMSA 1978, the suspension shall remain in effect until
+the criminal charge is resolved and the person is debarred or the reason for the suspension no longer exists.
+          E.        Recommendation of state purchasing agent and comment period. Final order. Appeal. The state
+purchasing agent shall prepare a written recommendation on whether to suspend or debar. The recommendation
+shall be sent to the secretary, contractor, and the user agency. When the contractor has submitted a timely response
+pursuant to Subparagraph (e) of Paragraph (1) of Subsection B of 1.4.7.9 NMAC, the contractor and the user
+agency shall have 10 days from the date of receiving the recommendation to file comments with the secretary.
+There shall be no administrative appeal from the recommendation to the secretary. The secretary shall issue a final
+order after expiration of the 10 day comment period. If the comment period does not apply, the secretary shall issue
+a final order after receipt of the recommendation. Both the state purchasing agent’s recommendation and the
+secretary’s final order shall recite the reasons for debarment and shall recite the evidence relied upon in making the
+determination for debarment. When the secretary’s final order adopts all aspects of the state purchasing agent’s
+recommendation, the final order may incorporate the recommendation by reference and attach it to the order. When
+suspension or debarment is recommended or ordered, the length of the suspension (not to exceed three months,
+unless suspension is made pursuant to 13-1-178 NMSA 1978 and Paragraph (3) of Section D of 1.4.7.9 of this
+regulation) or debarment (not to exceed three years) and the reasons for such action shall be set forth. The final
+order shall inform the debarred contractor of the contractor’s right to judicial review pursuant to 13-1-179 and 13-1-
+
+
+
+1.4.7 NMAC                                                                                                          4
+183 NMSA 1978. The secretary’s final order shall be the final determination for purposes of the time limits for
+seeking judicial review under 13-1-183 NMSA 1978. Notice of debarment or suspension shall be mailed by
+certified mail, return receipt requested, to contractor upon issuance of the secretary’s final order. The state
+purchasing agent and user agency shall be given a copy of the final order upon its issuance by the secretary.
+          F.        Effect of suspension or debarment decision.
+              (1) A debarment or suspension shall take affect upon receipt of the final order by the contractor. The
+contractor shall remain suspended or debarred until a court of competent jurisdiction or the secretary orders
+otherwise, or until the debarment or suspension period, as specified in the final order, expires. The secretary may
+order the suspension or debarment reduced or ended only as provided in Subsection I of 1.4.7.9 NMAC.
+              (2) Any business entity which must hold a state license as a prerequisite for award of a contract
+(which is subject to the provisions of this regulation) shall also be suspended or debarred, as the case may be, if the
+holder of such license is a suspended or debarred contractor and the business entity holds no other license.
+              (3) Debarments and suspensions shall apply to all contracts subject to the authority of the state
+purchasing agent, regardless of the subject matter of future contracts.
+          G.        Causes for debarment or suspension.
+              (1) The causes for debarment or suspension must occur within three years of the date final action on
+a procurement is taken. For purposes of this section, Subsection G of 1.4.7.9 NMAC, the date final action is taken
+on a procurement is the date the contract with the contractor is fully executed and contractor is authorized to
+proceed with his performance of the contract, in accordance with the terms of the contract.
+              (2) Those causes include, but are not limited to, the following:
+                     (a) criminal conviction of a bidder, offeror or contractor for commission of a criminal offense
+related to obtaining unlawfully or attempting to obtain a public or private contract or subcontract, or related to the
+unlawful performance of such contract or subcontract;
+                     (b) civil judgment against a bidder, offeror or contractor for a civil violation related to
+obtaining unlawfully or attempting to obtain a public or private contract or subcontract, or related to the unlawful
+performance of such contract or subcontract;
+                     (c) conviction of a bidder, offeror or contractor under state or federal statutes related to
+embezzlement, theft, forgery, bribery, fraud, falsification or destruction of records, making false statements or
+receiving stolen property or for violation of federal or state tax laws;
+                     (d) conviction of a bidder, offeror or contractor under state or federal antitrust statues relating
+to the submission of offers;
+                     (e) criminal conviction against a bidder, offeror or contractor for any other offense related to
+honesty, integrity or business ethics;
+                     (f) civil judgment against a bidder, offeror or contractor for a civil violation related to honesty,
+integrity or business ethics;
+                     (g) civil judgment against a bidder, offeror or contractor pursuant to the Unfair Practices Act;
+                     (h) violation by a bidder, offeror or contractor of contract provisions, as set forth in this
+paragraph, of a character that is reasonably regarded by the state purchasing agent or a central purchasing office to
+be so serious as to justify suspension or debarment action, including:
+                           (i) willful failure to perform in accordance with one or more contracts; or
+                           (ii) a history of failure to perform or of unsatisfactory performance of one or more
+contracts; provided that this failure or unsatisfactory performance has occurred within a reasonable time preceding
+the decision to impose debarment; and provided further that failure to perform or unsatisfactory performance caused
+by acts beyond the control of the contractor shall not be considered to be a basis for debarment;
+                     (i) any other cause that the state purchasing agent or a central purchasing office determines to
+be so serious and compelling as to affect responsibility as a contractor; or
+                     (j) for a willful violation by a bidder, offeror or contractor of the provisions of the
+Procurement Code.
+          H.        Deferment of proceedings: The hearing officer may defer debarment proceedings pending final
+disposition of a related claim or dispute if he finds:
+              (1) that the cause of the action brought against the contractor is related to a good faith claim or
+dispute pending before a state agency, the state purchasing agent, or on judicial appeal; and
+              (2) a delay in the proceedings will not be prejudicial to the public interest.
+          I.        Termination or modification of suspension or debarment.
+              (1) Any contractor suspended or debarred under this regulation may petition the state purchasing
+
+
+
+1.4.7 NMAC                                                                                                              5
+agent to shorten or terminate the suspension or debarment. The petition shall show good cause for the requested
+relief.
+              (2) A contractor’s request for modification or termination of a suspension or debarment must be
+supported by good cause shown, including documentation providing reasons for such modification or termination,
+including, but not limited to:
+                     (a) bona fide change in ownership and management of the business; or
+                     (b) elimination or mitigation of cause for which the suspension or debarment was imposed; or
+                     (c) compliance with terms that were set forth in the suspension or debarment order.
+              (3) Procedure: The state purchasing agent shall admit or deny review of the petition. If review is
+allowed, the petition shall be reviewed pursuant to the procedures described in Subsection C of 1.4.7.9 NMAC.
+              (4) Upon termination of a suspension or debarment, a contractor suspended or debarred under this
+regulation shall automatically be reinstated with full contracting rights without further written notice by the
+secretary, hearing officer or state purchasing agent.
+              (5) Appeal: A petition for termination or modification of a final order of debarment shall not be
+treated as a motion for reconsideration and shall not stay the running of time in which a contractor has to appeal,
+under the provisions of 13-1-183 NMSA 1978, a final order issued pursuant to Subsection E of 1.4.7.9 NMAC. The
+secretary’s final order on the petition for termination or modification of an order of debarment shall be the final
+determination for purposes of the time limits for seeking judicial review under 13-1-183 NMSA 1978, where there
+is a denial or partial denial of such petition.
+          J.        Maintenance of list of suspended and debarred contractors: The state purchasing agent shall
+maintain and update a list of debarred and suspended contractors. The list shall reflect all modifications and
+terminations of debarments and suspensions. All purchasing agencies, political subdivisions of the state and the
+public shall be supplied with this list upon request. The state purchasing agent may charge a reasonable fee for the
+expense of copying and mailing such list. The state purchasing agent shall send updates of this list to all user
+agencies and political subdivisions of the state as the state purchasing agent deems necessary.
+[1.4.7.9 NMAC - Rp, GSD 87-602.6.0, 08-30-13]
+
+1.4.7.10           CONTINUATION OF CURRENT CONTRACTS – RESTRICTIONS ON
+SUBCONTRACTING:
+          A.       Notwithstanding the debarment, suspension or proposed debarment of a person, a state agency or
+local public body may continue contracts or subcontracts in existence at the time that the person is debarred,
+suspended or proposed for debarment unless the governing authority of the state agency or local public body directs
+otherwise.
+          B.       Unless the governing authority of a state agency or local public body issues a written
+determination based on compelling reasons holding otherwise, a person that has been debarred or suspended or
+whose debarment has been proposed shall not, after the date that the person is debarred, suspended or proposed for
+debarment:
+              (1) incur financial obligations, including those for materials, services and facilities, unless the person
+is specifically authorized to do so under the terms and conditions of the person’s contract; or
+              (2) extend the duration of the person’s contract by adding new work, by exercising options or by
+taking other action.
+          C.       Unless pursuant to a written authorization based on the compelling reasons of the governing
+authority of a state agency or local public body, the state purchasing agent or a central purchasing office shall not
+consent to enter into a subcontract subject to the Procurement Code with a person that has been debarred, suspended
+or proposed for debarment.
+          D.       A person that has entered into a contract subject to the Procurement Code shall not subcontract
+with another person that has been debarred, suspended or proposed for debarment without the written authorization
+of the state purchasing agent or a central purchasing office. A person that wishes to subcontract with another person
+that has been debarred, suspended or proposed for debarment shall make a request to the applicable state agency or
+local public body that includes the following information:
+              (1) the name of the proposed subcontractor;
+              (2) information about the proposed subcontractor’s debarment, suspension or proposed debarment;
+              (3) the requester’s compelling reasons for seeking a subcontract with the proposed subcontractor;
+and
+              (4) a statement of how the person will protect the interests of the state agency or local public body
+
+
+
+1.4.7 NMAC                                                                                                            6
+considering the proposed subcontractor’s debarment, suspension or proposed debarment.
+[1.4.7.10 NMAC - N, 08-30-13]
+
+HISTORY OF 1.4.7 NMAC:
+Pre-NMAC History: The material in this part was derived from that previously filed with the Commission of
+Public Records - State Records Center and Archives:
+GSD 87-602 Suspension or Debarment of Bidders, Offerors or Contractors, 03/13/1987.
+
+History of Repealed Material:
+GSD 87-602, Suspension or Debarment of Bidders, Offerors or Contractors, filed 03/13/1987 - Repealed effective
+08-30-2013.
+
+
+
+
+1.4.7 NMAC                                                                                                       7
+
