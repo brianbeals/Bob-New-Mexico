@@ -185,6 +185,16 @@
   }
   .pdf-link:hover { background: #dbeafe; }
   .pdf-link.pdf-inline { margin-top: 8px; }
+  /* Accessibility assessment */
+  .ada-note { font-size:12px; color:#57606a; margin:-4px 0 12px; line-height:1.6; }
+  .ada-fine { font-size:11px; color:#8a94a0; margin:10px 0 0; line-height:1.55; }
+  .c { text-align:center; }
+  .ck { color:#166534; font-weight:800; }
+  .cx { color:#b91c1c; font-weight:800; }
+  .rate { display:inline-block; font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:0.04em; padding:2px 8px; border-radius:20px; white-space:nowrap; }
+  .rate-sub  { background:#dcfce7; color:#166534; }
+  .rate-part { background:#fef3c7; color:#92400e; }
+  .rate-fail { background:#fee2e2; color:#991b1b; }
 
   /* ── Statute cell ── */
   .statute { font-size: 10px; color: #374151; line-height: 1.5; }
@@ -779,6 +789,163 @@
       </tbody>
     </table>
   </div>
+
+  <!-- Accessibility assessment -->
+  <div class="section-label">Accessibility Assessment &mdash; ADA Title II / WCAG 2.1 AA</div>
+  <p class="ada-note">These are New Mexico state-government records, so the governing federal standard is <strong>ADA Title II</strong>: the U.S. Department of Justice 2024 rule (28 CFR Part 35) that adopts <strong>WCAG 2.1 Level AA</strong> for state and local government web content, including the PDFs they publish. New Mexico's compliance date is <strong>April 26, 2027</strong> under the DOJ's 2026 deadline extension. The checks below are automated and cover the machine-detectable gates: a real text layer (WCAG 1.1.1 Non-text Content), structure tags for reading order and tables (1.3.1 Info &amp; Relationships), and a declared document language (3.1.1 Language of Page).</p>
+
+  <div class="summary-strip">
+    <div class="stat-card"><div class="num">6</div><div class="label">Substantially conformant (automated)</div></div>
+    <div class="stat-card"><div class="num">6</div><div class="label">Partial &mdash; untagged, no language</div></div>
+    <div class="stat-card"><div class="num">4</div><div class="label">Non-compliant &mdash; image-only scans</div></div>
+    <div class="stat-card"><div class="num">Apr 2027</div><div class="label">NM Title II deadline</div></div>
+  </div>
+
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>#</th>
+          <th style="min-width:260px">Document</th>
+          <th class="c">Text Layer</th>
+          <th class="c">Tagged</th>
+          <th class="c">Language</th>
+          <th>Assessment</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>01</td>
+          <td>Suspension or Debarment of Bidders, Offerors or Contractors (1.4.7 NMAC)</td>
+          <td class="c"><span class="ck">✓</span></td>
+          <td class="c"><span class="cx">✗</span></td>
+          <td class="c"><span class="cx">✗</span></td>
+          <td><span class="rate rate-part">Partial</span></td>
+        </tr>
+        <tr>
+          <td>02</td>
+          <td>Procurement Code Regulations (1.4.1 NMAC)</td>
+          <td class="c"><span class="ck">✓</span></td>
+          <td class="c"><span class="ck">✓</span></td>
+          <td class="c"><span class="ck">✓</span></td>
+          <td><span class="rate rate-sub">Substantial</span></td>
+        </tr>
+        <tr>
+          <td>03</td>
+          <td>Approval of Contracts for the Purchase of Professional Services (1.4.10 NMAC)</td>
+          <td class="c"><span class="ck">✓</span></td>
+          <td class="c"><span class="ck">✓</span></td>
+          <td class="c"><span class="ck">✓</span></td>
+          <td><span class="rate rate-sub">Substantial</span></td>
+        </tr>
+        <tr>
+          <td>04</td>
+          <td>Professional Services vs. General Services &mdash; Services Determination</td>
+          <td class="c"><span class="ck">✓</span></td>
+          <td class="c"><span class="ck">✓</span></td>
+          <td class="c"><span class="ck">✓</span></td>
+          <td><span class="rate rate-sub">Substantial</span></td>
+        </tr>
+        <tr>
+          <td>05</td>
+          <td>Design and Build Project Delivery Systems (1.5.7 NMAC)</td>
+          <td class="c"><span class="cx">✗</span></td>
+          <td class="c"><span class="cx">✗</span></td>
+          <td class="c"><span class="cx">✗</span></td>
+          <td><span class="rate rate-fail">Non-compliant</span></td>
+        </tr>
+        <tr>
+          <td>06</td>
+          <td>Best Value Procurement Guide, Part 1 &mdash; Developing RFPs</td>
+          <td class="c"><span class="ck">✓</span></td>
+          <td class="c"><span class="ck">✓</span></td>
+          <td class="c"><span class="ck">✓</span></td>
+          <td><span class="rate rate-sub">Substantial</span></td>
+        </tr>
+        <tr>
+          <td>07</td>
+          <td>Best Value Procurement Guide, Part 2 &mdash; The RFP Process</td>
+          <td class="c"><span class="ck">✓</span></td>
+          <td class="c"><span class="ck">✓</span></td>
+          <td class="c"><span class="ck">✓</span></td>
+          <td><span class="rate rate-sub">Substantial</span></td>
+        </tr>
+        <tr>
+          <td>08</td>
+          <td>Competitive Sealed Proposals for Construction, Facility Services &amp; Repairs (1.4.8 NMAC)</td>
+          <td class="c"><span class="cx">✗</span></td>
+          <td class="c"><span class="cx">✗</span></td>
+          <td class="c"><span class="cx">✗</span></td>
+          <td><span class="rate rate-fail">Non-compliant</span></td>
+        </tr>
+        <tr>
+          <td>09</td>
+          <td>State Purchasing Division Code of Ethics</td>
+          <td class="c"><span class="cx">✗</span></td>
+          <td class="c"><span class="cx">✗</span></td>
+          <td class="c"><span class="cx">✗</span></td>
+          <td><span class="rate rate-fail">Non-compliant</span></td>
+        </tr>
+        <tr>
+          <td>10</td>
+          <td>Governmental Advertising Rates (1.4.4 NMAC)</td>
+          <td class="c"><span class="cx">✗</span></td>
+          <td class="c"><span class="cx">✗</span></td>
+          <td class="c"><span class="cx">✗</span></td>
+          <td><span class="rate rate-fail">Non-compliant</span></td>
+        </tr>
+        <tr>
+          <td>11</td>
+          <td>FAQs &mdash; DoIT Purchasing Consolidated with State Purchasing Division</td>
+          <td class="c"><span class="ck">✓</span></td>
+          <td class="c"><span class="ck">✓</span></td>
+          <td class="c"><span class="ck">✓</span></td>
+          <td><span class="rate rate-sub">Substantial</span></td>
+        </tr>
+        <tr>
+          <td>12</td>
+          <td>Quarterly Economic Summary &mdash; New Mexico (Statewide)</td>
+          <td class="c"><span class="ck">✓</span></td>
+          <td class="c"><span class="cx">✗</span></td>
+          <td class="c"><span class="cx">✗</span></td>
+          <td><span class="rate rate-part">Partial</span></td>
+        </tr>
+        <tr>
+          <td>13</td>
+          <td>Quarterly Economic Summary &mdash; Bernalillo County</td>
+          <td class="c"><span class="ck">✓</span></td>
+          <td class="c"><span class="cx">✗</span></td>
+          <td class="c"><span class="cx">✗</span></td>
+          <td><span class="rate rate-part">Partial</span></td>
+        </tr>
+        <tr>
+          <td>14</td>
+          <td>Quarterly Economic Summary &mdash; Catron County</td>
+          <td class="c"><span class="ck">✓</span></td>
+          <td class="c"><span class="cx">✗</span></td>
+          <td class="c"><span class="cx">✗</span></td>
+          <td><span class="rate rate-part">Partial</span></td>
+        </tr>
+        <tr>
+          <td>15</td>
+          <td>New Mexico Rule for Small Numbers and Public Data Release</td>
+          <td class="c"><span class="ck">✓</span></td>
+          <td class="c"><span class="cx">✗</span></td>
+          <td class="c"><span class="cx">✗</span></td>
+          <td><span class="rate rate-part">Partial</span></td>
+        </tr>
+        <tr>
+          <td>16</td>
+          <td>Metropolitan, Small Metro, Mixed Urban/Rural and Rural NM Counties</td>
+          <td class="c"><span class="ck">✓</span></td>
+          <td class="c"><span class="cx">✗</span></td>
+          <td class="c"><span class="cx">✗</span></td>
+          <td><span class="rate rate-part">Partial</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <p class="ada-fine"><strong>Automated pass is not full conformance.</strong> "Substantially conformant" means the file cleared the machine-checkable gates; a person still has to verify alt-text quality, reading order, table-header associations, and color contrast for WCAG 2.1 AA. The four image-only scans (05, 08, 09, 10) fail outright: with no text layer, a screen reader gets nothing, which is the most serious Title II failure, and they are the same four files that had to be OCR'd for this project.</p>
 
   <!-- Footer -->
   <footer>
