@@ -115,6 +115,21 @@
     color: #1E3A5F;
     white-space: nowrap;
   }
+  /* Pin the PDF (last) column to the right edge so its link is always reachable */
+  th:last-child,
+  td:last-child {
+    position: sticky;
+    right: 0;
+    white-space: nowrap;
+    box-shadow: -6px 0 8px -6px rgba(0,0,0,0.18);
+  }
+  thead th:last-child {
+    background: #1E3A5F;
+    z-index: 3;
+  }
+  tbody tr:nth-child(odd)  td:last-child { background: #fff; }
+  tbody tr:nth-child(even) td:last-child { background: #D6E4F0; }
+  tbody tr:hover td:last-child { background: #c5d9ee; }
   .doc-title {
     font-weight: 600;
     line-height: 1.4;
