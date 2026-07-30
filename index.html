@@ -115,21 +115,6 @@
     color: #1E3A5F;
     white-space: nowrap;
   }
-  /* Pin the PDF (last) column to the right edge so its link is always reachable */
-  th:last-child,
-  td:last-child {
-    position: sticky;
-    right: 0;
-    white-space: nowrap;
-    box-shadow: -6px 0 8px -6px rgba(0,0,0,0.18);
-  }
-  thead th:last-child {
-    background: #1E3A5F;
-    z-index: 3;
-  }
-  tbody tr:nth-child(odd)  td:last-child { background: #fff; }
-  tbody tr:nth-child(even) td:last-child { background: #D6E4F0; }
-  tbody tr:hover td:last-child { background: #c5d9ee; }
   .doc-title {
     font-weight: 600;
     line-height: 1.4;
@@ -199,6 +184,7 @@
     background: #eff6ff;
   }
   .pdf-link:hover { background: #dbeafe; }
+  .pdf-link.pdf-inline { margin-top: 8px; }
 
   /* ── Statute cell ── */
   .statute { font-size: 10px; color: #374151; line-height: 1.5; }
@@ -319,7 +305,6 @@
           <th style="min-width:220px">Key Requirement</th>
           <th>Pages</th>
           <th>Source</th>
-          <th>PDF</th>
         </tr>
       </thead>
       <tbody>
@@ -330,6 +315,7 @@
           <td>
             <div class="doc-title">Suspension or Debarment of Bidders, Offerors or Contractors (1.4.7 NMAC)</div>
             <div class="doc-summary">Governs how New Mexico suspends or debars contractors from state contracts. Debarment runs 3 months to 3 years from receipt of the final order. Purpose is protection, not punishment. Took effect August 30, 2013.</div>
+            <a class="pdf-link pdf-inline" href="01-Debarment-Suspension-Regulations-1.4.7-NMAC.pdf">Open PDF ↗</a>
           </td>
           <td><span class="badge badge-procurement">Procurement</span></td>
           <td><span class="type-tag">NMAC Rule</span></td>
@@ -339,7 +325,6 @@
           <td>Sets procedure to suspend or debar contractors; debarment runs 3 months to 3 years.</td>
           <td><span class="pages-chip">7</span></td>
           <td><span class="digital-flag">Digital</span></td>
-          <td><a class="pdf-link" href="01-Debarment-Suspension-Regulations-1.4.7-NMAC.pdf">Open PDF</a></td>
         </tr>
 
         <!-- 02 -->
@@ -348,6 +333,7 @@
           <td>
             <div class="doc-title">Procurement Code Regulations (1.4.1 NMAC)</div>
             <div class="doc-summary">Master rule implementing the Procurement Code for executive-branch agencies. Applies to nearly every state expenditure on property, services, and construction. Carves out 11 exemptions including highways, universities, and charter schools. Last replaced June 21, 2022.</div>
+            <a class="pdf-link pdf-inline" href="02-Procurement-Code-Regulations-Ch4-Part1.pdf">Open PDF ↗</a>
           </td>
           <td><span class="badge badge-procurement">Procurement</span></td>
           <td><span class="type-tag">NMAC Rule</span></td>
@@ -357,7 +343,6 @@
           <td>Master implementing rule for the Procurement Code; lists 11 exemptions.</td>
           <td><span class="pages-chip">28</span></td>
           <td><span class="digital-flag">Digital</span></td>
-          <td><a class="pdf-link" href="02-Procurement-Code-Regulations-Ch4-Part1.pdf">Open PDF</a></td>
         </tr>
 
         <!-- 03 -->
@@ -366,6 +351,7 @@
           <td>
             <div class="doc-title">Approval of Contracts for the Purchase of Professional Services (1.4.10 NMAC)</div>
             <div class="doc-summary">Requires GSD Contracts Review Bureau to review and approve every professional-services contract over $5,000 for most state agencies. Sits under Title 1 Public Finance — a different "Chapter 4" than the procurement rules. Took effect June 21, 2022.</div>
+            <a class="pdf-link pdf-inline" href="03-Purchase-of-Professional-Services-Ch4-Part10.pdf">Open PDF ↗</a>
           </td>
           <td><span class="badge badge-procurement">Procurement</span></td>
           <td><span class="type-tag">NMAC Rule</span></td>
@@ -375,7 +361,6 @@
           <td>CRB must review &amp; approve professional-services contracts over $5,000.</td>
           <td><span class="pages-chip">5</span></td>
           <td><span class="digital-flag">Digital</span></td>
-          <td><a class="pdf-link" href="03-Purchase-of-Professional-Services-Ch4-Part10.pdf">Open PDF</a></td>
         </tr>
 
         <!-- 04 -->
@@ -384,6 +369,7 @@
           <td>
             <div class="doc-title">Professional Services vs. General Services — Services Determination</div>
             <div class="doc-summary">Guidance that helps agencies distinguish professional from general services — a distinction that changes the procurement path. Agencies must seek a State Purchasing Agent determination when a service is unlisted or arguable. Issued November 2022; not a rule.</div>
+            <a class="pdf-link pdf-inline" href="04-Professional-Services-Determination-Guidance-Nov2022.pdf">Open PDF ↗</a>
           </td>
           <td><span class="badge badge-procurement">Procurement</span></td>
           <td><span class="type-tag">Guidance</span></td>
@@ -393,7 +379,6 @@
           <td>Agencies must get SPA determination when service is unlisted or ambiguous.</td>
           <td><span class="pages-chip">3</span></td>
           <td><span class="digital-flag">Digital</span></td>
-          <td><a class="pdf-link" href="04-Professional-Services-Determination-Guidance-Nov2022.pdf">Open PDF</a></td>
         </tr>
 
         <!-- 05 -->
@@ -402,6 +387,7 @@
           <td>
             <div class="doc-title">Design and Build Project Delivery Systems (1.5.7 NMAC)</div>
             <div class="doc-summary">Governs how state agencies procure design-build projects where design and construction are contracted together. Binds all using agencies except road and highway work. Oldest rule in the set — effective April 15, 1998; recompiled 2001. File was an image-only scan; content recovered by OCR.</div>
+            <a class="pdf-link pdf-inline" href="05-Design-Build-Project-Delivery-System.pdf">Open PDF ↗</a>
           </td>
           <td><span class="badge badge-procurement">Procurement</span></td>
           <td><span class="type-tag">NMAC Rule</span></td>
@@ -411,7 +397,6 @@
           <td>Rules for design-build procurement; binding on using agencies, excludes roads &amp; highways.</td>
           <td><span class="pages-chip">6</span></td>
           <td><span class="ocr-flag">OCR</span></td>
-          <td><a class="pdf-link" href="05-Design-Build-Project-Delivery-System.pdf">Open PDF</a></td>
         </tr>
 
         <!-- 06 -->
@@ -420,6 +405,7 @@
           <td>
             <div class="doc-title">Best Value Procurement Guide, Part 1 — Developing Requests for Proposals</div>
             <div class="doc-summary">Practical how-to guide (not a regulation) on building best-value RFPs that weigh value over low price. Issued January 2016 by the State Purchasing Division. At 58 pages, the longest document in the set. Cites no single statute — it supports the Code rather than implementing it.</div>
+            <a class="pdf-link pdf-inline" href="06-Best-Value-Procurement-Guide-Vol1.pdf">Open PDF ↗</a>
           </td>
           <td><span class="badge badge-procurement">Procurement</span></td>
           <td><span class="type-tag">Guide</span></td>
@@ -429,7 +415,6 @@
           <td>How-to guidance for developing best-value RFPs.</td>
           <td><span class="pages-chip">58</span></td>
           <td><span class="digital-flag">Digital</span></td>
-          <td><a class="pdf-link" href="06-Best-Value-Procurement-Guide-Vol1.pdf">Open PDF</a></td>
         </tr>
 
         <!-- 07 -->
@@ -438,6 +423,7 @@
           <td>
             <div class="doc-title">Best Value Procurement Guide, Part 2 — The RFP Process</div>
             <div class="doc-summary">Companion to Part 1; covers running the RFP process from evaluation through award. Gives agencies a repeatable scoring method for best value. State Purchasing Division guidance from January 2016. No governing statute cited — instructional support material.</div>
+            <a class="pdf-link pdf-inline" href="07-Best-Value-Procurement-Guide-Vol2.pdf">Open PDF ↗</a>
           </td>
           <td><span class="badge badge-procurement">Procurement</span></td>
           <td><span class="type-tag">Guide</span></td>
@@ -447,7 +433,6 @@
           <td>How-to guidance for running the RFP process through evaluation and award.</td>
           <td><span class="pages-chip">30</span></td>
           <td><span class="digital-flag">Digital</span></td>
-          <td><a class="pdf-link" href="07-Best-Value-Procurement-Guide-Vol2.pdf">Open PDF</a></td>
         </tr>
 
         <!-- 08 -->
@@ -456,6 +441,7 @@
           <td>
             <div class="doc-title">Competitive Sealed Proposals for Construction, Facility Maintenance, Services and Repairs (1.4.8 NMAC)</div>
             <div class="doc-summary">Sets uniform procedures for using competitive sealed proposals on construction and facility services. Applies to all executive-branch agencies. Took effect September 30, 2005. Source file is a scanned image; dates and citations recovered via OCR.</div>
+            <a class="pdf-link pdf-inline" href="08-Proposals-Construction-Facility-Services-Repair.pdf">Open PDF ↗</a>
           </td>
           <td><span class="badge badge-procurement">Procurement</span></td>
           <td><span class="type-tag">NMAC Rule</span></td>
@@ -465,7 +451,6 @@
           <td>Uniform procedures for competitive sealed proposals on construction &amp; facility services.</td>
           <td><span class="pages-chip">5</span></td>
           <td><span class="ocr-flag">OCR</span></td>
-          <td><a class="pdf-link" href="08-Proposals-Construction-Facility-Services-Repair.pdf">Open PDF</a></td>
         </tr>
 
         <!-- 09 -->
@@ -474,6 +459,7 @@
           <td>
             <div class="doc-title">State Purchasing Division Code of Ethics</div>
             <div class="doc-summary">One-page statement of ethical standards for SPD employees: conflicts of interest, gifts and gratuities from suppliers, and misuse of confidential information. Frames lapses as a breach of public trust. No effective date or statute — both fields are genuinely blank. Scanned image; read via OCR.</div>
+            <a class="pdf-link pdf-inline" href="09-SPD-Code-of-Ethics.pdf">Open PDF ↗</a>
           </td>
           <td><span class="badge badge-procurement">Procurement</span></td>
           <td><span class="type-tag">Policy</span></td>
@@ -483,7 +469,6 @@
           <td>Ethical-conduct standards: conflicts of interest, gifts, and confidential information.</td>
           <td><span class="pages-chip">1</span></td>
           <td><span class="ocr-flag">OCR</span></td>
-          <td><a class="pdf-link" href="09-SPD-Code-of-Ethics.pdf">Open PDF</a></td>
         </tr>
 
         <!-- 10 -->
@@ -492,6 +477,7 @@
           <td>
             <div class="doc-title">Governmental Advertising Rates (1.4.4 NMAC)</div>
             <div class="doc-summary">Authorizes GSD to set newspaper rates for legally required public notices. Implements § 14-11-7 NMSA 1978; took effect February 15, 1999. The OCR scan had garbled the citation as "14-1 1-7" — recovered and normalized.</div>
+            <a class="pdf-link pdf-inline" href="10-Government-Advertising-Rates.pdf">Open PDF ↗</a>
           </td>
           <td><span class="badge badge-procurement">Procurement</span></td>
           <td><span class="type-tag">NMAC Rule</span></td>
@@ -501,7 +487,6 @@
           <td>Authorizes GSD to set newspaper rates for legally required public notices.</td>
           <td><span class="pages-chip">1</span></td>
           <td><span class="ocr-flag">OCR</span></td>
-          <td><a class="pdf-link" href="10-Government-Advertising-Rates.pdf">Open PDF</a></td>
         </tr>
 
         <!-- 11 -->
@@ -510,6 +495,7 @@
           <td>
             <div class="doc-title">FAQs — DoIT Purchasing Consolidated with State Purchasing Division</div>
             <div class="doc-summary">Informational FAQ memo addressed to Cabinet Secretaries explaining the consolidation of DoIT purchasing under SPD. Most recent procurement document in the set. Signed by Anna Silva, Acting Cabinet Secretary. January 31, 2025; cites no governing statute.</div>
+            <a class="pdf-link pdf-inline" href="11-FAQs-Consolidated-IT-Procurements.pdf">Open PDF ↗</a>
           </td>
           <td><span class="badge badge-procurement">Procurement</span></td>
           <td><span class="type-tag">FAQ Memo</span></td>
@@ -519,7 +505,6 @@
           <td>Explains DoIT purchasing consolidation under the State Purchasing Division.</td>
           <td><span class="pages-chip">3</span></td>
           <td><span class="digital-flag">Digital</span></td>
-          <td><a class="pdf-link" href="11-FAQs-Consolidated-IT-Procurements.pdf">Open PDF</a></td>
         </tr>
 
         <!-- 12 -->
@@ -528,6 +513,7 @@
           <td>
             <div class="doc-title">Quarterly Economic Summary — New Mexico (Statewide)</div>
             <div class="doc-summary">State Data Center report summarizing NM's economy for Q1 FY26. Statewide matched taxable gross receipts (MTGR) rose $612.1M (2.3%) quarter-over-quarter and $1.52B (6%) year-over-year. Retail trade was the largest industry at 19%. Released January 2026.</div>
+            <a class="pdf-link pdf-inline" href="12-EDD-Economic-Summary-Statewide-Jan2026.pdf">Open PDF ↗</a>
           </td>
           <td><span class="badge badge-economic">Economic</span></td>
           <td><span class="type-tag">Data Report</span></td>
@@ -537,7 +523,6 @@
           <td>Statewide MTGR +$612.1M (2.3%) QoQ; +$1.52B (6%) YoY; retail trade largest at 19%.</td>
           <td><span class="pages-chip">4</span></td>
           <td><span class="digital-flag">Digital</span></td>
-          <td><a class="pdf-link" href="12-EDD-Economic-Summary-Statewide-Jan2026.pdf">Open PDF</a></td>
         </tr>
 
         <!-- 13 -->
@@ -546,6 +531,7 @@
           <td>
             <div class="doc-title">Quarterly Economic Summary — Bernalillo County</div>
             <div class="doc-summary">Bernalillo County edition of the same Q1 FY26 template. County MTGR was $7.04B — largest economy in the state — yet moved only $3M (0.04%) quarter-over-quarter. The large, diversified tax base absorbs quarterly swings. Released January 2026.</div>
+            <a class="pdf-link pdf-inline" href="13-EDD-Economic-Summary-Bernalillo-County-Jan2026.pdf">Open PDF ↗</a>
           </td>
           <td><span class="badge badge-economic">Economic</span></td>
           <td><span class="type-tag">Data Report</span></td>
@@ -555,7 +541,6 @@
           <td>Bernalillo MTGR $7.04B; +$3M (0.04%) QoQ — largest county economy, near-flat movement.</td>
           <td><span class="pages-chip">4</span></td>
           <td><span class="digital-flag">Digital</span></td>
-          <td><a class="pdf-link" href="13-EDD-Economic-Summary-Bernalillo-County-Jan2026.pdf">Open PDF</a></td>
         </tr>
 
         <!-- 14 -->
@@ -564,6 +549,7 @@
           <td>
             <div class="doc-title">Quarterly Economic Summary — Catron County</div>
             <div class="doc-summary">Catron County edition of the same Q1 FY26 template. MTGR rose ~$5.5M (34.7%) quarter-over-quarter on a base of roughly $21M — a dramatic swing explained by small-population volatility. Report notes this pattern is typical of small rural counties. Released January 2026.</div>
+            <a class="pdf-link pdf-inline" href="14-EDD-Economic-Summary-Catron-County-Jan2026.pdf">Open PDF ↗</a>
           </td>
           <td><span class="badge badge-economic">Economic</span></td>
           <td><span class="type-tag">Data Report</span></td>
@@ -573,7 +559,6 @@
           <td>Catron MTGR +~$5.5M (34.7%) QoQ on a ~$21M base — classic small-county volatility.</td>
           <td><span class="pages-chip">4</span></td>
           <td><span class="digital-flag">Digital</span></td>
-          <td><a class="pdf-link" href="14-EDD-Economic-Summary-Catron-County-Jan2026.pdf">Open PDF</a></td>
         </tr>
 
         <!-- 15 -->
@@ -582,6 +567,7 @@
           <td>
             <div class="doc-title">New Mexico Rule for Small Numbers and Public Data Release</div>
             <div class="doc-summary">Department of Health data standard governing when small counts must be suppressed before public release. Suppress any cell when population &lt; 20 and count is 1–3; also suppress derived percentages. Survey estimates need &ge; 50 respondents. No date or statute — both fields are genuinely blank.</div>
+            <a class="pdf-link pdf-inline" href="15-NMDOH-Small-Numbers-Rule-Data-Standard.pdf">Open PDF ↗</a>
           </td>
           <td><span class="badge badge-health">Public Health</span></td>
           <td><span class="type-tag">Data Standard</span></td>
@@ -591,7 +577,6 @@
           <td>Suppress cells when population &lt; 20 and count is 1–3; surveys need &ge; 50 respondents.</td>
           <td><span class="pages-chip">1</span></td>
           <td><span class="digital-flag">Digital</span></td>
-          <td><a class="pdf-link" href="15-NMDOH-Small-Numbers-Rule-Data-Standard.pdf">Open PDF</a></td>
         </tr>
 
         <!-- 16 -->
@@ -600,6 +585,7 @@
           <td>
             <div class="doc-title">Metropolitan, Small Metro, Mixed Urban/Rural and Rural New Mexico Counties</div>
             <div class="doc-summary">One-page NM-IBIS reference classifying all 33 counties into four urbanization tiers. Bernalillo = Metropolitan; Catron = Rural. Dated November 2014. The connective tissue that explains why two counties on the same economic template behave so differently.</div>
+            <a class="pdf-link pdf-inline" href="16-NMDOH-Urban-Rural-County-Classification.pdf">Open PDF ↗</a>
           </td>
           <td><span class="badge badge-health">Public Health</span></td>
           <td><span class="type-tag">Classification</span></td>
@@ -609,7 +595,6 @@
           <td>Classifies all 33 NM counties by urbanization tier. Bernalillo = Metro; Catron = Rural.</td>
           <td><span class="pages-chip">1</span></td>
           <td><span class="digital-flag">Digital</span></td>
-          <td><a class="pdf-link" href="16-NMDOH-Urban-Rural-County-Classification.pdf">Open PDF</a></td>
         </tr>
 
       </tbody>
@@ -662,6 +647,137 @@
       <div class="sig-docs">Docs: 01, 08, 10</div>
     </div>
 
+  </div>
+
+  <!-- Source Documents provenance -->
+  <div class="section-label">Source Documents &mdash; Where Each File Comes From</div>
+  <p style="font-size:12px;color:#57606a;margin:-4px 0 10px;">Every PDF was pulled from an official State of New Mexico publishing portal. The links below go to the publishing source, not the local copy in this repo.</p>
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>#</th>
+          <th style="min-width:260px">Document</th>
+          <th style="min-width:240px">Published By</th>
+          <th>Official Source</th>
+          <th>Format</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>01</td>
+          <td>Suspension or Debarment of Bidders, Offerors or Contractors (1.4.7 NMAC)</td>
+          <td>NM Administrative Code &mdash; SRCA / Commission on Public Records</td>
+          <td><a class="pdf-link" href="https://srca.nm.gov/nmac-home/">srca.nm.gov/nmac-home ↗</a></td>
+          <td><span class="digital-flag">Digital</span></td>
+        </tr>
+        <tr>
+          <td>02</td>
+          <td>Procurement Code Regulations (1.4.1 NMAC)</td>
+          <td>NM Administrative Code &mdash; SRCA / Commission on Public Records</td>
+          <td><a class="pdf-link" href="https://srca.nm.gov/nmac-home/">srca.nm.gov/nmac-home ↗</a></td>
+          <td><span class="digital-flag">Digital</span></td>
+        </tr>
+        <tr>
+          <td>03</td>
+          <td>Approval of Contracts for the Purchase of Professional Services (1.4.10 NMAC)</td>
+          <td>NM Administrative Code &mdash; SRCA / Commission on Public Records</td>
+          <td><a class="pdf-link" href="https://srca.nm.gov/nmac-home/">srca.nm.gov/nmac-home ↗</a></td>
+          <td><span class="digital-flag">Digital</span></td>
+        </tr>
+        <tr>
+          <td>04</td>
+          <td>Professional Services vs. General Services &mdash; Services Determination</td>
+          <td>NM General Services Dept &mdash; State Purchasing Division</td>
+          <td><a class="pdf-link" href="https://generalservices.state.nm.us/state-purchasing/">generalservices.state.nm.us/state-purchasing ↗</a></td>
+          <td><span class="digital-flag">Digital</span></td>
+        </tr>
+        <tr>
+          <td>05</td>
+          <td>Design and Build Project Delivery Systems (1.5.7 NMAC)</td>
+          <td>NM Administrative Code &mdash; SRCA / Commission on Public Records</td>
+          <td><a class="pdf-link" href="https://srca.nm.gov/nmac-home/">srca.nm.gov/nmac-home ↗</a></td>
+          <td><span class="ocr-flag">OCR</span></td>
+        </tr>
+        <tr>
+          <td>06</td>
+          <td>Best Value Procurement Guide, Part 1 &mdash; Developing RFPs</td>
+          <td>NM General Services Dept &mdash; State Purchasing Division</td>
+          <td><a class="pdf-link" href="https://generalservices.state.nm.us/state-purchasing/">generalservices.state.nm.us/state-purchasing ↗</a></td>
+          <td><span class="digital-flag">Digital</span></td>
+        </tr>
+        <tr>
+          <td>07</td>
+          <td>Best Value Procurement Guide, Part 2 &mdash; The RFP Process</td>
+          <td>NM General Services Dept &mdash; State Purchasing Division</td>
+          <td><a class="pdf-link" href="https://generalservices.state.nm.us/state-purchasing/">generalservices.state.nm.us/state-purchasing ↗</a></td>
+          <td><span class="digital-flag">Digital</span></td>
+        </tr>
+        <tr>
+          <td>08</td>
+          <td>Competitive Sealed Proposals for Construction, Facility Services &amp; Repairs (1.4.8 NMAC)</td>
+          <td>NM Administrative Code &mdash; SRCA / Commission on Public Records</td>
+          <td><a class="pdf-link" href="https://srca.nm.gov/nmac-home/">srca.nm.gov/nmac-home ↗</a></td>
+          <td><span class="ocr-flag">OCR</span></td>
+        </tr>
+        <tr>
+          <td>09</td>
+          <td>State Purchasing Division Code of Ethics</td>
+          <td>NM General Services Dept &mdash; State Purchasing Division</td>
+          <td><a class="pdf-link" href="https://generalservices.state.nm.us/state-purchasing/">generalservices.state.nm.us/state-purchasing ↗</a></td>
+          <td><span class="ocr-flag">OCR</span></td>
+        </tr>
+        <tr>
+          <td>10</td>
+          <td>Governmental Advertising Rates (1.4.4 NMAC)</td>
+          <td>NM Administrative Code &mdash; SRCA / Commission on Public Records</td>
+          <td><a class="pdf-link" href="https://srca.nm.gov/nmac-home/">srca.nm.gov/nmac-home ↗</a></td>
+          <td><span class="ocr-flag">OCR</span></td>
+        </tr>
+        <tr>
+          <td>11</td>
+          <td>FAQs &mdash; DoIT Purchasing Consolidated with State Purchasing Division</td>
+          <td>NM General Services Dept &mdash; State Purchasing Division</td>
+          <td><a class="pdf-link" href="https://generalservices.state.nm.us/state-purchasing/">generalservices.state.nm.us/state-purchasing ↗</a></td>
+          <td><span class="digital-flag">Digital</span></td>
+        </tr>
+        <tr>
+          <td>12</td>
+          <td>Quarterly Economic Summary &mdash; New Mexico (Statewide)</td>
+          <td>NM Economic Development Dept &mdash; State Data Center</td>
+          <td><a class="pdf-link" href="https://edd.newmexico.gov/">edd.newmexico.gov ↗</a></td>
+          <td><span class="digital-flag">Digital</span></td>
+        </tr>
+        <tr>
+          <td>13</td>
+          <td>Quarterly Economic Summary &mdash; Bernalillo County</td>
+          <td>NM Economic Development Dept &mdash; State Data Center</td>
+          <td><a class="pdf-link" href="https://edd.newmexico.gov/">edd.newmexico.gov ↗</a></td>
+          <td><span class="digital-flag">Digital</span></td>
+        </tr>
+        <tr>
+          <td>14</td>
+          <td>Quarterly Economic Summary &mdash; Catron County</td>
+          <td>NM Economic Development Dept &mdash; State Data Center</td>
+          <td><a class="pdf-link" href="https://edd.newmexico.gov/">edd.newmexico.gov ↗</a></td>
+          <td><span class="digital-flag">Digital</span></td>
+        </tr>
+        <tr>
+          <td>15</td>
+          <td>New Mexico Rule for Small Numbers and Public Data Release</td>
+          <td>NM Dept of Health &mdash; NM-IBIS</td>
+          <td><a class="pdf-link" href="https://ibis.doh.nm.gov/">ibis.doh.nm.gov ↗</a></td>
+          <td><span class="digital-flag">Digital</span></td>
+        </tr>
+        <tr>
+          <td>16</td>
+          <td>Metropolitan, Small Metro, Mixed Urban/Rural and Rural NM Counties</td>
+          <td>NM Dept of Health &mdash; NM-IBIS</td>
+          <td><a class="pdf-link" href="https://ibis.doh.nm.gov/">ibis.doh.nm.gov ↗</a></td>
+          <td><span class="digital-flag">Digital</span></td>
+        </tr>
+      </tbody>
+    </table>
   </div>
 
   <!-- Footer -->
