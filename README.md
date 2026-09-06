@@ -15,7 +15,9 @@ Sixteen public New Mexico PDFs turned into one clean, queryable table. No templa
 
 | File | What it is |
 |------|-----------|
+| `index.html` | The published demo page, live at [brianbeals.github.io/Bob-New-Mexico](https://brianbeals.github.io/Bob-New-Mexico/). Carries the same table plus the source-document provenance list and the accessibility before/after |
 | `NM-Document-to-Data-Extraction_BB.xlsx` | Main artifact — 3 tabs: Extracted Data, Summaries, Cross-Document Signals |
+| `remediated/` | The 16 PDFs after the accessibility pass; originals in the repo root are untouched |
 | `NM-Extraction-Data.csv` | Same 16-row table as plain CSV — sortable, filterable, loadable anywhere |
 | `Demo-1-Talking-Points.md` | 2–3 minute demo script with the three findings to say out loud |
 | `Bob-Prompt-Document-to-Data.md` | The exact prompt used to generate all outputs |
@@ -51,6 +53,18 @@ Sixteen public New Mexico PDFs turned into one clean, queryable table. No templa
 | 10 | `10-Government-Advertising-Rates.pdf` | Scanned image, no text layer |
 
 These four are the only fields carrying OCR risk. Everything else is verbatim from digital text.
+
+## Accessibility pass
+
+These are New Mexico state-government records, so ADA Title II applies: 28 CFR Part 35 adopts WCAG 2.1
+Level AA for state and local government web content, PDFs included, with New Mexico's compliance date
+April 26, 2027 under the 2026 extension. Every file was graded against the machine-detectable gates (a
+real text layer, 1.1.1; structure tags, 1.3.1; a declared document language, 3.1.1), then
+auto-remediated and re-graded. OCR gave the four image-only scans a text layer, and every file got a
+declared language and corrected title metadata: non-compliant went 4 to 0, text layer 12 to 16, declared
+language 6 to 16. Structure tagging stayed at 6, because it cannot be done honestly without an authoring
+tool, so ten files remain Partial. Alt text, reading order, and contrast still need a person. Before and
+after numbers, per document, are on `index.html`.
 
 ## To regenerate the workbook
 
