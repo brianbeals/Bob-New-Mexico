@@ -56,6 +56,10 @@ These four are the only fields carrying OCR risk. Everything else is verbatim fr
 
 ## Accessibility pass
 
+This is an LRS IT Solutions demo (the byline on the live page is the LRS address). It is not
+Brian Beals, LLC work, and the remediated files below are a demonstration of what automation can
+and cannot fix, not a service offer. The LLC's accessibility practice is evaluation only.
+
 These are New Mexico state-government records, so ADA Title II applies: 28 CFR Part 35 adopts WCAG 2.1
 Level AA for state and local government web content, PDFs included, with New Mexico's compliance date
 April 26, 2027 under the 2026 extension. Every file was graded against the machine-detectable gates (a
